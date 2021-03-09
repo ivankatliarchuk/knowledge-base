@@ -1,0 +1,103 @@
+site_name: My Public Knowledge Base
+site_url: https://www.mkdocs.org
+site_description: Project documentation with Markdown.
+site_author: Ivan K
+
+# Repository
+repo_name: 'GitHub'
+edit_uri: ""
+repo_url: https://github.com/mkdocs/mkdocs/
+
+# Copyright
+copyright: '&copy; 2021 ivanka'
+
+# Configuration
+docs_dir: 'docs'
+theme:
+  name: material
+  language: en
+  palette:
+    # primary: 'light blue' # Used as the main color for the site top bar,
+                          # links, etc...
+    accent: 'deep orange' # Used as the highlight color for the site
+  icon:
+    repo: fontawesome/brands/git-alt
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - tabs
+    - tags
+    # - toc.integrate
+
+# Extensions
+markdown_extensions:
+  - meta
+  - admonition
+  - markdown.extensions.tables
+  - markdown.extensions.attr_list
+  - pymdownx.highlight
+  - pymdownx.magiclink
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.pathconverter
+  - pymdownx.critic
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - pymdownx.progressbar
+  - pymdownx.tabbed
+  - toc:
+      permalink: "#"
+
+plugins:
+  - search:
+      prebuild_index: true
+      lang:
+      - en
+  - awesome-pages:
+      collapse_single_pages: true
+  # - git-revision-date
+  # - same-dir
+  # - literate-nav:
+  #     nav_file: SUMMARY.md
+  - minify:
+      minify_html: true
+      minify_js: true
+      htmlmin_opts:
+          remove_comments: true
+
+# Customization
+extra:
+  manifest: 'manifest.json'
+  social:
+    - icon: 'fontawesome/brands/github-alt'
+      link: 'https://github.com/ivankatliarchuk'
+    - icon: fontawesome/brands/linkedin
+      link: 'https://github.com/ivankatliarchuk'
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/r/cloudkats
+
+nav:
+  - Home: index.md
+  - Education:
+    - education/index.md
+    - ... | education/*.md
+    - ... | workshops/*.md
+  - Product Management: index.md
+  - Devops: devops/index.md
+
+  - Infrastructure:
+    # - infrastructure/index.md
+    - Clouds: subpage1.md
+    - Kubernetes: k8s/index.md
+  - Tools:
+    - K8S: tools/k8s.md
+    - CICD: tools/cicd.md

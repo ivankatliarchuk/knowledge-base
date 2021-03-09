@@ -12,6 +12,7 @@ help:
 
 shell: ## Python environment
 	@pipenv shell
+	@pipenv sync
 	@pipenv install
 
 hooks: ## Setup pre commit.
@@ -21,3 +22,7 @@ hooks: ## Setup pre commit.
 
 validate: ## Validate files with pre-commit hooks
 	@pre-commit run --all-files
+
+start: ## Start it
+	@mkdocs serve
+	# @open "http://127.0.0.1:8000"

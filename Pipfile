@@ -5,9 +5,18 @@ verify_ssl = true
 
 [dev-packages]
 autopep8 = "*"
+mkdocs = "*"
+mkdocs-material = "*"
+mkdocs-monorepo-plugin = "*"
+mkdocs-minify-plugin = "*"
+mkdocs-redirects = "*"
+# git-revision-date = "*"
+# mkdocs-literate-nav = "*"
+mkdocs-same-dir = "*"
+mkdocs-awesome-pages-plugin = "*"
+pymdown-extensions = "*"
 
 [packages]
-mkdocs = "*"
 
 [requires]
 python_version = "3.9"
