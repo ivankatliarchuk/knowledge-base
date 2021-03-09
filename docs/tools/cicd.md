@@ -1,5 +1,5 @@
 ---
-title: CICD tooling
+title: cicd tooling
 summary: Tools related to
 authors: ["Ivan Ka"]
 tags: ["tools", "cicd"]

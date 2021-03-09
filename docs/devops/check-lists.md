@@ -13,3 +13,4 @@ published: true
     A curated checklist of best practices designed to help you release to production
 
 - [Kubernets Production Best Practices](https://learnk8s.io/production-best-practices)
+- [DevSecOps Checklist](https://www.sqreen.com/checklists/devops-security-checklist)
