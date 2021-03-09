@@ -42,13 +42,19 @@ markdown_extensions:
   - meta
   - admonition
   - markdown.extensions.tables
-  - markdown.extensions.attr_list
+  - attr_list
+  - def_list
   - pymdownx.highlight
-  - pymdownx.magiclink
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
   - pymdownx.superfences
   - pymdownx.details
   - pymdownx.pathconverter
   - pymdownx.critic
+  - pymdownx.betterem:
+      smart_enable: all
   - pymdownx.tasklist:
       custom_checkbox: true
       clickable_checkbox: true
@@ -92,12 +98,10 @@ nav:
     - ... | education/*.md
     - ... | workshops/*.md
   - Product Management: index.md
-  - Devops: devops/index.md
-
+  - Devops:
+    - ... | devops/*.md
   - Infrastructure:
-    # - infrastructure/index.md
     - Clouds: subpage1.md
     - Kubernetes: k8s/index.md
   - Tools:
-    - K8S: tools/k8s.md
-    - CICD: tools/cicd.md
+    - ... | tools/*.md
