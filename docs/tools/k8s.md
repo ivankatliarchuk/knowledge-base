@@ -15,6 +15,7 @@ published: true
 
 ## Cluster Management/Dashboards
 
+- [Thanos](https://github.com/thanos-io/thanos)
 - [DevSpace](https://devspace.cloud/)
 - [Kontena Dashboard](https://www.kontena.io/)
 - [Weave Scope Dashboard](https://github.com/weaveworks/scope)
@@ -25,6 +26,15 @@ published: true
 - [Octant Dashboard](https://github.com/vmware-tanzu/octant)
 - [Pre Scaler](https://github.com/microsoft/k8s-cronjob-prescaler)
 - [Node Problem Detector](https://github.com/kubernetes/node-problem-detector/blob/master/README.md)
+- [GKE Monitoring](https://github.com/ik-kubernetes/gke-monitoring-tutorial)
+- [Kubricks](https://github.com/kubricksllc/Kubricks)
+- [Loghous/Papertrail](https://github.com/flant/loghouse)
+
+## Logging & Monitoring command liners
+
+- [Kube Dog. Monitor resoruces in cluster](https://github.com/flant/kubedog)
+- [Stern Logs. Really Good](https://github.com/wercker/stern)
+- [Kail](https://github.com/boz/kail)
 
 ### Kubernetes Visualisers
 
@@ -47,6 +57,12 @@ published: true
 - [Fluent Bit](https://hub.helm.sh/charts/aws/aws-for-fluent-bit)
 - [VPC CNI](https://hub.helm.sh/charts/aws/aws-vpc-cni)
 
+## Diagnostics
+
+- [Sonobuoy](https://github.com/vmware-tanzu/sonobuoy)
+- [Jetstak Preflight](https://github.com/jetstack/preflight)
+- [KuberHealthy](https://github.com/Comcast/kuberhealthy)
+
 ## Security
 
 - [Sanitize Manifests](https://github.com/ik-kubernetes/popeye)
@@ -64,6 +80,11 @@ published: true
 - [Polaris](https://github.com/FairwindsOps/polaris)
 - [StarBoard](https://github.com/aquasecurity/starboard)
 - [Kubernets Inspector](https://github.com/kinvolk/inspektor-gadget)
+
+### RBAC
+
+- [Permission Manager](https://github.com/sighupio/permission-manager)
+- [Krane](https://github.com/appvia/krane)
 
 #### Keycloack
 
@@ -94,3 +115,26 @@ published: true
 - [GiantSwarm](https://www.giantswarm.io/)
 - [OneInfra](https://github.com/ik-kubernetes/oneinfra)
 - [Krucible](https://usekrucible.com/plans)
+
+## Development
+
+- [Transfer App To local machine. Telepresence](https://www.telepresence.io/)
+- [Update Container from Local. KSync](https://vapor-ware.github.io/ksync/)
+- [Debug Apps. KubectlDebug](https://github.com/aylei/kubectl-debug)
+- [Debug. Squash](https://squash.solo.io/)
+- [Sync](https://github.com/ksync/ksync)
+
+## Deployments
+
+- [KubeCFG](https://github.com/bitnami/kubecfg)
+- [Kustomize](https://github.com/kubernetes-sigs/kustomize)
+- [Kaptan](https://github.com/deepmind/kapitan)
+
+## Multi Cloud
+
+- [Crossplane](https://github.com/crossplane/crossplane)
+
+## Quality
+
+- [Check Deprecation](https://github.com/FairwindsOps/pluto)
+- [Clister Lint](https://github.com/digitalocean/clusterlint)
