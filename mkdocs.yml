@@ -97,9 +97,11 @@ nav:
     - education/index.md
     - ... | education/*.md
     - ... | workshops/*.md
-  - Product Management: index.md
+  - Management: index.md
   - Devops:
     - ... | devops/*.md
+    - Architecture-Notes:
+      - ... | devops/architecture-notes/*.md
   - Infrastructure:
     - Clouds: subpage1.md
     - Kubernetes: k8s/index.md

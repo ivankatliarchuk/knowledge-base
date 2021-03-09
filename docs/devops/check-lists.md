@@ -1,5 +1,5 @@
 ---
-title: Arcthitecture & Best Practices
+title: Product Readiness Check lists
 summary: check list of areas to follow
 authors:
 - Ivan Ka
