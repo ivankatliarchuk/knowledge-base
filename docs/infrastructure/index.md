@@ -9,7 +9,4 @@ some_url:
 published: true
 ---
 
-#  Workshops
-
-This is the first paragraph of the document.
 

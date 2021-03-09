@@ -8,17 +8,18 @@ some_url:
 published: true
 ---
 
-- [Istio](https://github.com/ik-kubernetes/istio-workshop)
-- [Kubernetes Course](https://github.com/wardviaene/kubernetes-course)
-- [Introduction](https://kumorilabs.com/blog/k8s-0-introduction-blog-series-kubernetes/)
-- [Kubernetes](https://github.com/eon01/kubernetes-workshop)
-- [Keycloak Traefik](https://github.com/ibuetler/docker-keycloak-traefik-workshop)
-- [Play With Kubernetes](https://labs.play-with-k8s.com/)
+- [ ] [Istio](https://github.com/ik-kubernetes/istio-workshop)
+- [ ] [Kubernetes Course](https://github.com/wardviaene/kubernetes-course)
+- [ ] [Introduction](https://kumorilabs.com/blog/k8s-0-introduction-blog-series-kubernetes/)
+- [ ] [Kubernetes](https://github.com/eon01/kubernetes-workshop)
+- [ ] [Keycloak Traefik](https://github.com/ibuetler/docker-keycloak-traefik-workshop)
+- [ ] [Play With Kubernetes](https://labs.play-with-k8s.com/)
 
 ## AWS EKS
 
 - [ ] [EKS Workshop](https://eksworkshop.com/)
 - [ ] [AWS](https://github.com/aws-samples/aws-workshop-for-kubernetes)
+- [ ] [Kubernets Lab](https://github.com/ik-workshop/k8s-lab)
 
 ## GCP K8s Workshops
 

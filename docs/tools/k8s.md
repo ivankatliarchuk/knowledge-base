@@ -1,14 +1,17 @@
 ---
-title: Infrastructure
-summary: Infrastructure related stuff is here.
+title: k8s tooling
+summary: Kubernetes tooling
 authors:
-    - Ivan Ka
-tags: ["tools", "k8s", "kubernetes"]
+- Ivan Ka
+tags: ["tools", "k8s", "kubernetes", "k8s"]
 date: 2021-03-8
 some_url:
 published: true
 ---
 
+## Workflow and Automation
+
+- [KubeSeco Framework](https://github.com/appsecco/kubeseco)
 
 ## Cluster Management/Dashboards
 
@@ -51,13 +54,11 @@ published: true
 - [Kube Bench](https://github.com/aquasecurity/kube-bench)
 - [Security.info](https://kubernetes-security.info/)
 - [TwistLock](https://www.twistlock.com/2018/06/21/securing-istio-twistlock/)
-- [KubeSeco Framework](https://github.com/appsecco/kubeseco)
-- [Docs Security](https://github.com/ik-security/k8s-security)
 - [Kritis Supply Chain Software](https://github.com/grafeas/kritis)
 - [Kubernetes Rules](https://github.com/circa10a/k8s-label-rules-webhook)
 - [Scans live Kubernetes](https://github.com/derailed/popeye)
 - [Kuberntes Inspection MKIT](https://github.com/darkbitio/mkit)
-- [Policy Management](gatekeeper-policy-manager)
+- [Policy Management](https://github.com/open-policy-agent/gatekeeper)
 - [Kubi Scanner](https://github.com/cyberark/KubiScan)
 - [Kube Scan](https://github.com/octarinesec/kube-scan)
 - [Polaris](https://github.com/FairwindsOps/polaris)
