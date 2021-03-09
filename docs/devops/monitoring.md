@@ -10,6 +10,7 @@ published: true
 
 ## Monitoring Articles
 
+- [Monitoring in Monzo](https://monzo.com/blog/2018/07/27/how-we-monitor-monzo)
 - [Sparta Grafana Serverless Monitoring @article](https://medium.com/@mweagle/spartagrafana-serverless-monitoring-f86ca6da79ed)
 
 ## Status Pages
