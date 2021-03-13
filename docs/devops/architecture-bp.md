@@ -15,5 +15,10 @@ published: true
 
 ## Best Practices
 
-- [Docs Security](https://github.com/ik-security/k8s-security)
-- [K8s Resource limits](https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-resource-requests-and-limits)
+??? summary "K8s Resource limits"
+    [K8s Resource limits][1]
+    Kubernetes best practices: Resource requests and limits
+
+
+[1]: https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-resource-requests-and-limits
+

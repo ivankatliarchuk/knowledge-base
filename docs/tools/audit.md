@@ -12,15 +12,15 @@ published: true
 
 ## Audit tooling for different clouds
 
-!!! summary "Cloud Security Suite **aws,gcp,azure**"
+??? summary "Cloud Security Suite **aws,gcp,azure**"
     [Cloud Security Suite][1]
     one stop tool for auditing the security posture of AWS/GCP/Azure infrastructure.
 
-!!! summary "Prowler **aws**"
+??? summary "Prowler **aws**"
     [Prowler][2]
     is a command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
 
-!!! summary "CS Suite **aws**"
+??? summary "CS Suite **aws**"
     [CloudTracker][3]
     helps you find over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies.
 
