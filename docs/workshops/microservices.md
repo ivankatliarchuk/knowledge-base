@@ -1,7 +1,7 @@
 ---
 title: microservices
 summary: microservices workshops
-authors: ["Ivan Ka"]
+author: "Ivan K"
 tags: ["workshop", "k8s", "microservices", "architecture"]
 date: 2021-03-08
 some_url:

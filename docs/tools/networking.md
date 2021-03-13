@@ -2,7 +2,7 @@
 title: networking
 summary: network tooling
 authors:
-- Ivan Ka
+- Ivan K
 tags: ["tools", "network", "tcp", "dns"]
 date: 2021-03-8
 published: true

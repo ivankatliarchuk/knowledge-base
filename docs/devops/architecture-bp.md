@@ -2,7 +2,7 @@
 title: Arcthitecture & Best Practices
 summary: Architecture and Best Practices
 authors:
-- Ivan Ka
+- Ivan K
 tags: ["architecture", "best practices"]
 date: 2021-03-8
 some_url:

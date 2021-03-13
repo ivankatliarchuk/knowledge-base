@@ -1,7 +1,7 @@
 ---
 title: markdown tricks
 summary: markdown
-authors: ["Ivan Ka"]
+authors: ["Ivan K"]
 tags: ["markdown", "md"]
 date: 2021-03-08
 some_url:
@@ -63,6 +63,9 @@ published: true
 
     ??? danger "Nested details!"
         And more content again.
+
+!!! summary "some summary"
+    This is summary
 
 ---
 

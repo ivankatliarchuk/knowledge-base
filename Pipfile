@@ -15,6 +15,8 @@ mkdocs-redirects = "*"
 mkdocs-same-dir = "*"
 mkdocs-awesome-pages-plugin = "*"
 pymdown-extensions = "*"
+mkdocs-pdf-export-plugin = "*"
+mkdocs-autolinks-plugin = "*"
 
 [packages]
 

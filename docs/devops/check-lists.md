@@ -2,7 +2,7 @@
 title: Product Readiness Check lists
 summary: check list of areas to follow
 authors:
-- Ivan Ka
+- Ivan K
 tags: ["architecture", "best practices", "checkbox", "production"]
 date: 2021-03-8
 some_url:

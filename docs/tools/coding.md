@@ -2,7 +2,7 @@
 title: coding tooling
 summary: Coding
 authors:
-- Ivan Ka
+- Ivan K
 tags: ["tools", "code", "coding"]
 date: 2021-03-8
 published: true

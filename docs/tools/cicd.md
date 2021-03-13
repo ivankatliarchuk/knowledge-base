@@ -1,7 +1,7 @@
 ---
 title: cicd tooling
 summary: Tools related to
-authors: ["Ivan Ka"]
+authors: ["Ivan K"]
 tags: ["tools", "cicd"]
 date: 2021-03-08
 some_url:

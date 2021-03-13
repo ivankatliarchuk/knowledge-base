@@ -2,7 +2,7 @@
 title: helm tooling
 summary: Helm charts&tooling
 authors:
-- Ivan Ka
+- Ivan K
 tags: ["tools", "k8s", "helm", "charts"]
 date: 2021-03-8
 some_url:

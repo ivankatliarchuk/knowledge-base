@@ -70,6 +70,8 @@ plugins:
       - en
   - awesome-pages:
       collapse_single_pages: true
+  - autolinks
+  # - pdf-export
   # - git-revision-date
   # - same-dir
   # - literate-nav:
@@ -97,7 +99,11 @@ nav:
     - education/index.md
     - ... | education/*.md
     - ... | workshops/*.md
-  - Management: index.md
+  - Management:
+    - Product:
+      - ... | management/product/*.md
+    - People:
+      - ... | management/people/*.md
   - Devops:
     - ... | devops/*.md
     - Architecture-Notes:

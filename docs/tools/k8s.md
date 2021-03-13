@@ -2,7 +2,7 @@
 title: k8s tooling
 summary: Kubernetes tooling
 authors:
-- Ivan Ka
+- Ivan K
 tags: ["tools", "k8s", "kubernetes", "k8s"]
 date: 2021-03-8
 some_url:
