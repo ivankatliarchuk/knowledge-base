@@ -92,10 +92,12 @@ extra:
       link: 'https://github.com/ivankatliarchuk'
     - icon: fontawesome/brands/docker
       link: https://hub.docker.com/r/cloudkats
+    - icon: fontawesome/brands/hackerrank
+      link: https://www.hackerrank.com/tanzwud
 
 nav:
   - Home: index.md
-  - Blogs:
+  - Blogs&Articles:
     - ... | blogs/*.md
   - Education:
     - education/index.md
