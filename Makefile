@@ -26,3 +26,6 @@ validate: ## Validate files with pre-commit hooks
 start: ## Start it
 	@mkdocs serve
 	# @open "http://127.0.0.1:8000"
+
+requirements: ## Generate requirements.txt
+	@pipenv run pip freeze > requirements.txt
