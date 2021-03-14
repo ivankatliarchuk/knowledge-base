@@ -39,6 +39,7 @@ published: true
 - [Helm Chart](https://github.com/helm/charts-repo-actions-demo/)
 - [Super Linter](https://github.com/github/super-linter)
 - [Github Pages Actions](https://github.com/peaceiris/actions-gh-pages.git)
+- [Setup Python git action](https://github.com/actions/setup-python)
 
 ## Git Ignore
 
