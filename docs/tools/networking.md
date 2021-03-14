@@ -9,7 +9,8 @@ published: true
 ---
 
 !!! note "tcp ip udp"
-    All source of tooling
+    All sorts of networking tooling
 
-- [Duck DNS](https://www.duckdns.org/why.jsp)
-- [Free DNS](https://freedns.afraid.org/)
+- [Duck DNS: free dynamic DNS](https://www.duckdns.org/why.jsp){:target="_blank"}
+- [Free DNS: static DNS subdomain and domain hosting](https://freedns.afraid.org){:target="_blank"}
+- [Reverse IP: reverse IP Lookup tool will show you all of the domains currently hosted](http://reverseip.domaintools.com){:target="_blank"}

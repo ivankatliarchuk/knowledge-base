@@ -11,6 +11,11 @@ published: true
 ## Reference Architecture (RE)
 
 - [ECS: RE for creating a flexible and scalable deployment pipeline. aws,ecs,code pipeline][ecs-ref-architecture]{:target="_blank"}
+- [Services Blueprints](https://www.nngroup.com/articles/service-blueprints-definition){:target="_blank"}
+
+## Operational Control
+
+- [GitOps Controll](https://www.weave.works/use-cases/security-with-gitops)
 
 <!-- resources -->
 [ecs-ref-architecture]: https://github.com/awslabs/ecs-refarch-continuous-deployment

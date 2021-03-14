@@ -13,6 +13,10 @@ published: true
 - [Brandmark: Kickstart your brand with business card designs and more][brandmark]{:target="_blank"}
 - [Fiver: desing any logo][fiver]{:target="_blank"}
 
+## Company tooling
+
+- [Technology stack diagram generator](https://digital.ai/dev-ops-diagram-generator){:target="_blank"}
+
 <!-- resources -->
 
 [namelix]: https://namelix.com
