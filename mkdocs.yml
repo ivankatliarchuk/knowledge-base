@@ -95,6 +95,8 @@ extra:
 
 nav:
   - Home: index.md
+  - Blogs:
+    - ... | blogs/*.md
   - Education:
     - education/index.md
     - ... | education/*.md
