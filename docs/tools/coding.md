@@ -13,5 +13,8 @@ published: true
 !!! note "code reviewers"
     Provides a way to post review comments to code hosting service
 
-- [Review Dog](https://github.com/reviewdog/reviewdog)
+<!-- resources -->
 
+- [Review Dog: ][review-dog]{:target="_blank"}
+
+[review-dog]: https://github.com/reviewdog/reviewdog

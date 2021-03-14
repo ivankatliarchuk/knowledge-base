@@ -100,7 +100,6 @@ nav:
   - Blogs&Articles:
     - ... | blogs/*.md
   - Education:
-    - education/index.md
     - ... | education/*.md
     - ... | workshops/*.md
   - Management:

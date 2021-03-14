@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/issues/ivankatliarchuk/knowledge-base)
 [![](https://img.shields.io/github/languages/code-size/ivankatliarchuk/knowledge-base)](https://github.com/ivankatliarchuk/knowledge-base)
 [![](https://img.shields.io/github/repo-size/ivankatliarchuk/knowledge-base)](https://github.com/ivankatliarchuk/knowledge-base)
-![](https://img.shields.io/github/languages/top/ivankatliarchuk/knowledge-base?color=green&logo=terraform&logoColor=blue)
+![](https://img.shields.io/github/languages/top/ivankatliarchuk/knowledge-base?color=green&logo=markdown&logoColor=blue)
 
 
 [MkDocs url for the repository][base-url]
