@@ -1,10 +1,9 @@
 ---
 title: k8s tooling
 summary: Kubernetes tooling
-authors:
-- Ivan K
+authors: ["Ivan K"]
 tags: ["tools", "k8s", "kubernetes", "k8s"]
-date: 2021-03-8
+date: 2021-03-08
 some_url:
 published: true
 ---
@@ -80,6 +79,13 @@ published: true
 - [Polaris](https://github.com/FairwindsOps/polaris)
 - [StarBoard](https://github.com/aquasecurity/starboard)
 - [Kubernets Inspector](https://github.com/kinvolk/inspektor-gadget)
+- [Docker Bench](https://github.com/docker/docker-bench-security)
+- [K8s guard: Kubernetes Authentication & Authorization WebHook Server](https://github.com/appscode/guard)
+
+### Pod Security
+
+- [Seccomp](https://kubesec.io/basics/metadata-annotations-seccomp-security-alpha-kubernetes-io-pod)
+- [AppArmor](https://kubernetes.io/docs/tutorials/clusters/apparmor/)
 
 ### RBAC
 
