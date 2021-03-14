@@ -111,8 +111,7 @@ nav:
     - ... | devops/*.md
     - Architecture-Notes:
       - ... | devops/architecture-notes/*.md
-  - Infrastructure:
-    - Clouds: subpage1.md
-    - Kubernetes: k8s/index.md
+    - Infrastructure:
+      - ... | devops/infrastructure/*.md
   - Tools:
     - ... | tools/*.md
