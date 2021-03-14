@@ -13,14 +13,14 @@ published: true
 ## Audit tooling for different clouds
 
 ??? summary "Cloud Security Suite"
-    [Cloud Security Suite][1]
+    [Cloud Security Suite][1]{:target="_blank"}
     one stop tool for auditing the security posture of AWS/GCP/Azure infrastructure.
     ???+ warning "meta"
         : lanugage **Python**
         : clouds **aws,gcp,azure**
 
 ??? summary "Prowler"
-    [Prowler][2]
+    [Prowler][2]{:target="_blank"}
     is a command line tool for AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool.
     ???+ warning "meta"
         : lanugage **Python**
