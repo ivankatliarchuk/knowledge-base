@@ -1,9 +1,8 @@
 ---
 title: Product Readiness Check lists
 summary: check list of areas to follow
-authors:
-- Ivan K
-tags: ["architecture", "best practices", "checkbox", "production"]
+authors: ["Ivan K"]
+tags: ["architecture", "best practices", "checkbox", "production", "todo"]
 date: 2021-03-8
 some_url:
 published: true
@@ -12,5 +11,19 @@ published: true
 !!! note "Lists with Best Practices to Follow"
     A curated checklist of best practices designed to help you release to production
 
-- [Kubernets Production Best Practices](https://learnk8s.io/production-best-practices)
-- [DevSecOps Checklist](https://www.sqreen.com/checklists/devops-security-checklist)
+!!! danger "should replicate them on single place"
+
+- [Terragrunt Release Readiness](https://www.gruntwork.io/devops-checklist/){:target=_blank}
+- [Oreily Readiness](https://learning.oreilly.com/library/view/production-ready-microservices/9781491965962/app01.html){:target=_blank}
+- [Sysadmins/DevOps Launch Checklist](https://sysadmincasts.com/episodes/70-devops-launch-checklist){:target=_blank}
+- [Kubernets Production best practices](https://learnk8s.io/production-best-practices){:target=_blank}
+- [DevOps security checklist](https://www.sqreen.com/checklists/devops-security-checklist){:target=_blank}
+- [Logging Readiness](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html){:target=_blank}
+- [Google Lunch Checklist](https://cloud.google.com/docs/platform-launch-checklist){:target=_blank}
+- [Google Peak Season Readiness](https://cloud.google.com/solutions/black-friday-production-readiness){:target=_blank}
+
+## Code of Conduct
+
+- [Gruntwork Code of Conduct][gruntwork-toc]{:target=_blank}
+
+[gruntwork-toc]: https://github.com/gruntwork-io/toc

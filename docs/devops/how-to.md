@@ -1,5 +1,5 @@
 ---
-title: How-To
+title: how to
 summary: How to setup stuff
 authors:
 - Ivan K
