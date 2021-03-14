@@ -1,12 +1,15 @@
 ---
 title: Infrastructure
 summary: Infrastructure related stuff is here.
-authors:
-    - Ivan K
-tags: ["test"]
-date: 2018-07-10
+authors: ["Ivan K"]
+tags: ["infrastructure", "host", "hosting", "website"]
+date: 2021-03-14
 some_url:
 published: true
 ---
 
+## Platforms to host a webiste
 
+- [Render: a unified platform to build and run apps or websites](https://render.com){:target="_blank"}
+- [Strapi: enabled content rich expirience to be creted and exposed](https://strapi.io)
+- [TurnKey: cloud servers and backup](https://hub.turnkeylinux.org)
