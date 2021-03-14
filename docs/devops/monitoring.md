@@ -1,5 +1,5 @@
 ---
-title: Monitoring
+title: monitoring
 summary: Monitoring Services and Best Practices
 authors:
 - Ivan K
@@ -18,15 +18,14 @@ published: true
 !!! note "status page"
     Statuspage is the communication piece of your incident management process. Keep users in the loop from 'investigating' through 'resolved'. Statuspage integrates with your favorite monitoring, alerting, chat, and help desk tools for efficient response every time.
 
-- [Lambda status Page](https://github.com/ks888/LambStatus)
-- [Awesome Status Pages](https://github.com/ivankatliarchuk/awesome-status-pages?organization=ivankatliarchuk&organization=ivankatliarchuk)
-- [Statusfy](https://github.com/ik-monitoring/statusfy)
-- [Vimeo](https://www.vimeostatus.com/)
-- [Kardio](https://opensource.t-mobile.com/blog/posts/introducing-kardio/)
-- [Cachet](https://github.com/CachetHQ/Cachet)
-- [Updown](https://updown.io/credits)
-- [StatusKit](https://statuskit.com/)
-- [Atlassian Status Pages](https://www.statuspage.io/)
+- [Lambda status Page](https://github.com/ks888/LambStatus){:target="_blank"}
+- [Statusfy](https://github.com/ik-monitoring/statusfy){:target="_blank"}
+- [Vimeo](https://www.vimeostatus.com/){:target="_blank"}
+- [Kardio](https://opensource.t-mobile.com/blog/posts/introducing-kardio/){:target="_blank"}
+- [Cachet](https://github.com/CachetHQ/Cachet){:target="_blank"}
+- [Updown](https://updown.io/credits){:target="_blank"}
+- [StatusKit](https://statuskit.com/){:target="_blank"}
+- [Atlassian Status Pages](https://www.statuspage.io/){:target="_blank"}
 
 ## Endpoint Alerts
 
@@ -42,4 +41,9 @@ published: true
 !!! note "site screenshots"
     Capture screenshots of websites in various resolutions. A good way to make sure your websites are responsive.
 
-- [Pageres](https://github.com/sindresorhus/pageres/blob/master/readme.md)
+- [Pageres](https://github.com/sindresorhus/pageres/blob/master/readme.md){:target="_blank"}
+
+
+## Resources
+
+- [Awesome](awesome.md){:target="_blank"}

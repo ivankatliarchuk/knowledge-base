@@ -1,0 +1,16 @@
+---
+title: reference architecture
+summary: A reference architecture in the field of software architecture or enterprise architecture provides a template solution for an architecture for a particular domain.
+authors: ["Ivan K"]
+tags: ["architecture", "design", "system", "data"]
+date: 2021-03-8
+some_url:
+published: true
+---
+
+## Reference Architecture (RE)
+
+- [ECS: RE for creating a flexible and scalable deployment pipeline. aws,ecs,code pipeline][ecs-ref-architecture]{:target="_blank"}
+
+<!-- resources -->
+[ecs-ref-architecture]: https://github.com/awslabs/ecs-refarch-continuous-deployment
