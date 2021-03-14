@@ -10,13 +10,12 @@ published: true
 !!! note "Arcthitecture & Best Practices"
     This is a collection of architecture and security stuff, research and best practices.
 
-
 ## Best Practices
 
 ??? summary "K8s Resource limits"
-    [K8s Resource limits][1]
+    [K8s Resource limits][k8s-resource-limits]{:target=_blank}
     Kubernetes best practices: Resource requests and limits
 
 
-[1]: https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-resource-requests-and-limits
+[k8s-resource-limits]: https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-resource-requests-and-limits
 

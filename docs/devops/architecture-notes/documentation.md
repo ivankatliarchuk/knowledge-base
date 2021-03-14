@@ -17,10 +17,18 @@ published: true
 - [K8s Monitoring](https://www.datadoghq.com/blog/eks-cluster-metrics/){:target="_blank"}
 - [Mozilla Architecture Document](https://wiki.mozilla.org/Community_Ops/PaaS){:target="_blank"}
 - [Example Terraform project document](https://github.com/mozilla/partinfra-terraform){:target="_blank"}
-- [CloudSecDocs](https://cloudsecdocs.com){:target="_blank"}
 - [ASP Net Docs](https://aspnetcore.readthedocs.io/en/stable/intro.html){:target="_blank"}
 - [EKSCTL Docs](https://eksctl.io/usage/creating-and-managing-clusters/)
 - [Cloud Security Docs](https://cloudsecdocs.com/){:target="_blank"}
+- [Docsify](https://docsify.js.org){:target="_blank"}
+- [Cloud Cannot](https://cloudcannon.com){:target="_blank"}
+- [MkDocs](https://www.mkdocs.org){:target="_blank"}
+- [Cloud Gov Docs](https://cloud.gov/docs){:target="_blank"}
+- [BoolKist](https://vito.github.io/booklit){:target="_blank"}
+- [Docusaurus](https://docusaurus.io){:target="_blank"}
+- [DocUtils](https://pypi.org/project/docutils){:target="_blank"}
+- [ReadTheDocs](https://readthedocs.org){:target="_blank"}
+- [Development Docs Gov.uk](https://docs.publishing.service.gov.uk){:target="_blank"}
 
 ## Git Ops Architecture
 
