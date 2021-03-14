@@ -7,6 +7,7 @@ source: https://www.netmeister.org/blog/ops-lessons.html
 author: net meister
 ---
 
+[(A few) Ops Lessons We All Learn The Hard Way](https://www.netmeister.org/blog/ops-lessons.html){:target="_blank"}
 
 1.  Email is the worst monitoring and alerting mechanism except for all the others.
 1.  Absence of a signal is itself a signal.
@@ -14,7 +15,7 @@ author: net meister
 1.  The mobile hotspot you're paying for so you can leave your house while you're oncall only works at home and in the office.
 1.  The only other person who knows how this works is also on vacation.
 1.  If a post-mortem follow-up task is not picked up within a week, it's unlikely to be completed at all.
-1.  That janky script you put together during the outage -- the one that uses expect(1) and 'ssh -t -t' -- now is the foundation of the entire team's toolchest.
+1.  That janky script you put together during the outage -- the one that uses `expect(1)` and `ssh -t -t` -- now is the foundation of the entire team's toolchest.
 1.  NTP being off may not be a root cause, but it sure didn't help.
 1.  [UTC or GTFO](https://teespring.com/utc-or-gtfo).
 1.  Your infrastructure uses a lot more self-signed certificates than you think. A _lot_ more. In places that make you weep.
@@ -44,7 +45,7 @@ author: net meister
 1.  A search for a document you know exists will only turn up links to documents referencing _but not actually linking to_ the one you're looking for.
 1.  The document you're looking for was marked as obsolete and not migrated to the new content management solution.
 1.  ![Connected hot water pipes.](https://www.netmeister.org/blog/images/hot-water-pipes.jpg "Illustration of ssh port forwarding.")Sure, your current content management system sucks, but it's still better than the one you're moving to.
-1.  Nobody knows how git works; everybody simply rm -fr && git checkout's periodically.
+1.  Nobody knows how git works; everybody simply `rm -fr && git` checkout's periodically.
 1.  There are very few network restrictions creative and determined use of ssh(1) port forwarding can't overcome.
 1.  This is both incredibly useful and concerning.
 1.  It is tempting to jump right into implementing a solution when the right thing may well be to not do the thing that requires the solution in the first place.
