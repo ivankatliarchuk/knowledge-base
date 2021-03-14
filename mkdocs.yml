@@ -109,7 +109,9 @@ nav:
       - ... | management/people/*.md
   - Devops:
     - ... | devops/*.md
-    - Architecture-Notes:
+    - Readiness Lists:
+      - ... | devops/check-lists/*.md
+    - Architecture Notes:
       - ... | devops/architecture-notes/*.md
     - Infrastructure:
       - ... | devops/infrastructure/*.md

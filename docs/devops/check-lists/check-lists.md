@@ -1,5 +1,5 @@
 ---
-title: Product Readiness Check lists
+title: Product Readiness lists
 summary: check list of areas to follow
 authors: ["Ivan K"]
 tags: ["architecture", "best practices", "checkbox", "production", "todo"]
