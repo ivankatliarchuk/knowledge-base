@@ -1,8 +1,7 @@
 ---
 title: monitoring
 summary: Monitoring Services and Best Practices
-authors:
-- Ivan K
+authors: ["Ivan K"]
 tags: ["architecture", "devops", "monitoring", "article"]
 date: 2021-03-8
 published: true
