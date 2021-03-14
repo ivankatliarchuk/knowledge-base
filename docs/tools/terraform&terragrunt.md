@@ -15,6 +15,7 @@ published: true
 - [Terrahelp](https://github.com/opencredo/terrahelp){:target="_blank"}
 - [Terracogniate: read from cloud and generate Terraform code](https://github.com/cycloidio/terracognita){:target="_blank"}
 - [Terraform Landscape: improve Terraform's plan output to be easier to read and understand][terr-landscape]{:target="_blank"}
+- [Terraspace: provides an organized structure, conventions over configurations, keeps your code DRY](https://terraspace.cloud/){:target="_blank"}
 
 ## Testing
 
