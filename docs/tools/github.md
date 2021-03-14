@@ -27,24 +27,26 @@ published: true
 
 ## Github Actions
 
-- [Table Of Contents](https://github.com/genuinetools/bane/blob/master/.github/workflows/toc.yml)
-- [Slash Command](https://github.com/marketplace/actions/slash-command-dispatch)
-- [AutoAssign](https://github.com/marketplace/actions/auto-assign-action)
-- [HomeBrewTap](https://github.com/marketplace/actions/homebrew-tap)
-- [HomewBrew](https://github.com/mislav/bump-homebrew-formula-action)
-- [Dockerhub Description](https://github.com/peter-evans/dockerhub-description)
-- [Docker Push](https://github.com/docker/build-push-action)
-- [Reuse actions](https://github.com/fsfe/reuse-action)
-- [Upload Artifact](https://github.com/actions/upload-artifact)
-- [Helm Chart](https://github.com/helm/charts-repo-actions-demo/)
-- [Super Linter](https://github.com/github/super-linter)
-- [Github Pages Actions](https://github.com/peaceiris/actions-gh-pages.git)
-- [Setup Python git action](https://github.com/actions/setup-python)
+- [Table Of Contents](https://github.com/genuinetools/bane/blob/master/.github/workflows/toc.yml){:target="_blank"}
+- [Slash Command](https://github.com/marketplace/actions/slash-command-dispatch){:target="_blank"}
+- [AutoAssign](https://github.com/marketplace/actions/auto-assign-action){:target="_blank"}
+- [HomeBrewTap](https://github.com/marketplace/actions/homebrew-tap){:target="_blank"}
+- [HomewBrew](https://github.com/mislav/bump-homebrew-formula-action){:target="_blank"}
+- [Dockerhub Description](https://github.com/peter-evans/dockerhub-description){:target="_blank"}
+- [Docker Push](https://github.com/docker/build-push-action){:target="_blank"}
+- [Reuse actions](https://github.com/fsfe/reuse-action){:target="_blank"}
+- [Upload Artifact](https://github.com/actions/upload-artifact){:target="_blank"}
+- [Helm Chart](https://github.com/helm/charts-repo-actions-demo){:target="_blank"}
+- [Super Linter](https://github.com/github/super-linter){:target="_blank"}
+- [Github Pages Actions](https://github.com/peaceiris/actions-gh-pages.git){:target="_blank"}
+- [Setup Python git action](https://github.com/actions/setup-python){:target="_blank"}
+- [k8d action: to run lightweight ephemeral Kubernetes clusters during workflow](https://github.com/AbsaOSS/k3d-action){:target="_blank"}
+- [serverless actions](https://github.com/lambci/serverless-actions){:target="_blank"}
 
 ## Git Ignore
 
-- [Gitignore toptail](https://www.toptal.com/developers/gitignore)
-- [Gitignore github](https://github.com/github/gitignore)
+- [Gitignore toptail](https://www.toptal.com/developers/gitignore){:target="_blank"}
+- [Gitignore github](https://github.com/github/gitignore){:target="_blank"}
 
 [probot]: https://github.com/probot/settings
 [git-hub]: https://hub.github.com/

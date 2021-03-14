@@ -1,6 +1,6 @@
 ---
 title: coding tooling
-summary: Coding
+summary: Tools related to code review and quality
 authors:
 - Ivan K
 tags: ["tools", "code", "coding"]
@@ -16,5 +16,6 @@ published: true
 <!-- resources -->
 
 - [Review Dog: ][review-dog]{:target="_blank"}
+- [Danger: automate common code review chores(js,ruby,swift,python)](https://danger.systems){:target="_blank"}
 
 [review-dog]: https://github.com/reviewdog/reviewdog
