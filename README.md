@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/github/workflow/status/ivankatliarchuk/knowledge-base/github-pages-deploy/master)](https://github.com/ivankatliarchuk/knowledge-base/actions?query=is%3Acompleted)
 
-[URL][base-url]
+[MkDocs url for the repository][base-url]
 
 My public Knowledge repository.
 
