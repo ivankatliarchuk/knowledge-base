@@ -11,5 +11,6 @@ published: true
 ## Platforms to host a webiste
 
 - [Render: a unified platform to build and run apps or websites](https://render.com){:target="_blank"}
-- [Strapi: enabled content rich expirience to be creted and exposed](https://strapi.io)
-- [TurnKey: cloud servers and backup](https://hub.turnkeylinux.org)
+- [Strapi: enabled content rich expirience to be creted and exposed](https://strapi.io){:target="_blank"}
+- [Netlify: instantly build and deploy web sites](https://www.netlify.com){:target="_blank"}
+- [TurnKey: cloud servers and backup](https://hub.turnkeylinux.org){:target="_blank"}

@@ -32,8 +32,13 @@ published: true
     [Cycloid][cycloid]{:target="_blank"}
     cnsuring both the flexibility and governance you need
 
+???+ summary "CloudOps"
+    [CloudOps][cloudops]{:target="_blank"}
+    is a company at the leading edge of the ever-changing cloud industry.
+
 [nearform]: https://www.nearform.com/
 [armakuni]: https://www.armakuni.com/
 [cycloid]: https://www.cycloid.io
 [devopsgroup]: https://www.devopsgroup.com/
 [cloudposse]: https://cloudposse.com/
+[cloudops]: https://www.cloudops.com/

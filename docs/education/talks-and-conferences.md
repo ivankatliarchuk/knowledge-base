@@ -21,7 +21,9 @@ published: true
 - [Delivering Talk][deliver-talk]{:target="_blank"}
 - [Conference Talk Proposal Examples][conf-proposal]{:target="_blank"}
 - [SpeakerDecs examples](https://speakerdeck.com){:target="_blank"}
+- [Papercall: enables event organizers to easy manage their call for papers][papercall]{:target="_blank"}
 
 [oreily-devops]: https://conferences.oreilly.com/infrastructure-ops/io-ca?utm_medium=social&utm_source=twitter.com&utm_campaign=ioca20&utm_content=organic
 [conf-proposal]: https://thoughtbot.com/blog/conference-talk-proposal-examples
 [deliver-talk]: https://theway.armakuni.com/learning-and-development/delivering-a-talk
+[papercall]: https://www.papercall.io/events
