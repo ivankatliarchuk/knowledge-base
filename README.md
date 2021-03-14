@@ -2,6 +2,8 @@
 
 [![](https://img.shields.io/github/workflow/status/ivankatliarchuk/knowledge-base/github-pages-deploy/master)](https://github.com/ivankatliarchuk/knowledge-base/actions?query=is%3Acompleted)
 
+[URL][base-url]{:target="_blank"}
+
 My public Knowledge repository.
 
 
@@ -12,3 +14,5 @@ My public Knowledge repository.
 - [PyMDown](https://facelessuser.github.io/pymdown-extensions)
 - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+[base-url]: https://ivankatliarchuk.github.io/knowledge-base
