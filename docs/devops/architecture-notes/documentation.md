@@ -8,6 +8,7 @@ published: true
 ---
 
 - [Gruntwork Code of Conduct](https://github.com/gruntwork-io/toc){:target="_blank"}
+- [Gruntwork CI/CD][gruntwork_cicd]{:target="_blank"}
 - [Adidas](https://github.com/adidas/adidas-devops-maturity-framework){:target="_blank"}
 - [Azure](https://github.com/azsk/DevOpsKit-docs){:target="_blank"}
 - [DevOps Enterpise](https://github.com/18F/g-devops){:target="_blank"}
@@ -35,3 +36,5 @@ published: true
 - [GitOps Architecture docs: framework combines a complete GitOps workflow][arc-gitops]{:target="_blank"}
 
 [arc-gitops]: https://www.kubestack.com/framework/documentation/tutorial-build-local-lab
+[gruntwork_cicd]: https://gruntwork.io/guides/automations/how-to-configure-a-production-grade-ci-cd-setup-for-apps-and-infrastructure-code
+

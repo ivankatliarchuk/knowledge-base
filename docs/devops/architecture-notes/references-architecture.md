@@ -12,6 +12,8 @@ published: true
 
 - [ECS: RE for creating a flexible and scalable deployment pipeline. aws,ecs,code pipeline][ecs-ref-architecture]{:target="_blank"}
 - [Services Blueprints](https://www.nngroup.com/articles/service-blueprints-definition){:target="_blank"}
+- [GruntWork Reference Architecture](https://gruntwork.io/reference-architecture/){:target="_blank"}
+[]
 
 ## Operational Control
 
