@@ -32,6 +32,7 @@ published: true
 - [Development Docs Gov.uk](https://docs.publishing.service.gov.uk){:target="_blank"}
 - [Fabric8: documentation](http://fabric8.io/guide/index.html){:target="_blank"}
 - [OKD: massive architecture documentation](https://docs.okd.io/latest/welcome/index.html){:target="_blank"}
+- [AWS: whitepapers](https://aws.amazon.com/whitepapers)
 
 ## Git Ops Architecture
 
@@ -39,4 +40,3 @@ published: true
 
 [arc-gitops]: https://www.kubestack.com/framework/documentation/tutorial-build-local-lab
 [gruntwork_cicd]: https://gruntwork.io/guides/automations/how-to-configure-a-production-grade-ci-cd-setup-for-apps-and-infrastructure-code
-

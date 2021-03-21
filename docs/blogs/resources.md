@@ -20,6 +20,7 @@ published: true
 
 - [Emoji: cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 - [Emojipedia](https://emojipedia.org/){:target="_blank"}
+- [Emoji: wiki](https://emojis.wiki/warning)
 
 ## Images&Pictures
 
