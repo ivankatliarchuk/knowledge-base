@@ -37,3 +37,8 @@
 - [PyMDown](https://facelessuser.github.io/pymdown-extensions)
 - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+## Emojis
+
+- [Emoji Pedia: website with emojis](https://emojipedia.org/)
+- [Emoji: cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)

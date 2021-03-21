@@ -16,6 +16,11 @@ published: true
 
 - [Free flaticon icons][flaticon-icons]{:target="_blank"}
 
+## Emojies
+
+- [Emoji: cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [Emojipedia](https://emojipedia.org/){:target="_blank"}
+
 ## Images&Pictures
 
 - [The best free stock photos and images(pexels)][pexels]{:target="_blank"}

@@ -22,7 +22,6 @@ published: true
 - [Review Dog: ][review-dog]{:target="_blank"}
 - [Danger: automate common code review chores(js,ruby,swift,python)](https://danger.systems){:target="_blank"}
 
-
 ## Dependency licencing
 
 - [Go Licence Detector](https://github.com/src-d/go-license-detector){:target="_blank"}
