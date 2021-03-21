@@ -1,8 +1,8 @@
 ---
 title: Assessing Migration Readiness
-summary: product readiness coordination check list
+summary: product readiness coordination checklist
 authors: ["Ivan K"]
-tags: ["architecture", "readiness", "list", "migration", "heatmap", "example"]
+tags: ["architecture", "readiness", "checklist", "migration", "heatmap", "example"]
 date: 2021-03-21
 source: https://docs.aws.amazon.com/whitepapers/latest/aws-migration-whitepaper/assessing-migration-readiness.html
 published: true
@@ -17,7 +17,7 @@ published: true
 | ✅         | Green                    |
 |❗          |  Red                     |
 
-### :warning: Business Case
+### 🟨  Business Case
 
 - ✅	Key Stakeholder Sign-off
 - 🟨  High Level Business Case
@@ -30,7 +30,6 @@ published: true
 - ✅	AWS Master Account/Sub-Accounts
 - ✅	Existing Network & Data Center Architecture
 - 🟨	Account Design & Configuration
-
 
 ### 🟨 Operating Model
 
@@ -49,14 +48,14 @@ published: true
 
 ### 🟨  Customer Migration Project Plan
 
-- 🟨	Determine Delivery Model & Approach
-- 🟨	Project Management Capability
+- 🟨 Determine Delivery Model & Approach
+- 🟨 Project Management Capability
 - ❗	Migration Plan
 
 ### 🟨  Customer Migration Project Plan
 
-- 🟨	Server & Infrastructure Discovery Data
-- 🟨	Workload Owner Buy-In or Aligment
+- 🟨 Server & Infrastructure Discovery Data
+- 🟨 Workload Owner Buy-In or Aligment
 - ❗	Application Discovery Data
 - ❗	Migration Scope Scored & Targeted for Optimisation
 
@@ -68,7 +67,7 @@ published: true
 - ✅	Data Protection
 - ✅	Compliance Design
 - 🟨 Shared Responsiblity Model Understood
-- 🟨 Security RACI
+- 🟨 [Security RACI](https://loopio.com/blog/raci-chart-security-questionnaires/)
 - 🟨 Security Cartography
 - 🟨 Cloud Security Readiness Tested
 - 🟨 Logging & Monitoring

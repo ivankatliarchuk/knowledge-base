@@ -1,6 +1,6 @@
 ---
 title: Incident Readiness Plan
-created: 2021-03-14T14:18:51 (UTC +00:00)
+created: 2021-03-14
 tags: ["incidend response", "plan", "readiness"]
 source: https://www.securitymetrics.com/blog/5-things-your-incident-response-plan-needs
 author: david ellis
