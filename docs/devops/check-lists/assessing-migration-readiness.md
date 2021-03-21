@@ -10,7 +10,7 @@ published: true
 
 ## Migration Readiness Assessment Heatmap (example)
 
-| Sign       |      Description         |
+| Icon       |      Description         |
 |:----------:|:-------------------------|
 | ℹ️         | Assement to be completed |
 | 🟨         | Warning                  |
