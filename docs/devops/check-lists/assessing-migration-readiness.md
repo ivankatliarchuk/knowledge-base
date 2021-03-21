@@ -11,78 +11,78 @@ published: true
 ## Migration Readiness Assessment Heatmap (example)
 
 | Sign       |      Description         |
-|:----------:|:------------------------:|
+|:----------:|:-------------------------|
 | ℹ️         | Assement to be completed |
-| ⚠️          | Warning                  |
+| 🟨         | Warning                  |
 | ✅         | Green                    |
 |❗          |  Red                     |
 
 ### :warning: Business Case
 
 - ✅	Key Stakeholder Sign-off
-- ⚠️	 High Level Business Case
-- ⚠️	Migration Funding Commitment
-- ⚠️	Specific Migration Workloads Committed
-- ⚠️	Detailed Business Case
+- 🟨  High Level Business Case
+- 🟨  Migration Funding Commitment
+- 🟨  Specific Migration Workloads Committed
+- 🟨  Detailed Business Case
 
-### ✅  Landing Zone
-Status	Area
-✅	AWS Master Account/Sub-Accounts
-✅	Existing Network & Data Center Architecture
-⚠️	Account Design & Configuration
+### ✅ Landing Zone
+
+- ✅	AWS Master Account/Sub-Accounts
+- ✅	Existing Network & Data Center Architecture
+- 🟨	Account Design & Configuration
 
 
-### ⚠️ Operating Model
-Status	Area
-✅	Current Operational Model
-✅	Asset Management
-✅	Service Catalog
-- ⚠️	Future Requirements
-- ⚠️	AMI/Patching
-- ⚠️	Backup
-- ⚠️	Config Management & Change Management
-- ⚠️	Cost Management
-- ⚠️	CI/CD Pipelines
+### 🟨 Operating Model
+
+- ✅	Current Operational Model
+- ✅	Asset Management
+- ✅	Service Catalog
+- 🟨 Future Requirements
+- 🟨 AMI/Patching
+- 🟨 Backup
+- 🟨 Config Management & Change Management
+- 🟨 Cost Management
+- 🟨 CI/CD Pipelines
 - ❗	Managed Service Provider Identified
 - ❗	BCP/DR
 - ❗	Cloud Ready Operational Processes & Run Books
 
-### ⚠️  Customer Migration Project Plan
-Status	Area
-- ⚠️	Determine Delivery Model & Approach
-- ⚠️	Project Management Capability
+### 🟨  Customer Migration Project Plan
+
+- 🟨	Determine Delivery Model & Approach
+- 🟨	Project Management Capability
 - ❗	Migration Plan
 
-### ⚠️  Customer Migration Project Plan
+### 🟨  Customer Migration Project Plan
 
-- ⚠️	Server & Infrastructure Discovery Data
-- ⚠️	Workload Owner Buy-In or Aligment
+- 🟨	Server & Infrastructure Discovery Data
+- 🟨	Workload Owner Buy-In or Aligment
 - ❗	Application Discovery Data
 - ❗	Migration Scope Scored & Targeted for Optimisation
 
-### ⚠️  Security & Compliance
-Status	Area
+### 🟨  Security & Compliance
+
 - ✅	3rd Party Risk
 - ✅	Identity &Access Management
 - ✅	Infrastructure Security
 - ✅	Data Protection
 - ✅	Compliance Design
-- ⚠️	Shared Responsiblity Model Understood
-- ⚠️	Security RACI
-- ⚠️	Security Cartography
-- ⚠️	Cloud Security Readiness Tested
-- ⚠️	Logging & Monitoring
+- 🟨 Shared Responsiblity Model Understood
+- 🟨 Security RACI
+- 🟨 Security Cartography
+- 🟨 Cloud Security Readiness Tested
+- 🟨 Logging & Monitoring
 - ❗	Incident Response
 
-### ⚠️  Skills & COE
+### 🟨  Skills & COE
 
 - ✅	Single Threaded Leader
 - ✅	Design or Evolve COE
-- ⚠️	COE Resource Commitment
--❗	Expirience Baseline
--❗	Organisational Training
+- 🟨 COE Resource Commitment
+-❗ Expirience Baseline
+-❗ Organisational Training
 
 ### ❗  Migration Processs & Expirience
 
-- ⚠️	Migration Expirience
+- 🟨 Migration Expirience
 - ❗	Identification of Pilot Applications
