@@ -4,7 +4,7 @@ summary: GitHub awesome pages
 authors: ["Ivan K"]
 tags: ["eduction", "awesome pages", "production", "awesome", "pentest"]
 date: 2021-03-8
-some_url:
+source:
 published: true
 ---
 

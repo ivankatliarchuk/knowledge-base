@@ -4,7 +4,7 @@ summary: kubernetes security workshops
 author: "Ivan K"
 tags: ["workshop", "k8s", "security", "pentest", "docker"]
 date: 2021-03-08
-some_url:
+source:
 published: true
 ---
 

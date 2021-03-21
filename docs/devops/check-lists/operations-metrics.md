@@ -4,7 +4,7 @@ summary: metrics to monitor
 authors: ["Ivan K"]
 tags: ["architecture", "metrics", "ops", "operations"]
 date: 2021-03-8
-some_url: https://stackify.com/15-metrics-for-devops-success
+source: https://stackify.com/15-metrics-for-devops-success
 published: true
 ---
 

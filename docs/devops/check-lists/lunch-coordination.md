@@ -4,7 +4,7 @@ summary: product readiness coordination check list
 authors: ["Ivan K"]
 tags: ["architecture", "monitoring", "readiness", "list"]
 date: 2021-03-8
-some_url:
+source:
 published: true
 ---
 

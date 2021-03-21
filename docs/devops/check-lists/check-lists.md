@@ -4,7 +4,7 @@ summary: check list of areas to follow
 authors: ["Ivan K"]
 tags: ["architecture", "best practices", "checkbox", "production", "todo"]
 date: 2021-03-8
-some_url:
+source:
 published: true
 ---
 

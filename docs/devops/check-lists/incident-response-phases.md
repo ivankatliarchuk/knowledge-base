@@ -71,8 +71,6 @@ This is the process where you determine whether you’ve been breached. A breach
 -   Does it affect operations?
 -   Has the source (point of entry) of the event been discovered?
 
-
-
 #### **3\. Containment**
 
 When a breach is first discovered, your initial instinct may be to securely delete everything so you can just get rid of it. However, that will likely hurt you in the long run since you’ll be destroying valuable evidence that you need to determine where the breach started and devise a plan to prevent it from happening again.

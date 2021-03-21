@@ -4,7 +4,7 @@ summary: A reference architecture in the field of software architecture or enter
 authors: ["Ivan K"]
 tags: ["architecture", "design", "system", "data"]
 date: 2021-03-8
-some_url:
+source:
 published: true
 ---
 

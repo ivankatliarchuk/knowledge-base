@@ -4,7 +4,7 @@ summary: markdown
 authors: ["Ivan K"]
 tags: ["markdown", "md"]
 date: 2021-03-08
-some_url:
+source:
 published: true
 ---
 

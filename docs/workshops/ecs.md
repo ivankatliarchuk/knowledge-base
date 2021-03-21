@@ -4,7 +4,7 @@ summary: aws ecs workshops
 author: "Ivan K"
 tags: ["workshop", "ecs", "aws", "gcp"]
 date: 2021-03-08
-some_url:
+source:
 published: true
 ---
 
