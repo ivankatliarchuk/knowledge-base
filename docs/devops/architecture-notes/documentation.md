@@ -30,6 +30,7 @@ published: true
 - [DocUtils](https://pypi.org/project/docutils){:target="_blank"}
 - [ReadTheDocs](https://readthedocs.org){:target="_blank"}
 - [Development Docs Gov.uk](https://docs.publishing.service.gov.uk){:target="_blank"}
+- [Fabric8: documentation](http://fabric8.io/guide/index.html){:target="_blank"}
 
 ## Git Ops Architecture
 

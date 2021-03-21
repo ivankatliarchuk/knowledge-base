@@ -13,3 +13,4 @@ published: true
 
 - [Goss: quick and easy server testing/validation](https://github.com/aelsabbahy/goss){:target="_blank"}
 - [Server Spec: tests for checking your servers are configured correct](https://serverspec.org){:target="_blank"}
+- [Babushka: automating computing chores](https://babushka.me){:target="_blank"}

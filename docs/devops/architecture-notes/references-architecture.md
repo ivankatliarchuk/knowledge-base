@@ -13,7 +13,8 @@ published: true
 - [ECS: RE for creating a flexible and scalable deployment pipeline. aws,ecs,code pipeline][ecs-ref-architecture]{:target="_blank"}
 - [Services Blueprints](https://www.nngroup.com/articles/service-blueprints-definition){:target="_blank"}
 - [GruntWork Reference Architecture](https://gruntwork.io/reference-architecture/){:target="_blank"}
-[]
+- [Gruntwork: production grade AWS account][gruntwork-production-grade]{:target="_blank"}
+- [Avinetworks: reference architecture](https://avinetworks.com/docs/17.2/aws-reference-architecture){:target="_blank"}
 
 ## Operational Control
 
@@ -21,3 +22,4 @@ published: true
 
 <!-- resources -->
 [ecs-ref-architecture]: https://github.com/awslabs/ecs-refarch-continuous-deployment
+[gruntwork-production-grade]: https://gruntwork.io/guides/foundations/how-to-configure-production-grade-aws-account-structure
