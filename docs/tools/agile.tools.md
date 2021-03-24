@@ -19,6 +19,7 @@ published: true
 - [Creately.com Plan,brainstorm or design $][creatly.com]{:target="_blank"}
 - [Visual Paradigm. $](https://online.visual-paradigm.com/pricing){:target="_blank"}
 - [Sketch Board: online whiteboard $$](https://sketchboard.io){:target="_blank"}
+- [Cloud Craft: build cloud diagrams](https://cloudcraft.co/)
 
 <!-- resources -->
 
