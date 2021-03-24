@@ -8,5 +8,6 @@ published: true
 ---
 
 - [Terraform module blueprint][tfm-blueprint]{:target="_blank"}
+- [Terragrunt: live architecture](https://github.com/gruntwork-io/terragrunt-infrastructure-live-example)
 
 [tfm-blueprint]: https://github.com/terraform-module/terraform-module-blueprint

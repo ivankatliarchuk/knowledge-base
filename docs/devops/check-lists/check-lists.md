@@ -19,8 +19,14 @@ published: true
 - [Kubernets Production best practices](https://learnk8s.io/production-best-practices){:target=_blank}
 - [DevOps security checklist](https://www.sqreen.com/checklists/devops-security-checklist){:target=_blank}
 - [Logging Readiness](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html){:target=_blank}
+- [Docker: owasp hardening](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)
 - [Google Lunch Checklist](https://cloud.google.com/docs/platform-launch-checklist){:target=_blank}
 - [Google Peak Season Readiness](https://cloud.google.com/solutions/black-friday-production-readiness){:target=_blank}
+
+## Reports
+
+- [Pentest Reports: default](https://github.com/juliocesarfort/public-pentesting-reports)
+- [Pentest Reports: extra](https://github.com/ik-infrastructure-testing/TCM-Security-Sample-Pentest-Report)
 
 ## Code of Conduct
 

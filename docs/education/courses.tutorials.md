@@ -2,7 +2,7 @@
 title: courses and tutorials
 summary: courses and tutorials
 authors: ["Ivan K"]
-tags: ["education", "courses", "tutorials", "security", "pentest"]
+tags: ["education", "courses", "tutorials", "security", "pentest", "coding"]
 date: 2021-03-14
 published: true
 ---
@@ -14,13 +14,14 @@ published: true
 - [HackerOne](https://hackerone.com/hacker_dashboard/overview/learn_how_to_hack)
 - [BugCrowd](https://www.bugcrowd.com/hackers/bugcrowd-university/)
 - [Offensive Security](https://www.offensive-security.com/)
-- [Miltiple Courses and Tutorials ](https://hackertarget.com/research/)
+- [Hacker target: Miltiple Courses and Tutorials ](https://hackertarget.com/research/)
 - [Ru.lab](https://lab.pentestit.ru/)
 - [HackTheBox](https://www.hackthebox.eu/individuals)
 - [Root.Me](https://www.root-me.org/?lang=en)
 - [Ehack Alot](https://academy.ehacking.net/courses)
 - [eLearnSecurity (not sure)](https://www.elearnsecurity.com/training_paths/)
 - [Hack the WebServer](https://www.guru99.com/how-to-hack-web-server.html)
+- [Cybrary](https://www.cybrary.it/)
 
 ## Security
 
@@ -52,4 +53,8 @@ published: true
 
 - [Talk the Talk](https://www.open.edu/openlearn/education-development/talk-the-talk/content-section-overview)
 - [Infastructure tooling courses](https://play.instruqt.com/public)
+- [Technology: courses free](https://hackr.io/)
 
+## Coding
+
+- [Refactoring](https://refactoring.guru/refactoring)

@@ -118,4 +118,5 @@ nav:
     - Infrastructure:
       - ... | devops/infrastructure/*.md
   - Tools:
+    - tools/index.md
     - ... | tools/*.md

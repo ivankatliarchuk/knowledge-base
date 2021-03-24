@@ -1,8 +1,8 @@
 ---
-title: blogs to foolow
+title: blogs to follow
 summary: web resources worth to follow
 authors: ["Ivan K"]
-tags: ["tools", "audit", "hardening", "forensic", "python"]
+tags: ["blog"]
 date: 2021-03-08
 published: true
 ---
@@ -55,9 +55,30 @@ published: true
 - [Hackos](https://www.hacknos.com/category)
 - [Security Generation](https://www.securitygeneration.com/)
 - [VeteranSec](https://veteransec.com/)
+- [Cyber Security For Business](https://www.coursera.org/specializations/cyber-security-business)
+- [Edx Cyber](https://www.edx.org/course?search_query=cyber)
+- [Habr MIT Security](https://habr.com/ru/company/ua-hosting/blog/427763/)
+- [Secure Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)
+
+## Pentesting
+
+- [Pentest: tutorials](http://fuzzysecurity.com/index.html)
+- https://latesthackingnews.com/
+
+- https://geekflare.com/find-sql-injection/
+- http://netsec.ws/?cat=9
+
+## University
+
+- [Data Science](https://london.ac.uk/courses/data-science-msc)
+- [It Security](https://london.ac.uk/courses/information-security)
+- [Edx Uni](https://www.elearnsecurity.com/certification/ejpt/)
+- [Open Source University](https://github.com/ossu/computer-science#intro-cs)
+- [OU Cyber Security](http://www.open.ac.uk/courses/microcredentials/cyber-security-tzfm861)
+- [Talk the Talk](https://www.open.edu/openlearn/education-development/talk-the-talk/content-section-overview)
 
 ## Coding
 
-- [Different Coding Stuff. >net](https://codeburst.io/)
+- [Different Coding Stuff.net](https://codeburst.io/)
 - [SweetCode](https://sweetcode.io/)
-
+- [30 days React](https://github.com/fullstackreact/30-days-of-react)
