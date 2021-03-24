@@ -2,8 +2,10 @@
 title: Application Readiness checklist
 created: 2021-03-22
 tags: ["technical diagram", "diagrams", "checklist"]
-source: https://cofounderstown.com/draw-useful-technical-architecture-diagrams-cc5d5
-author: Jimmy Soh
+source:
+- https://cofounderstown.com/draw-useful-technical-architecture-diagrams-cc5d5
+- http://www.it20.info/2018/06/compute-abstractions-on-aws
+author: Jimmy Soh, MASSIMO
 ---
 
 ## Technical Architecture Diagrams
@@ -15,6 +17,7 @@ author: Jimmy Soh
 - ✅ [Deployment Architecture Diagram](#--deployment-architecture-diagram--)
 - ✅ [DevOps Architecture Diagram](#--devops-architecture-diagram--)
 - ✅ [Data Architecture Diagram](#--data-architecture-diagram--)
+- ✅ [Compute Abstractions Diagram](#--compute-abstractions-diagram--)
 
 ### **Application Architecture Diagram**
 
@@ -123,3 +126,32 @@ One of the use cases of this diagram is to facilitate the upgrading of resources
 - **Display as-is and to-be components** — provides an overview of the changes at a quick glance to assess the impact and focus discussion points.
 - **Indication of data increment rate** — gives stakeholders a sense of the scale of data for estimation and solution design purposes.
 - **Logical grouping of components** — illustrates the objectives of the components at the various stages, e.g. processing, visualising, etc. to facilitate ease of readability.
+
+## [**Compute Abstractions Diagram**][compute-abstractions]
+
+> I was trying to find a way to explain, in the easiest way possible, all the options the platform offers to our users from a compute perspective. There are of course many ways to peal this onion and I wanted to create a “visual story” that was easy for me to tell.
+
+The compute domain as "anything that has CPU and Memory capacity that allows you to run an arbitrary piece of code written in a specific programming language". It goes without saying that your mileage may vary in how you define it but this is a broad enough definition that should cover a lot of different interpretations.
+
+#### Use Case
+
+The reason for which the line above is oblique, is because it needs to intercept different compute abstraction levels. If you think about what happened in the last 20 years of IT, we have seen a surge of different compute abstractions that have changed the way people consume CPU and Memory resources. It all started with physical (x86) servers back in the eighties and then we have seen the industry adding a number of abstraction layers over the years (i.e. hypervisors, containers, functions).
+
+As you can depict from the graphic below, the higher you go in the abstraction levels, the more the cloud provider can add value and can offload the consumer from non-strategic activities. A lot of these activities tend to be “undifferentiated heavy lifting”.
+
+#### Questions to Address
+
+- Some customers were (and still are) happy about being in full control of said instances. Are you one of them?
+
+![Compute Abstractions](./assets/compute-abstractions.png)
+
+#### Useful components in this diagram
+
+- **The bare metal abstraction** - Also known as the “no abstraction”.
+- **The instance (or virtual machine) abstraction** - (Amazon EC2) is the service that allows AWS customers to launch instances in the cloud. When customers intercept the platform at this level, they retain responsibility of the guest Operating System and above (middleware, applications etc.) and their life-cycle. Similarly, customers leave to AWS the responsibility for managing the hardware and the hypervisor including their life-cycle.
+- **The container abstraction** - In a nutshell, you can think of a container as a self-contained environment with soft boundaries that includes both your own application as well as the software dependencies to run it. Whereas an instance (or VM) virtualizes a piece of hardware so that you can run dedicated operating systems, a container technology virtualizes an operating system so that you can run separated applications with different (and often incompatible) software dependencies.
+- **The full container abstraction (for lack of a better term)** - Practically speaking, Fargate is making the containers data plane fall into the "Provider space" responsibility. This means the compute unit exposed to the user is the container abstraction, while AWS will manage transparently the data plane abstractions underneath.
+- **The function abstraction** - In the context of this blog post, the key point about Lambda is that you don’t have to manage the infrastructure underneath the function you are running. No need to track the status of the physical hosts, no need to track the capacity of the fleet, no need to patch the OS where the function will be running. In a nutshell, no need to spend time and money on the undifferentiated heavy lifting.
+
+[compute-abstractions]: http://www.it20.info/2018/06/compute-abstractions-on-aws
+

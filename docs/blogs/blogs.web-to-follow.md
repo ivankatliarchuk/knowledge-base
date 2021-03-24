@@ -32,6 +32,7 @@ published: true
 - [EngineerBetter](https://www.engineerbetter.com/blog/)
 - [ToughWroks](https://www.thoughtworks.com/personal-blogs)
 - [SumoLogic](https://www.sumologic.com/)
+- [RedGate](https://www.red-gate.com/blog/database-devops)
 
 ## IT Architecture
 

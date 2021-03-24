@@ -27,6 +27,7 @@ published: true
 - [Blazemeter](https://www.blazemeter.com/){:target="_blank"}
 - [OctoPerf](https://octoperf.com/){:target="_blank"}
 - [Autocannon](https://github.com/mcollina/autocannon){:target="_blank"}
+- [Load Testing with Fargate and Taurus](https://github.com/aws-samples/distributed-load-testing-using-aws-fargate)
 
 ## Network
 

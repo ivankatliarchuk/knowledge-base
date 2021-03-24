@@ -23,7 +23,13 @@ published: true
 !!! note "helm charts"
     Helm uses a packaging format called charts. A chart is a collection of files that describe a related set of Kubernetes resources.
 
+
+```sh
+helm repo add {NAME} {CHART_URL}
+```
+
 - [Stable](https://kubernetes-charts.storage.googleapis.com)
+- [Kubernetes](https://kubernetes.github.io/ingress-nginx)
 - [Main](https://github.com/helm/charts)
 - [AWS](https://github.com/aws/eks-charts/tree/master/stable)
 - [Mintel](https://github.com/mintel/dex-k8s-authenticator/tree/master/charts)

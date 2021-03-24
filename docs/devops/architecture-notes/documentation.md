@@ -15,7 +15,8 @@ published: true
 - [Github Security Checklist](https://marcinhoppe.com/securing-your-github-project/){:target="_blank"}
 - [AWS Support Docs](https://developer.rackspace.com/docs/fanatical-support-aws/){:target="_blank"}
 - [Gov USA Docs](https://cloud.gov/docs/ops/runbook/rotating-bosh/){:target="_blank"}
-- [K8s Monitoring](https://www.datadoghq.com/blog/eks-cluster-metrics/){:target="_blank"}
+- [DataDog: k8s monitoring](https://www.datadoghq.com/blog/eks-cluster-metrics/){:target="_blank"}
+- [DataDog: infrastructure](https://docs.datadoghq.com/infrastructure/){:target="_blank"}
 - [Mozilla Architecture Document](https://wiki.mozilla.org/Community_Ops/PaaS){:target="_blank"}
 - [Example Terraform project document](https://github.com/mozilla/partinfra-terraform){:target="_blank"}
 - [ASP Net Docs](https://aspnetcore.readthedocs.io/en/stable/intro.html){:target="_blank"}
@@ -32,7 +33,8 @@ published: true
 - [Development Docs Gov.uk](https://docs.publishing.service.gov.uk){:target="_blank"}
 - [Fabric8: documentation](http://fabric8.io/guide/index.html){:target="_blank"}
 - [OKD: massive architecture documentation](https://docs.okd.io/latest/welcome/index.html){:target="_blank"}
-- [AWS: whitepapers](https://aws.amazon.com/whitepapers)
+- [AWS: whitepapers](https://aws.amazon.com/whitepapers){:target="_blank"}
+- [AppDynamics: infrastructure](https://docs.appdynamics.com/display/PRO21/Infrastructure+Visibility){:target="_blank"}
 
 ## Git Ops Architecture
 
