@@ -7,6 +7,9 @@ date: 2021-03-08
 published: true
 ---
 
+### Website Visual Testing
+
+- [Percy: The new way to design, develop, and deliver software with confidence](https://percy.io/){:target="_blank"}
 
 ### WebSite Generators
 

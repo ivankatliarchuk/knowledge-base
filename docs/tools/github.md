@@ -25,6 +25,8 @@ published: true
     [Git Hub cli][git-hub]
     is an extension to command-line git that helps you do everyday GitHub tasks without ever leaving the terminal.
 
+- [Kodiak: update and merge PRs](https://github.com/chdsbd/kodiak)
+
 ## Github Services
 
 - [Bridgecrew: automate infrastructure seucurity](https://www.bridgecrew.cloud/)
@@ -47,6 +49,7 @@ published: true
 - [k8d action: to run lightweight ephemeral Kubernetes clusters during workflow](https://github.com/AbsaOSS/k3d-action){:target="_blank"}
 - [serverless actions](https://github.com/lambci/serverless-actions){:target="_blank"}
 - [ReviewDog: hadolint](https://github.com/reviewdog/action-hadolint){:target="_blank"}
+- [Lighouse: automate website testing](https://github.com/foo-software/lighthouse-check-action){:target="_blank"}
 
 ## Git Ignore
 
