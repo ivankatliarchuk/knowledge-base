@@ -7,6 +7,7 @@
 
 ## Icons
 
+- [VectorLogoZone: svg icons](https://www.vectorlogo.zone/){:target="_blank"}
 - [Free flaticon icons][flaticon-icons]{:target="_blank"}
 
 ## Emojies
