@@ -2,7 +2,7 @@
 title: monitoring
 summary: Monitoring Services and Best Practices
 authors: ["Ivan K"]
-tags: ["architecture", "devops", "monitoring", "article"]
+tags: ["architecture", "devops", "monitoring", "article", "logging"]
 date: 2021-03-8
 published: true
 ---
@@ -11,6 +11,7 @@ published: true
 
 - [Monitoring in Monzo](https://monzo.com/blog/2018/07/27/how-we-monitor-monzo)
 - [Sparta Grafana Serverless Monitoring @article](https://medium.com/@mweagle/spartagrafana-serverless-monitoring-f86ca6da79ed)
+- [Logging and Monitoring: Effective Security](https://www.pcisecuritystandards.org/documents/Effective-Daily-Log-Monitoring-Guidance.pdf)
 
 ## Status Pages
 
@@ -46,3 +47,12 @@ published: true
 ## Resources
 
 - [Awesome](awesome.md){:target="_blank"}
+
+
+## Logging
+
+- [Logs in production](https://theburningmonk.com/2018/04/you-need-to-sample-debug-logs-in-production/)
+- [Serverless Adoption](https://blog.binaris.com/how-to-go-all-in-with-serverless-adoption/)
+- [Lambda Wrappers](https://epsagon.com/blog/enforce-consistent-error-handling-in-aws-lambda-with-wrappers/)
+- [Security logging in cloud environments](https://www.marcolancini.it/2021/blog-security-logging-cloud-environments-aws/#access-logs)
+- [Cloud Visibility](https://www.marcolancini.it/continuous-cloud-visibility/)

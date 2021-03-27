@@ -2,7 +2,7 @@
 title: infrastructure tooling
 summary: infrastructure tooling
 authors: ["Ivan K"]
-tags: ["tools", "infrastructure", "docker", "k8s", "ecs"]
+tags: ["tools", "infrastructure", "docker", "k8s", "ecs", "fargate"]
 date: 2021-03-8
 published: true
 ---
@@ -23,3 +23,7 @@ published: true
 - [Trivy](https://github.com/aquasecurity/trivy)
 - [Bane](https://github.com/genuinetools/bane)
 - [Dockle](https://github.com/goodwithtech/dockle)
+
+## AWS Fargate
+
+- [Docs](https://somanymachines.com/fargate/)

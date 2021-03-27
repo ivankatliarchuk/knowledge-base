@@ -1,8 +1,8 @@
 ---
-title: resources
-summary: resources for blogging
+title: blogging resources
+summary: wallpapers, icons, emoji, images and pictures
 authors: ["Ivan K"]
-tags: ["blogs", "resources", "images", "icons"]
+tags: ["resources", "images", "icons", "tools"]
 date: 2021-03-08
 published: true
 ---
