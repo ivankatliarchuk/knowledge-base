@@ -23,6 +23,12 @@ published: true
 - [UX: customer journey map and personas templates](https://uxpressia.com/templates){:target="_blank"}
 - [Whimsical: notes, mind maps, customer jorney](whimsical.com){:target="_blank"}
 
+## Agile Practices
+
+- [Open Practices](https://openpracticelibrary.com/){:target="_blank"}
+- [Easy Retro](https://easyretro.io/){:target="_blank"}
+- [Trello](https://trello.com/){:target="_blank"}
+
 <!-- resources -->
 
 [creatly.com]: https://creately.com/blog/diagrams/aws-templates-for-architecture-diagrams/
