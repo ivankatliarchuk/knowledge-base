@@ -22,19 +22,22 @@ published: true
 - [ASP Net Docs](https://aspnetcore.readthedocs.io/en/stable/intro.html){:target="_blank"}
 - [EKSCTL Docs](https://eksctl.io/usage/creating-and-managing-clusters/)
 - [Cloud Security Docs](https://cloudsecdocs.com/){:target="_blank"}
-- [Docsify](https://docsify.js.org){:target="_blank"}
-- [Cloud Cannot](https://cloudcannon.com){:target="_blank"}
-- [MkDocs](https://www.mkdocs.org){:target="_blank"}
+- [Cloud Cannon](https://cloudcannon.com){:target="_blank"}
 - [Cloud Gov Docs](https://cloud.gov/docs){:target="_blank"}
 - [BoolKist](https://vito.github.io/booklit){:target="_blank"}
 - [Docusaurus](https://docusaurus.io){:target="_blank"}
 - [DocUtils](https://pypi.org/project/docutils){:target="_blank"}
-- [ReadTheDocs](https://readthedocs.org){:target="_blank"}
 - [Development Docs Gov.uk](https://docs.publishing.service.gov.uk){:target="_blank"}
 - [Fabric8: documentation](http://fabric8.io/guide/index.html){:target="_blank"}
 - [OKD: massive architecture documentation](https://docs.okd.io/latest/welcome/index.html){:target="_blank"}
 - [AWS: whitepapers](https://aws.amazon.com/whitepapers){:target="_blank"}
 - [AppDynamics: infrastructure](https://docs.appdynamics.com/display/PRO21/Infrastructure+Visibility){:target="_blank"}
+
+## Documentation Generation
+
+- [Docsify: a magical documentation site generator](https://docsify.js.org){:target="_blank"}
+- [MkDocs](https://www.mkdocs.org){:target="_blank"}
+- [ReadTheDocs](https://readthedocs.org){:target="_blank"}
 
 ## Git Ops Architecture
 

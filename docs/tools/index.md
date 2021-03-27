@@ -38,7 +38,8 @@ date: 2021-03-24
 
 ## API Documentation
 
-- [Beatiful Slate](https://github.com/slatedocs/slate)
+- [API: beautiful static documentation for your api](https://github.com/slatedocs/slate)
+- [Postman: document generation](https://github.com/thedevsaddam/docgen)
 
 ## Datasets
 
