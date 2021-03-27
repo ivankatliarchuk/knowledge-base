@@ -20,6 +20,8 @@ published: true
 - [Visual Paradigm. $](https://online.visual-paradigm.com/pricing){:target="_blank"}
 - [Sketch Board: online whiteboard $$](https://sketchboard.io){:target="_blank"}
 - [Cloud Craft: build cloud diagrams](https://cloudcraft.co/)
+- [UX: customer journey map and personas templates](https://uxpressia.com/templates){:target="_blank"}
+- [Whimsical: notes, mind maps, customer jorney](whimsical.com){:target="_blank"}
 
 <!-- resources -->
 

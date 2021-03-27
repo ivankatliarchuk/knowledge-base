@@ -28,6 +28,7 @@ date: 2021-03-24
 
 - [Yubikey: sign git commit](https://www.engineerbetter.com/blog/yubikey-signed-commits/)
 - [Yubikey: web otp](https://upgrade.yubico.com/getapikey/)
+- [Yubikey: secure mac](https://github.com/pasientskyhosting/secure-mac-guide)
 
 ## Harden OS
 

@@ -2,7 +2,7 @@
 title: company tooling
 summary: company tooling
 authors: ["Ivan K"]
-tags: ["tools", "company", "comapany name", "company logo"]
+tags: ["tools", "company", "comapany name", "company logo", "business"]
 date: 2021-03-08
 published: true
 ---
@@ -17,6 +17,11 @@ published: true
 ## Company tooling
 
 - [Technology stack diagram generator](https://digital.ai/dev-ops-diagram-generator){:target="_blank"}
+- [Smart Sheet: transform your work into dynamic work with a single, flexible platform](https://www.smartsheet.com/){:target="_blank"}
+- [Monday: manage work in one place, sales, crm, tech](https://monday.com/product/){:target="_blank"}
+- [Duedil: make decision of your business](https://www.duedil.com/plans){:target="_blank"}
+- [Pipedrive: project, teams, sales](https://www.pipedrive.com/){:target="_blank"}
+- [Officevibe: understand team needs](https://officevibe.com/){:target="_blank"}
 
 <!-- resources -->
 

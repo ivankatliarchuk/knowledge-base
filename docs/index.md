@@ -23,6 +23,11 @@
 - [Free, high-resolution images(shopify)][shopify-images]{:target="_blank"}
 - [Interesting images(behance)][behance]{:target="_blank"}
 - [Simple images(pngimg)](https://pngimg.com){:target="_blank"}
+- [DeepArt: turn photoes into art](https://deepart.io/){:target="_blank"}
+
+## Resume Generator
+
+- [Generate Resume: mostly for fun](https://thisresumedoesnotexist.com)
 
 <!-- resouce links -->
 [top-wallpapers]: https://wallhaven.cc/toplist
