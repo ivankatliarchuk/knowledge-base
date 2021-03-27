@@ -9,6 +9,7 @@ date: 2021-03-24
 ## Hot to be a CTO
 
 - [CTO: Mathias Mayer](https://www.paperplanes.de/)
+- [CTO: first ninety days](https://lethain.com/first-ninety-days-cto-vpe/)
 
 ## Automateion
 

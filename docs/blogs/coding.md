@@ -7,7 +7,6 @@ date: 2021-03-27
 published: true
 ---
 
-
 ## Golang
 
 - [Go: How I write HTTP services after eight years][go-http-services]
