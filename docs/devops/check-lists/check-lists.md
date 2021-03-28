@@ -22,6 +22,7 @@ published: true
 - [Docker: owasp hardening](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)
 - [Google Lunch Checklist](https://cloud.google.com/docs/platform-launch-checklist){:target=_blank}
 - [Google Peak Season Readiness](https://cloud.google.com/solutions/black-friday-production-readiness){:target=_blank}
+- [Website Launch Checklist](https://www.process.st/checklist/website-launch-checklist){:target=_blank}
 
 ## Reports
 

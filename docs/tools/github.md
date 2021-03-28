@@ -30,6 +30,7 @@ published: true
 ## Github Services
 
 - [Bridgecrew: automate infrastructure seucurity](https://www.bridgecrew.cloud/)
+- [Coverals: showing which parts of your code aren’t covered by your test suite](https://coveralls.io/)
 
 ## Github Actions
 
@@ -50,6 +51,8 @@ published: true
 - [serverless actions](https://github.com/lambci/serverless-actions){:target="_blank"}
 - [ReviewDog: hadolint](https://github.com/reviewdog/action-hadolint){:target="_blank"}
 - [Lighouse: automate website testing](https://github.com/foo-software/lighthouse-check-action){:target="_blank"}
+- [Owasp: zap full scan](https://github.com/marketplace/actions/owasp-zap-full-scan){:target="_blank"}
+- [Owasp: zap baseline scan](https://github.com/marketplace/actions/owasp-zap-baseline-scan){:target="_blank"}
 
 ## Git Ignore
 
