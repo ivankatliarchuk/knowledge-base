@@ -29,6 +29,11 @@ published: true
 - [Pentest Reports: default](https://github.com/juliocesarfort/public-pentesting-reports)
 - [Pentest Reports: extra](https://github.com/ik-infrastructure-testing/TCM-Security-Sample-Pentest-Report)
 
+## Disaster Recovery
+
+- [MSP360: disaster recovery check list](https://www.msp360.com/resources/blog/disaster-recovery-plan-checklist/)
+- [Disaster Recover Template](https://www.evolveip.net/disaster-recovery-plan-template)
+
 ## Code of Conduct
 
 - [Gruntwork Code of Conduct][gruntwork-toc]{:target=_blank}
