@@ -10,7 +10,7 @@ on:
     - "renovate.json"
 
 env:
-  INITIAL_VERSION: 0.0.0
+  INITIAL_VERSION: 0.0.1
   WITH_V: true
   DEFAULT_BUMP: patch
 
