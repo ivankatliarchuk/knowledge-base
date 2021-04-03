@@ -70,6 +70,8 @@ published: true
 - [Owasp: zap full scan](https://github.com/marketplace/actions/owasp-zap-full-scan){:target="_blank"}
 - [Owasp: zap baseline scan](https://github.com/marketplace/actions/owasp-zap-baseline-scan){:target="_blank"}
 
+- [Markdown: link checker](https://github.com/gaurav-nelson/github-action-markdown-link-check){:target="_blank"}
+
 ## Git Ignore
 
 - [Gitignore toptail](https://www.toptal.com/developers/gitignore){:target="_blank"}
