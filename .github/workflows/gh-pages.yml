@@ -3,7 +3,11 @@ name: github-pages-deploy
 on:
   push:
     branches:
-      - master
+    - master
+    paths-ignore:
+    - "README.md"
+    - "renovate.json"
+
   pull_request:
 
 jobs:
