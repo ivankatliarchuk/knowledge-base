@@ -31,6 +31,7 @@ published: true
 - [Settings: syncs repository settings defined in .github/settings.yml](https://probot.github.io/apps/settings/)
 - [Stale: closes abandoned issues after a period of inactivity](https://probot.github.io/apps/stale/)
 - [ProBot: all apps](https://probot.github.io/apps/)
+- [Probot: todo](https://todo.jasonet.co/)
 
 ## Github Services
 
