@@ -22,13 +22,22 @@ on:
     types: # This configuration does not affect the page_build event above
     - created
 
+env:
+  isForkedRepository: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name != github.repository }}
+
+
 jobs:
-  test:
+  changelog:
     runs-on: ubuntu-latest
+    name: update changelog
+    if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/rel' }}
     steps:
       # To use this repository's private action, you must check out the repository
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 30
+          submodules: 'true'
 
       - name: Generate changelog
         id: changelog
