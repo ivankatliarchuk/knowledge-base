@@ -3,9 +3,18 @@
 <!--- This template is entirely optional and can be removed, but is here to help both you and us. -->
 <!--- Anything on lines wrapped in comments like these will not show up in the final text. -->
 
+<!--
+Put an `x` into the [ ] to show you have filled the information
+-->
+
+- [ ] Make sure you are opening from a **topic/feature/bugfix branch** (right side) and not your master branch!
+- [ ] Ensure that the pull request title represents the desired changelog entry
+
 ## Description
 
 <!--- Describe your changes in detail here. -->
+- [ ] Please describe what you did
+
 
 ## Types of Changes
 
@@ -20,7 +29,7 @@
 
 ## Issues Fixed or Closed by This PR
 
-* 
+*
 
 ## Checklist
 
