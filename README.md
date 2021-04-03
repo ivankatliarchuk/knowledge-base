@@ -1,7 +1,7 @@
 # Public Knowledge Base
 
-[![](https://img.shields.io/github/workflow/status/ivankatliarchuk/knowledge-base/github-pages-deploy/master)][completed-actions]
-[![](https://github.com/ivankatliarchuk/knowledge-base/workflows/changelog/badge.svg)][completed-actions]
+[![](https://img.shields.io/github/workflow/status/ivankatliarchuk/knowledge-base/github-pages-deploy/master)][completed-actions-deploy]
+[![](https://github.com/ivankatliarchuk/knowledge-base/workflows/changelog/badge.svg)][completed-actions-changelog]
 
 ![](https://img.shields.io/github/commit-activity/m/ivankatliarchuk/knowledge-base)
 ![](https://img.shields.io/github/contributors/ivankatliarchuk/knowledge-base)
@@ -26,4 +26,5 @@ My public Knowledge repository.
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 [base-url]: https://ivankatliarchuk.github.io/knowledge-base
-[completed-actions]: https://github.com/ivankatliarchuk/knowledge-base/actions?query=is%3Acompleted
+[completed-actions-deploy]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/gh-pages.yml?query=is%3Acompleted
+[completed-actions-changelog]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/changelog.yml?query=is%3Acompleted
