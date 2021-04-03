@@ -16,6 +16,15 @@ updates:
   schedule:
     interval: "daily"
     time: '11:00'
-    timezone: Japan
+    timezone: UK
   commit-message:
     prefix: ci
+
+- package-ecosystem: "gitsubmodule"
+  directory: "/"
+  schedule:
+    interval: "daily"
+  labels:
+  - "dependencies"
+  - "automerge"
+  
