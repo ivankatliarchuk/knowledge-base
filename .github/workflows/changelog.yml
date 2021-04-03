@@ -37,6 +37,8 @@ jobs:
           changelog_filename: CHANGELOG.md
           committer_username: 'github-action'
           committer_email: 'github-action@github.com'
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
       # - name: Get the changelog
       #   run: echo "${{ steps.changelog.outputs.changelog }}"
