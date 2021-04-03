@@ -30,7 +30,6 @@ jobs:
   changelog:
     runs-on: ubuntu-latest
     name: update changelog
-    if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/rel' }}
     steps:
       # To use this repository's private action, you must check out the repository
       - name: Checkout
