@@ -3,13 +3,20 @@
   "extends": [
     "github>renovatebot/.github",
     "docker:enableMajor",
-    "config:base"
+    "config:base",
+    "group:allNonMajor"
+  ],
+  "reviewersFromCodeOwners": true,
+  "semanticCommits": true,
+  "labels": [
+    "dependencies"
   ],
   "baseBranches": [
     "main"
   ],
-  "minor": { "automerge": true },
-  "patch": { "automerge": true },
+  "major": { "automerge": false, "labels": [ "dependencies", "minor" ] },
+  "minor": { "automerge": false, "labels": [ "dependencies", "minor" ] },
+  "patch": { "automerge": false },
   "packageRules": [
     { "updateTypes": ["major"], "addLabels": ["SemVer Major"] },
     { "updateTypes": ["minor"], "addLabels": ["SemVer Minor"] },
