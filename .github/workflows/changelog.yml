@@ -4,8 +4,23 @@ on:
   push:
     branches:
       - master
+    paths-ignore:
+    - "README.md"
+    - "CHANGELOG.md"
+    - "renovate.json"
   pull_request:
     types: [opened, reopened]
+    paths-ignore:
+    - "README.md"
+    - "CHANGELOG.md"
+    - "renovate.json"
+  workflow_dispatch:
+    inputs:
+      tags:
+        description: 'manual trigger'
+  release:
+    types: # This configuration does not affect the page_build event above
+    - created
 
 jobs:
   test:
