@@ -1,7 +1,1 @@
-# https://github.com/JasonEtco/todo
-todo:
-  keyword: ["@todo", "TODO"]
-  autoAssign: true
-  blobLines: 5
-  label: true
-  reopenClosed: true
+_extends: .github

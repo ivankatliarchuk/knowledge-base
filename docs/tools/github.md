@@ -33,6 +33,7 @@ published: true
 - [ProBot: all apps](https://probot.github.io/apps/)
 - [Probot: todo](https://todo.jasonet.co/)
 - [Probot: forks up to date](https://github.com/wei/pull)
+- [Probot: reguest more info](https://github.com/apps/request-info)
 
 ## Github Services
 
