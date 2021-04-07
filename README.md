@@ -2,6 +2,7 @@
 
 [![](https://img.shields.io/github/workflow/status/ivankatliarchuk/knowledge-base/github-pages-deploy/master)][completed-actions-deploy]
 [![](https://github.com/ivankatliarchuk/knowledge-base/workflows/changelog/badge.svg)][completed-actions-changelog]
+[![check markdown links][md-links-badge]][md-links-status]
 
 ![](https://img.shields.io/github/commit-activity/m/ivankatliarchuk/knowledge-base)
 ![](https://img.shields.io/github/contributors/ivankatliarchuk/knowledge-base)
@@ -16,7 +17,6 @@
 
 My public Knowledge repository.
 
-
 ## Markdown Documentation
 
 - [Markdown Link](https://daringfireball.net/projects/markdown/syntax#link)
@@ -28,3 +28,5 @@ My public Knowledge repository.
 [base-url]: https://ivankatliarchuk.github.io/knowledge-base
 [completed-actions-deploy]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/gh-pages.yml?query=is%3Acompleted
 [completed-actions-changelog]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/changelog.yml?query=is%3Acompleted
+[md-links-badge]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/markdown-links-checker.yml/badge.svg
+[md-links-status]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/markdown-links-checker.yml
