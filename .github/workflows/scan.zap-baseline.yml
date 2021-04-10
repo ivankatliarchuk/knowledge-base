@@ -1,0 +1,32 @@
+name: owasp-zaproxy-baseline
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ gh-pages ]
+  pull_request:
+    # The branches below must be a subset of the branches above
+    branches: [ gh-pages ]
+  schedule:
+    - cron: '37 10 * * 4'
+
+env:
+  ENDPOIND: https://ivankatliarchuk.github.io/knowledge-base
+
+jobs:
+  zap_scan:
+    runs-on: ubuntu-latest
+    name: Scan the webapplication
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: master
+      - name: ZAP Scan
+        uses: zaproxy/action-baseline@v0.4.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          docker_name: 'owasp/zap2docker-stable'
+          target: ${{ endpoint }}
+          rules_file_name: '.zap/rules.tsv'
+          cmd_options: '-a'
