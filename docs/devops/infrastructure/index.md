@@ -14,4 +14,5 @@ published: true
 - [Strapi: enabled content rich expirience to be creted and exposed](https://strapi.io){:target="_blank"}
 - [Netlify: instantly build and deploy web sites](https://www.netlify.com){:target="_blank"}
 - [TurnKey: cloud servers and backup](https://hub.turnkeylinux.org){:target="_blank"}
-- [Cloud Cannot: sync website from Git](https://cloudcannon.com/)
+- [Cloud Cannot: sync website from Git](https://cloudcannon.com/){:target="_blank"}
+- [Vercel: develop and ship website](https://vercel.com/pricing){:target="_blank"}

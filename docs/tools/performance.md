@@ -19,6 +19,7 @@ published: true
 - [Gatling on ECS](https://github.com/nearmap/gatling-on-ecs){:target="_blank"}
 - [Gatling AWS](https://github.com/NET-A-PORTER/gatling-on-aws){:target="_blank"}
 - [Gatling InfluxDB-Grafana Stack](https://github.com/dblooman/gatling-docker){:target="_blank"}
+- [Karate: combing any testing](https://github.com/intuit/karate)
 
 ## Load Testing Services
 
