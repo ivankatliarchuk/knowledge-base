@@ -28,6 +28,7 @@ jobs:
           sha: ${{ github.sha }}
           branch: ${{ github.ref }}
           author: ${{ github.actor }}
+          outputDirectory: /tmp/artifacts
 
       - name: handle lighthouse check results
         uses: foo-software/lighthouse-check-status-action@master
@@ -38,3 +39,24 @@ jobs:
           minPerformanceScore: "50"
           minProgressiveWebAppScore: "50"
           minSeoScore: "50"
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@master
+        with:
+          name: Lighthouse reports
+          path: /tmp/artifacts
+          
+      # https://github.com/JasonEtco/actions-toolkit#toolscontext
+      - name: create issue from file
+        uses: JasonEtco/create-an-issue@v2
+        id: create-issue
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ADJECTIVE: ${{ steps.lighthouseCheck.outputs.scores }}
+        with:
+          filename: ./github/lighthouse.md
+          assignees: ${{ github.actor }}
+          update_existing: true
+
+      - run: 'echo Created issue number ${{ steps.create-issue.outputs.number }}'
+      - run: 'echo Created ${{ steps.create-issue.outputs.url }}'

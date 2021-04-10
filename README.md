@@ -3,6 +3,8 @@
 [![](https://img.shields.io/github/workflow/status/ivankatliarchuk/knowledge-base/github-pages-deploy/master)][completed-actions-deploy]
 [![](https://github.com/ivankatliarchuk/knowledge-base/workflows/changelog/badge.svg)][completed-actions-changelog]
 [![check markdown links][md-links-badge]][md-links-status]
+[![owasp-zaproxy-baseline][owasp-zaproxy-baseline-badge]][owasp-zaproxy-baseline-status]
+[![lighthouse][lighthouse-badge]][lighthouse-status]
 
 ![](https://img.shields.io/github/commit-activity/m/ivankatliarchuk/knowledge-base)
 ![](https://img.shields.io/github/contributors/ivankatliarchuk/knowledge-base)
@@ -30,3 +32,7 @@ My public Knowledge repository.
 [completed-actions-changelog]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/changelog.yml?query=is%3Acompleted
 [md-links-badge]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/markdown-links-checker.yml/badge.svg
 [md-links-status]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/markdown-links-checker.yml
+[owasp-zaproxy-baseline-badge]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/scan.zap-baseline.yml/badge.svg
+[owasp-zaproxy-baseline-status]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/scan.zap-baseline.yml
+[lighthouse-badge]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/scan.lighthouse.yml/badge.svg
+[lighthouse-status]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/scan.lighthouse.yml

@@ -20,6 +20,7 @@ published: true
 
 ### WebSite Speed & Quality
 
+- [Foo software: Seo and performance](foo.software)
 - [Reputation Checker: website reputation checker](https://www.urlvoid.com){:target="_blank"}
 - [Page Speed](https://developers.google.com/speed/pagespeed/insights/){:target="_blank"}
 - [Varvy](https://varvy.com/){:target="_blank"}
