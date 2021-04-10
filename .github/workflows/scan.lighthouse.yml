@@ -42,7 +42,7 @@ jobs:
 
       - name: read file
         run: |
-          echo "${{ steps.lighthouseCheck.outputs }}"
+          echo "${{ toJSON(steps.lighthouseCheck.outputs) }}"
           echo "${{ steps.lighthouseCheck.outputs.lighthouseCheckResults.data.scores }}"
           echo "${{ steps.lighthouseCheck.outputs.lighthouseCheckResults.data.url }}"
 
