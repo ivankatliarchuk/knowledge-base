@@ -3,10 +3,8 @@ name: owasp-zaproxy-baseline
 on:
   workflow_dispatch:
   push:
-    branches: [ gh-pages ]
-  pull_request:
-    # The branches below must be a subset of the branches above
-    branches: [ gh-pages ]
+    branches: [ master, gh-pages ]
+
   schedule:
     - cron: '37 10 * * 4'
 
@@ -27,6 +25,6 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           docker_name: 'owasp/zap2docker-stable'
-          target: ${{ endpoint }}
-          rules_file_name: '.zap/rules.tsv'
+          target: ${{ env.ENDPOIND }}
+          # rules_file_name: '.zap/rules.tsv'
           cmd_options: '-a'
