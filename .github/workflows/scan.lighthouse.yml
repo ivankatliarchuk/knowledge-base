@@ -46,8 +46,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ADJECTIVE: ${{ steps.lighthouseCheck.outputs.scores }}
+          URL: ${{ steps.lighthouseCheck.outputs.url }}
         with:
-          filename: ./github/lighthouse.md
+          filename: ./github/templates/lighthouse.md
           assignees: ${{ github.actor }}
           update_existing: true
 

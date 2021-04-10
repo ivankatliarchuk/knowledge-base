@@ -6,3 +6,4 @@ labels: performance,seo
 
 Lighthouse audit data {{ env.ADJECTIVE }}
 
+{{ env.URL }}
