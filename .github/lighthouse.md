@@ -5,6 +5,3 @@ labels: performance,seo
 assignees: ''
 ---
 
-Lighthouse audit data {{ env.ADJECTIVE }}
-
-{{ env.URL }}
