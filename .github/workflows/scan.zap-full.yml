@@ -1,4 +1,4 @@
-name: owasp-zaproxy-baseline
+name: owasp-zaproxy-full
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     branches: [  $default-branch, gh-pages ]
 
   schedule:
-    - cron: '0 10 * * 6'
+    - cron: '0 10 * * 0'
 
 env:
   ENDPOIND: https://ivankatliarchuk.github.io/knowledge-base
@@ -14,14 +14,14 @@ env:
 jobs:
   zap_scan:
     runs-on: ubuntu-latest
-    name: Scan the webapplication
+    name: Scan fully the webapplication
     steps:
       - name: Checkout
         uses: actions/checkout@v2
         with:
           ref: master
       - name: ZAP Scan
-        uses: zaproxy/action-baseline@v0.4.0
+        uses: zaproxy/action-full-scan@v0.2.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           docker_name: 'owasp/zap2docker-stable'
