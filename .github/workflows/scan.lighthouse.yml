@@ -18,6 +18,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2.3.4
+        with:
+          fetch-depth: 1
 
       - name: run lighthouse
         uses: foo-software/lighthouse-check-action@master
@@ -29,9 +31,19 @@ jobs:
           sha: ${{ github.sha }}
           branch: ${{ github.ref }}
           author: ${{ github.actor }}
+          prCommentEnabled: true
+          prCommentSaveOld: true
+          outputDirectory: "_help"
+
+      # - name: Upload artifacts
+      #   uses: actions/upload-artifact@master
+      #   with:
+      #     name: Lighthouse reports
+      #     path: _help
 
       - name: handle lighthouse check results
         uses: foo-software/lighthouse-check-status-action@master
+        id: status
         with:
           lighthouseCheckResults: ${{ steps.lighthouseCheck.outputs.lighthouseCheckResults }}
           minAccessibilityScore: "90"
@@ -40,11 +52,15 @@ jobs:
           minProgressiveWebAppScore: "50"
           minSeoScore: "50"
 
-      - name: read file
+      - name: results
+        id: results
         run: |
-          echo "${{ toJSON(steps.lighthouseCheck.outputs) }}"
-          echo "${{ steps.lighthouseCheck.outputs.lighthouseCheckResults.data.scores }}"
-          echo "${{ steps.lighthouseCheck.outputs.lighthouseCheckResults.data.url }}"
+          echo "::set-output name=accessibility::$(cat _help/results.json | jq '.[] | .scores.accessibility')"
+          echo "::set-output name=bestPractices::$(cat _help/results.json | jq '.[] | .scores.bestPractices')"
+          echo "::set-output name=performance::$(cat _help/results.json | jq '.[] | .scores.performance')"
+          echo "::set-output name=progressiveWebApp::$(cat _help/results.json | jq '.[] | .scores.progressiveWebApp')"
+          echo "::set-output name=seo::$(cat _help/results.json | jq '.[] | .scores.seo')"
+          echo ${{ toJson(steps.status.outputs)}}
 
       # https://github.com/JasonEtco/actions-toolkit#toolscontext
       - name: create issue from file
@@ -52,8 +68,11 @@ jobs:
         id: create-issue
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SCORE: ${{ steps.lighthouseCheck.outputs.lighthouseCheckResults.scores }}
-          URL: ${{ steps.lighthouseCheck.outputs.lighthouseCheckResults.url }}
+          ACCESSIBILITY: ${{ steps.results.outputs.accessibility }}
+          BEST_PRACTICES: ${{ steps.results.outputs.bestPractices }}
+          PERFORMANCE: ${{ steps.results.outputs.performance }}
+          PROGRESSIVE_WEBAPP: ${{ steps.results.outputs.progressiveWebApp }}
+          SEO: ${{ steps.results.outputs.seo }}
           TITLE: 'Lighthosue performance'
         with:
           filename: ${{ env.TEMPLATE }}

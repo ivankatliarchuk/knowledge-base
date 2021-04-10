@@ -1,14 +1,16 @@
 ---
-title: "Lightouse weekly report {{ date | date('MMMM Do') | date('add', 3, 'days') }} - {{ date | date('add', 7, 'days') | date('Do') }}"
+title: "Lightouse weekly report"
 about: 'Are your scores flaky? You can run audits on Foo for stability and maintain a historical record! '
 assignees: ivankatliarchuk
-labels: ''
+labels: performance
 ---
 
-## Current Score
-{{ env.SCORE }}
+## Lighthouse Audit
 
 
-{{ env.URL }}
+| Accessibility            | Best Practices          |   Performance        | Progressive Web App          | SEO            |
+|:------------------------:|:-----------------------:|:--------------------:|:----------------------------:|:--------------:|
+| {{ env.ACCESSIBILITY }}  | {{ env.BEST_PRACTICES}} | {{ env.PERFORMANCE}} | {{ env.PROGRESSIVE_WEBAPP }} | {{ env.SEO }}  |
 
-updated: {{ date | date('dddd, MMMM Do') }}
+
+**Updated: {{ date | date('YYYY Do') }} of {{ date | date('MMMM') }}**
