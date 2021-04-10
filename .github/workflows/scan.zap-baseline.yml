@@ -3,7 +3,7 @@ name: owasp-zaproxy-baseline
 on:
   workflow_dispatch:
   push:
-    branches: [ master, gh-pages ]
+    branches: [  $default-branch, gh-pages ]
 
   schedule:
     - cron: '37 10 * * 4'
