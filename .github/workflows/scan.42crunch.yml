@@ -1,3 +1,5 @@
+name: skap-api-with-42crunch
+
 on:
   workflow_dispatch:
   push:
