@@ -5,10 +5,9 @@ on:
     branches: [$default-branch, gh-pages]
   pull_request:
     branches: [$default-branch, gh-pages]
+    types: [opened,assigned,synchronize]
   schedule:
     - cron: '0 10 * * 2'
-  pull_request:
-    types: [opened,assigned,synchronize]
 
 env:
   ENDPOIND: https://ivankatliarchuk.github.io/knowledge-base
