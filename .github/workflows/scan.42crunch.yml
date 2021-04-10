@@ -1,0 +1,25 @@
+on:
+  workflow_dispatch:
+  push:
+    branches: [  $default-branch, gh-pages ]
+
+  schedule:
+    - cron: '0 10 * * 4'
+
+env:
+  ENDPOIND: https://ivankatliarchuk.github.io/knowledge-base
+
+jobs:
+  rest-api-static-security-testing:
+    runs-on: ubuntu-latest
+    name: 42crunch rest api security testing
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: 42Crunch REST API Static Security Testing
+        uses: 42Crunch/api-security-audit-action@v1
+        with:
+          # Please create free account at https://platform.42crunch.com/register
+          # Follow these steps to configure API_TOKEN https://docs.42crunch.com/latest/content/tasks/integrate_github_actions.htm
+          api-token: ${{ secrets.API_TOKEN_42CRUNCH }}
+          collection-name: GitHub Actions test collection
