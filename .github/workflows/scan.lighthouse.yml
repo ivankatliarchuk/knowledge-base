@@ -11,7 +11,7 @@ on:
 
 env:
   ENDPOIND: https://ivankatliarchuk.github.io/knowledge-base
-  TEMPLATE: .github/templates/lighthouse.md
+  TEMPLATE: .github/templates/issue.lighthouse.md
 
 jobs:
   lighthouse:

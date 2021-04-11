@@ -20,6 +20,8 @@ published: true
 
 - [Review Dog: ][review-dog]{:target="_blank"}
 - [Danger: automate common code review chores(js,ruby,swift,python)](https://danger.systems){:target="_blank"}
+- [Dynamic code analysis](https://github.com/analysis-tools-dev/dynamic-analysis)
+- [Static code anaylist](https://github.com/analysis-tools-dev/static-analysis)
 
 ## Dependency licencing
 

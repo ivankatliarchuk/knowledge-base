@@ -17,3 +17,7 @@ published: true
 
 - [Chronograph](https://docs.influxdata.com/chronograf)
 - [Sumo Logic](https://help.sumologic.com/07Sumo-Logic-Apps/24Web_Servers/Apache/Apache-App-Dashboards#Dashboards)
+
+## OPS monitoring
+
+- [Real-time performance monitoring](https://github.com/netdata/netdata)
