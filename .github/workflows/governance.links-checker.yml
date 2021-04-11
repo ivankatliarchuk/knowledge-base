@@ -17,18 +17,15 @@ on:
 
 env:
   # COMMAND: --exclude="^(javascript|chrome):.*" --no-progress --accept=200,403,429 "docs/**/*.md" "README.md"
-  COMMAND: --exclude="^(javascript|chrome):.*" --no-progress --accept=200,403,429 "*.md" "README.md"
   TEMPLATE: .github/templates/issue.links.md
-  OUTPUT: ./lychee/out.md
+  LYCHEE_OUT: /tmp/lychee/out.md
 
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
     # checkout to latest commit
-    - uses: actions/checkout@master
-      with:
-        fetch-depth: 1
+    - uses: actions/checkout@v2
     # run markdown linter
     # - uses: gaurav-nelson/github-action-markdown-link-check@v1
     # todo https://github.com/peter-evans/link-checker
@@ -37,14 +34,29 @@ jobs:
       uses: lycheeverse/lychee-action@v1.0.6
       # if: failure()
       with:
-        args: ${{ env.COMMAND }}
+        args: >
+          --exclude="^(javascript|chrome):.*"
+          --exclude "^git"
+          --exclude "^file://"
+          --verbose
+          --no-progress
+          --accept=200,403,429
+          --timeout 20
+          "*.md"
+          "README.md"
+          "*.toml"
+          "**/*.toml"
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
     - name: results
       id: read
       run: |
-        echo "::set-output name=results::$(cat ./lychee/out.md)"
+        ls -la
+        echo "temp"
+        ls -la /tmp
+        echo "::set-output name=results::$(cat lychee/out.md)"
+        echo "${{ steps.lychee.outputs.exit_code  }}"
 
     - name: write to changelog.md
       uses: DamianReeves/write-file-action@master
@@ -57,6 +69,7 @@ jobs:
     - name: create issue from file
       uses: JasonEtco/create-an-issue@v2.5.0
       id: create-issue
+      if: ${{ steps.lychee.outputs.exit_code > 0 }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         TITLE: 'Markdwon links checker'
