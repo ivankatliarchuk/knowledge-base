@@ -1,4 +1,4 @@
-name: check markdown links
+name: governane.link-checker
 
 # Run action on pull request event
 on:
