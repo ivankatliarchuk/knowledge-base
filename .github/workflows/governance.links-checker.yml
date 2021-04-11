@@ -1,4 +1,4 @@
-name: governane.link-checker
+name: governance.link-checker
 
 # Run action on pull request event
 on:
@@ -17,9 +17,9 @@ on:
 
 env:
   # COMMAND: --exclude="^(javascript|chrome):.*" --no-progress --accept=200,403,429 "docs/**/*.md" "README.md"
-  COMMAND: --exclude="^(javascript|chrome):.*" --no-progress --accept=200,403,429 --output out.md "*.md" "README.md"
+  COMMAND: --exclude="^(javascript|chrome):.*" --no-progress --accept=200,403,429 "*.md" "README.md"
   TEMPLATE: .github/templates/issue.links.md
-  OUTPUT: /tmp/lychee/out.md
+  OUTPUT: ./lychee/out.md
 
 jobs:
   markdown-link-check:
@@ -44,13 +44,14 @@ jobs:
     - name: results
       id: read
       run: |
-        echo "::set-output name=results::$(cat out.md)"
+        echo "::set-output name=results::$(cat ./lychee/out.md)"
 
     - name: write to changelog.md
       uses: DamianReeves/write-file-action@master
       with:
         path: .github/templates/issue.links.md
-        contents: ${{ steps.read.outputs.results }}
+        contents: |
+          ${{ steps.read.outputs.results }}
         write-mode: append
 
     - name: create issue from file

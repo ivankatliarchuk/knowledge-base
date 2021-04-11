@@ -1,4 +1,4 @@
-name: owasp-zaproxy-full
+name: scan.owasp-zaproxy-full
 
 on:
   workflow_dispatch:

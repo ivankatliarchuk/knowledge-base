@@ -1,4 +1,4 @@
-name: owasp-zaproxy-baseline
+name: scan.owasp-zaproxy-baseline
 
 on:
   workflow_dispatch:

@@ -30,8 +30,8 @@ My public Knowledge repository.
 [base-url]: https://ivankatliarchuk.github.io/knowledge-base
 [completed-actions-deploy]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/gh-pages.yml?query=is%3Acompleted
 [completed-actions-changelog]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/changelog.yml?query=is%3Acompleted
-[md-links-badge]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/markdown-links-checker.yml/badge.svg
-[md-links-status]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/markdown-links-checker.yml
+[md-links-badge]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/governance.links-checker.yml/badge.svg
+[md-links-status]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/governance.links-checker.yml
 [owasp-zaproxy-baseline-badge]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/scan.zap-baseline.yml/badge.svg
 [owasp-zaproxy-baseline-status]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/scan.zap-baseline.yml
 [lighthouse-badge]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/scan.lighthouse.yml/badge.svg
