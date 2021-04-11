@@ -10,7 +10,8 @@ jobs:
   welcome-new-contributor:
     runs-on: ubuntu-latest
     if: >
-      github.actor != 'renovate[bot]' || github.actor != 'dependabot-preview[bot]' || github.actor != 'renovate'
+      github.actor != 'renovate[bot]' || github.actor != 'dependabot-preview[bot]' || github.actor != 'renovate' ||
+        github.actor != ${{ github.repository_owner }}
     steps:
       - run: 'echo user ${{ github.actor }}'
 
