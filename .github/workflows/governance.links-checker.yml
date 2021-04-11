@@ -5,11 +5,20 @@ on:
   push:
     branches:
       - master  # Set a branch to deploy
+    paths:
+      - 'docs/**/*.md'
   pull_request:
     types: [opened, edited]
+    paths:
+      - 'docs/**/*.md'
   schedule:
-  - cron: "0 9 * * *"
+  - cron: "0 9 * * 1"
   workflow_dispatch:
+
+env:
+  # COMMAND: --exclude="^(javascript|chrome):.*" --no-progress --accept=200,403,429 "docs/**/*.md" "README.md"
+  COMMAND: --exclude="^(javascript|chrome):.*" --no-progress --accept=200,403,429 "*.md" "README.md"
+  TEMPLATE: .github/templates/issue.links.md
 
 jobs:
   markdown-link-check:
@@ -20,17 +29,39 @@ jobs:
       with:
         fetch-depth: 1
     # run markdown linter
-    - uses: gaurav-nelson/github-action-markdown-link-check@v1
+    # - uses: gaurav-nelson/github-action-markdown-link-check@v1
     # todo https://github.com/peter-evans/link-checker
     - name: link checker
-      uses: lycheeverse/lychee-action@v1.0.6
-      if: failure()
       id: lychee
+      uses: lycheeverse/lychee-action@v1.0.6
+      # if: failure()
+      with:
+        args: ${{ env.COMMAND }}
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
     - name: results
-      id: results
+      id: read
       run: |
-        cat ./lychee/out.md
+        echo "::set-output name=results::$(cat ./lychee/out.md)"
+
+    - name: write to changelog.md
+      uses: DamianReeves/write-file-action@master
+      with:
+        path: .github/templates/issue.links.md
+        contents: ${{ steps.read.outputs.results }}
+        write-mode: append
+
+    - name: create issue from file
+      uses: JasonEtco/create-an-issue@v2.5.0
+      id: create-issue
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        TITLE: 'Markdwon links checker'
+      with:
+        filename: ${{ env.TEMPLATE }}
+        assignees: ${{ github.actor }}
+        update_existing: true
 
     - name: Fail if there were link errors
       run: exit ${{ steps.lychee.outputs.exit_code }}
