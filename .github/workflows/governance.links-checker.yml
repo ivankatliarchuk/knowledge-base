@@ -10,9 +10,6 @@ on:
   schedule:
   - cron: "0 9 * * *"
   workflow_dispatch:
-    inputs:
-      tags:
-        description: 'manual trigger'
 
 jobs:
   markdown-link-check:
@@ -20,6 +17,20 @@ jobs:
     steps:
     # checkout to latest commit
     - uses: actions/checkout@master
+      with:
+        fetch-depth: 1
     # run markdown linter
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
     # todo https://github.com/peter-evans/link-checker
+    - name: link checker
+      uses: lycheeverse/lychee-action@v1.0.6
+      if: failure()
+      id: lychee
+
+    - name: results
+      id: results
+      run: |
+        cat ./lychee/out.md
+
+    - name: Fail if there were link errors
+      run: exit ${{ steps.lychee.outputs.exit_code }}
