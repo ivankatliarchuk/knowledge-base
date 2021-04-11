@@ -9,7 +9,11 @@ on:
 jobs:
   welcome-new-contributor:
     runs-on: ubuntu-latest
+    if: >
+      github.actor != 'renovate[bot]' || github.actor != 'dependabot-preview[bot]' || github.actor != 'renovate'
     steps:
+      - run: 'echo user ${{ github.actor }}'
+
       - name: 'Greet the contributor'
         uses: garg3133/welcome-new-contributors@v1.2
         with:
