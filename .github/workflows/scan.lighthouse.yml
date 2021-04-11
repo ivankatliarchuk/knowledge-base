@@ -60,7 +60,6 @@ jobs:
           echo "::set-output name=performance::$(cat _help/results.json | jq '.[] | .scores.performance')"
           echo "::set-output name=progressiveWebApp::$(cat _help/results.json | jq '.[] | .scores.progressiveWebApp')"
           echo "::set-output name=seo::$(cat _help/results.json | jq '.[] | .scores.seo')"
-          echo ${{ toJson(steps.status.outputs)}}
 
       # https://github.com/JasonEtco/actions-toolkit#toolscontext
       - name: create issue from file
@@ -76,7 +75,7 @@ jobs:
           TITLE: 'Lighthosue performance'
         with:
           filename: ${{ env.TEMPLATE }}
-          assignees: ${{ github.actor }}
+          assignees: ${{ github.repository_owner }}
           update_existing: true
 
       - run: 'echo Created issue number ${{ steps.create-issue.outputs.number }}'

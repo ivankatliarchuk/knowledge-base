@@ -18,7 +18,8 @@ on:
 env:
   # COMMAND: --exclude="^(javascript|chrome):.*" --no-progress --accept=200,403,429 "docs/**/*.md" "README.md"
   TEMPLATE: .github/templates/issue.links.md
-  LYCHEE_OUT: /tmp/lychee/out.md
+  LYCHEE_OUT: out.md
+  USER_AGENT: "Mozilla/5.0 (X11; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0"
 
 jobs:
   markdown-link-check:
@@ -26,6 +27,8 @@ jobs:
     steps:
     # checkout to latest commit
     - uses: actions/checkout@v2
+      with:
+        fetch-depth: 1
     # run markdown linter
     # - uses: gaurav-nelson/github-action-markdown-link-check@v1
     # todo https://github.com/peter-evans/link-checker
@@ -44,39 +47,43 @@ jobs:
           --timeout 20
           "*.md"
           "README.md"
+          "docs/**/*.md"
           "*.toml"
           "**/*.toml"
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
+    - name: read '${{ env.LYCHEE_OUT }}'
+      id: readfile
+      uses: juliangruber/read-file-action@v1
+      if: ${{ steps.lychee.outputs.exit_code > 0 }}
+      with:
+        path: ${{ env.LYCHEE_OUT }}
+
     - name: results
       id: read
       run: |
-        ls -la
-        echo "temp"
-        ls -la /tmp
-        echo "::set-output name=results::$(cat lychee/out.md)"
-        echo "${{ steps.lychee.outputs.exit_code  }}"
+        echo "exit code: ${{ steps.lychee.outputs.exit_code  }}"
 
-    - name: write to changelog.md
+    - name: update issue template
       uses: DamianReeves/write-file-action@master
+      if: ${{ steps.lychee.outputs.exit_code > 0 }}
       with:
         path: .github/templates/issue.links.md
-        contents: |
-          ${{ steps.read.outputs.results }}
+        contents: ${{ steps.readfile.outputs.content }}
         write-mode: append
 
     - name: create issue from file
       uses: JasonEtco/create-an-issue@v2.5.0
-      id: create-issue
+      id: issue
       if: ${{ steps.lychee.outputs.exit_code > 0 }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         TITLE: 'Markdwon links checker'
       with:
         filename: ${{ env.TEMPLATE }}
-        assignees: ${{ github.actor }}
+        assignees: ${{ github.repository_owner }}
         update_existing: true
 
-    - name: Fail if there were link errors
+    - name: fail if there were link errors
       run: exit ${{ steps.lychee.outputs.exit_code }}
