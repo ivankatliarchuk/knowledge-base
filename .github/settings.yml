@@ -11,6 +11,8 @@ repository:
   has_projects: false
   has_wiki: false
   has_downloads: false
+  has_pages: true
+  is_template: false
   default_branch: master
   allow_squash_merge: true
   allow_merge_commit: true
@@ -18,8 +20,6 @@ repository:
   delete_branch_on_merge: true
   enable_automated_security_fixes: true
   enable_vulnerability_alerts: false
-  has_pages: true
-
 
 branches:
   - name: master

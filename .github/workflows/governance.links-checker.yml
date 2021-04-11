@@ -16,7 +16,6 @@ on:
   workflow_dispatch:
 
 env:
-  # COMMAND: --exclude="^(javascript|chrome):.*" --no-progress --accept=200,403,429 "docs/**/*.md" "README.md"
   TEMPLATE: .github/templates/issue.links.md
   LYCHEE_OUT: out.md
   USER_AGENT: "Mozilla/5.0 (X11; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0"
