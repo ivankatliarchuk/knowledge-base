@@ -30,10 +30,13 @@ start: ## Start it
 requirements: ## Generate requirements.txt
 	@pipenv run pip freeze > requirements.txt
 
+deps: ## Install dependencies
+	@pip install -r requirements.txt
+
 run-on-container: ## Run on container
 	@docker run --rm -it \
 	-v ${PWD}:/tmp -w /tmp \
 	lycheeverse/lychee \
-    --verbose --no-progress --accept=200,403,429 \
-    --exclude="^(javascript|chrome):.*" \
-    --output out.md "docs/**/*.md" "README.md"
+	--verbose --no-progress --accept=200,403,429 \
+	--exclude="^(javascript|chrome):.*" \
+	--output out.md "docs/**/*.md" "README.md"
