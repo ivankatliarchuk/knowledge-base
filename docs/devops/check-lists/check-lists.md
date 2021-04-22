@@ -17,7 +17,7 @@ published: true
 - [Oreily Readiness](https://learning.oreilly.com/library/view/production-ready-microservices/9781491965962/app01.html){:target=_blank}
 - [Sysadmins/DevOps Launch Checklist](https://sysadmincasts.com/episodes/70-devops-launch-checklist){:target=_blank}
 - [Kubernets Production best practices](https://learnk8s.io/production-best-practices){:target=_blank}
-- [DevOps security checklist](https://www.sqreen.com/checklists/devops-security-checklist){:target=_blank}
+- [DevOps security checklist](https://www.xenonstack.com/insights/devsecops-security){:target=_blank}
 - [Logging Readiness](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html){:target=_blank}
 - [Docker: owasp hardening](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)
 - [Google Lunch Checklist](https://cloud.google.com/docs/platform-launch-checklist){:target=_blank}
