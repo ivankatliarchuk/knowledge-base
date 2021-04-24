@@ -26,7 +26,7 @@ mkdocs-material-extensions==1.0.1
 mkdocs-minify-plugin==0.4.0
 mkdocs-monorepo-plugin==0.4.14
 mkdocs-pdf-export-plugin==0.5.8
-mkdocs-redirects==1.0.1
+mkdocs-redirects==1.0.2
 mkdocs-same-dir==0.1.0
 nltk==3.6.2
 Pillow==8.2.0
