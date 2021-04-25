@@ -51,9 +51,9 @@ published: true
 [autpipelines]: https://github.com/ivankatliarchuk/awesome-pipeline
 [aw-python]: https://github.com/ivankatliarchuk/awesome-python
 [aw-networkautomation]: https://github.com/ivankatliarchuk/awesome-network-automation
-[aw-actions]: https://github.com/ivankatliarchuk/awesome-actions
-[aw-pentest-web]: https://github.com/ivankatliarchuk/awesome-web-hacking
-[aw-static-analysis]: https://github.com/ivankatliarchuk/awesome-static-analysis
+[aw-actions]: https://github.com/sdras/awesome-actions
+[aw-pentest-web]: https://github.com/infoslack/awesome-web-hacking
+[aw-static-analysis]: https://github.com/analysis-tools-dev/static-analysis
 [aw-keycloak]: https://github.com/ivankatliarchuk/awesome-keycloak
 [aw-aws]: https://github.com/ivankatliarchuk/awesome-aws
 [aw-scalability]: https://github.com/ivankatliarchuk/awesome-scalability

@@ -8,16 +8,27 @@ date: 2021-04-25
 
 # Awesome pages
 
+- [awesome of awesome](https://github.com/sindresorhus/awesome)
+- [scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [analysis tools](https://github.com/analysis-tools-dev/static-analysis)
-- [awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
 - [split-keyboards](https://github.com/diimdeep/awesome-split-keyboards)
 - [monorepo](https://github.com/korfuri/awesome-monorepo)
+- [cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+- [dev environment](https://github.com/jondot/awesome-devenv)
+- [tmux](https://github.com/ivankatliarchuk/awesome-tmux)
+- [open university projects](https://github.com/tejado/awesome-ou-projects)
+
+## Security
+
 - [pentest](https://github.com/enaqx/awesome-pentest)
+- [web hacking](https://github.com/infoslack/awesome-web-hacking)
+- [web security](https://github.com/qazbnm456/awesome-web-security)
 
 ## Coding
 
 - [Python](https://github.com/vinta/awesome-python)
 - [TypeScript](https://github.com/dzharii/awesome-typescript)
+- [ReactNative](https://github.com/jondot/awesome-react-native)
 
 ## Infrastructure
 
@@ -28,6 +39,11 @@ date: 2021-04-25
 - [serverless](https://github.com/anaibol/awesome-serverless)
 - [status pages](https://github.com/ivbeg/awesome-status-pages)
 - [terraform](https://github.com/shuaibiyy/awesome-terraform)
+
+## CI and Automation
+
+- [github actions](https://github.com/sdras/awesome-actions)
+- [pipeline](https://github.com/pditommaso/awesome-pipeline)
 
 ### Cloud Vendors
 

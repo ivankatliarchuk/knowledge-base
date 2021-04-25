@@ -1,6 +1,6 @@
 ---
-title: awesome pages
-summary: awesome pages
+title: quicklinks
+summary: quick links
 author: "ik"
 tags: ["main", "quick links"]
 date: 2021-04-25

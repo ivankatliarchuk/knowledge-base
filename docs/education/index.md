@@ -15,10 +15,13 @@ published: true
 
 ## Leadership
 
+Must read
+
 - [ ] [Good Strategy and Bad Strategy][good-bad-strategy]
 - [ ] [Leading Snowflakes](http://leadingsnowflakes.com/)
 - [ ] [Accelerate: scale technology organisations][accelerate]
 - [ ] [The first 90 days: techonology strategies][accelerate]
+- [ ] [Scale Everything](https://github.com/binhnguyennus/awesome-scalability)
 
 <!-- resources -->
 [good-bad-strategy]: https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy
