@@ -97,7 +97,7 @@ extra:
       link: https://www.hackerrank.com/tanzwud
 
 nav:
-  - Home: |
+  - Home:
     - index.md
     - quicklinks.md
     - awesome-pages.md
