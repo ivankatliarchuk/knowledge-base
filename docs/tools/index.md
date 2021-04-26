@@ -11,6 +11,7 @@ date: 2021-03-24
 ## Home Automation
 
 - [Home Assistant](https://www.home-assistant.io/hassio/)
+- [Hacks: home assistant](https://hacs.xyz/)
 
 ## API Fixtures & Documentation & Datasets
 
