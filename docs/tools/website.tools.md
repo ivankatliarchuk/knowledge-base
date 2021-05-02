@@ -30,6 +30,8 @@ published: true
 - [WebPageTest](https://www.webpagetest.org/){:target="_blank"}
 - [PingDom](https://www.pingdom.com){:target="_blank"}
 - [Uptime](https://uptime.com/){:target="_blank"}
+- [Uptimerobot](https://uptimerobot.com)
+- [Uptime: github](https://github.com/upptime/upptime)
 - [Hexometer](https://hexometer.com/){:target="_blank"}
 
 ### React Libraries
