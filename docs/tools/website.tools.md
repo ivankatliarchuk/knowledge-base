@@ -32,6 +32,7 @@ published: true
 - [Uptime](https://uptime.com/){:target="_blank"}
 - [Uptimerobot](https://uptimerobot.com)
 - [Uptime: github](https://github.com/upptime/upptime)
+- [Uptime: js](https://upptime.js.org/docs/)
 - [Hexometer](https://hexometer.com/){:target="_blank"}
 
 ### React Libraries

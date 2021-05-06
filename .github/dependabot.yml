@@ -1,6 +1,3 @@
-# https://dependabot.com/docs/config-file/
-# https://docs.github.com/en/code-security/supply-chain-security/configuration-options-for-dependency-updates#about-the-dependabotyml-file
-# https://dependabot.com/docs/config-file/validator
 # @todo: should be synced
 version: 2
 updates:
@@ -12,7 +9,7 @@ updates:
       - ":game_die: dependencies"
       - ":robot: bot"
     commit-message:
-      prefix: deps
+      prefix: chore
       include: "scope"
     reviewers:
       - ivankatliarchuk
@@ -22,7 +19,7 @@ updates:
     schedule:
       interval: "daily"
     commit-message:
-      prefix: ci
+      prefix: chore
       include: "scope"
     labels:
       - ":game_die: dependencies"
@@ -40,7 +37,7 @@ updates:
     reviewers:
       - ivankatliarchuk
     commit-message:
-      prefix: git
+      prefix: chore
       include: "scope"
 
   - package-ecosystem: "gomod"
@@ -48,7 +45,7 @@ updates:
     schedule:
       interval: "weekly"
     commit-message:
-      prefix: go
+      prefix: chore
       include: "scope"
     labels:
       - ":game_die: dependencies"
@@ -63,7 +60,7 @@ updates:
     schedule:
       interval: "weekly"
     commit-message:
-      prefix: docker
+      prefix: chore
       include: "scope"
     labels:
       - ":game_die: dependencies"
@@ -76,7 +73,7 @@ updates:
     schedule:
       interval: "daily"
     commit-message:
-      prefix: node
+      prefix: chore
       include: "scope"
     labels:
       - ":game_die: dependencies"
