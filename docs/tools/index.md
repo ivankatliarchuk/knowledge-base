@@ -41,6 +41,7 @@ date: 2021-03-24
 
 - [API: beautiful static documentation for your api](https://github.com/slatedocs/slate)
 - [Postman: document generation](https://github.com/thedevsaddam/docgen)
+- [Stoplight: api design](https://stoplight.io/pricing/)
 
 ## Datasets
 
