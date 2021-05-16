@@ -64,3 +64,6 @@ date: 2021-03-24
 - [Mock API: mockoon](https://mockoon.com/)
 - [Mock API: wiremock](http://wiremock.org/)
 - [Mock API: httpbin](https://httpbin.org/#/)
+- [Mock API: mockend](https://docs.mockend.com)
+- [Mock API: json server](https://github.com/typicode/json-server)
+- [Mock API: json place holder](https://jsonplaceholder.typicode.com)
