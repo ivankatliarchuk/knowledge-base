@@ -8,6 +8,10 @@ date: 2021-04-25
 
 # Quick Links
 
+## Cheet Sheets
+
+- [CheatSheet](https://cheatsheet.dennyzhang.com/)
+
 ## Wallpepers
 
 - [Top Wallpapers][top-wallpapers]{:target="_blank"}

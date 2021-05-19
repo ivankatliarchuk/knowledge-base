@@ -46,6 +46,7 @@ date: 2021-03-24
 ## Datasets
 
 - [Kaggle](https://www.kaggle.com/datasets)
+- [Flat Data: github store](https://octo.github.com/projects/flat-data)
 
 ## API Testing Strategies
 
