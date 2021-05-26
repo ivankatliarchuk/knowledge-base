@@ -40,7 +40,7 @@ six==1.16.0
 soupsieve==2.2.1
 tinycss2==1.1.0
 tornado==6.1
-tqdm==4.60.0
+tqdm==4.61.0
 wcmatch==8.2
 WeasyPrint==52.5
 webencodings==0.5.1
