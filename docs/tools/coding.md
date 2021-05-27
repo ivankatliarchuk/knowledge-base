@@ -39,6 +39,12 @@ published: true
 - [Subprocess CMD](https://github.com/amitt001/delegator.py)
 - [Progress Bar](https://github.com/rsalmei/alive-progress)
 
+### Manage environment variables
+
+- [Dotenv](https://pypi.org/project/python-dotenv)
+- [Decouple: separate config from code](https://github.com/henriquebastos/python-decouple/)
+- [Environs: simplified environment variable parsing](https://github.com/sloria/environs)
+
 ### Tasks & Automation (python)
 
 - [Invoke](http://www.pyinvoke.org/)
@@ -116,5 +122,9 @@ published: true
 
 - [Security Headers](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders)
 - [Session Security](https://docs.nwebsec.com/en/latest/nwebsec/getting-started.html)
+
+### Linters
+
+- [flexible JSON/YAML linter](https://github.com/stoplightio/spectral)
 
 [review-dog]: https://github.com/reviewdog/reviewdog
