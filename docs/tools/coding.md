@@ -75,6 +75,7 @@ published: true
 - [Keymaker](https://pypi.org/project/keymaker/)
 - [AWS SSM ssh](https://github.com/mludvig/aws-ssm-tools)
 - [AWS IAM: parliament](https://pypi.org/project/parliament/)
+- [Cloud diagrams](https://github.com/mingrammer/diagrams)
 
 ### TCP&HTTP&Socks (python)
 
