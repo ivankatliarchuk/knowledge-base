@@ -45,6 +45,10 @@ published: true
 - [Decouple: separate config from code](https://github.com/henriquebastos/python-decouple/)
 - [Environs: simplified environment variable parsing](https://github.com/sloria/environs)
 
+### Python API
+
+- [Tenacity: retry library](https://tenacity.readthedocs.io/en/latest)
+
 ### Tasks & Automation (python)
 
 - [Invoke](http://www.pyinvoke.org/)
