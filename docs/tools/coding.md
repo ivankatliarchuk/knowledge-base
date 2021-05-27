@@ -75,7 +75,11 @@ published: true
 - [Keymaker](https://pypi.org/project/keymaker/)
 - [AWS SSM ssh](https://github.com/mludvig/aws-ssm-tools)
 - [AWS IAM: parliament](https://pypi.org/project/parliament/)
+- [Cloud discovery](https://github.com/Cloud-Architects/cloudiscovery)
 - [Cloud diagrams](https://github.com/mingrammer/diagrams)
+- [Go diagrams](https://github.com/blushft/go-diagrams)
+- [Go Cloud discovery](https://github.com/twistlock/cloud-discovery)
+- [Go cloud lists](https://github.com/projectdiscovery/cloudlist)
 
 ### TCP&HTTP&Socks (python)
 
