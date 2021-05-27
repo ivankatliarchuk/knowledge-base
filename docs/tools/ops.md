@@ -25,3 +25,6 @@ published: true
 
 - [Real-time performance monitoring](https://github.com/netdata/netdata)
 - [Promethues log aggregation](https://github.com/grafana/loki)
+- [Alertmanager dashboard](https://github.com/prymitive/karma)
+- [Swagger statistics](https://swaggerstats.io)
+
