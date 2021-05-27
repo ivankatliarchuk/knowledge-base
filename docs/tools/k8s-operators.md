@@ -20,5 +20,8 @@ published: true
 - [Cluster Operator Giant Swarm](https://github.com/giantswarm/cluster-operator)
 - [Secrets Operator](https://github.com/cyberark/secrets-provider-for-k8s)
 - [Prometheus Operator](https://coreos.com/blog/the-prometheus-operator.html)
+- [Prometheus Operator: oficial](https://github.com/prometheus-operator/kube-prometheus)
 - [Shell Operator](https://medium.com/flant-com/kubernetes-shell-operator-76c596b42f23)
 - [Sandbox Setup](https://github.com/plexsystems/sandbox-operator)
+- [Harbor operator](https://github.com/goharbor/harbor-operator)
+- [Banzaicloud: logging exporter](https://github.com/banzaicloud/logging-operator)

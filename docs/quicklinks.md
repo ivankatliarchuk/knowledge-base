@@ -38,6 +38,11 @@ date: 2021-04-25
 - [Simple images(pngimg)](https://pngimg.com){:target="_blank"}
 - [DeepArt: turn photoes into art](https://deepart.io/){:target="_blank"}
 
+## Gmail Slides & PowerPoint
+
+- [Slidesgo: google slides and powerpoint](https://slidesgo.com/slidesgo-school){:target="_blank"}
+- [SlidesCarnival: slides and themes for presentation](https://www.slidescarnival.com/){:target="_blank"}
+
 ## Resume Generator
 
 - [Generate Resume: mostly for fun](https://thisresumedoesnotexist.com)

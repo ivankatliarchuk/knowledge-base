@@ -34,6 +34,7 @@ published: true
 - [Kube Dog. Monitor resoruces in cluster](https://github.com/flant/kubedog)
 - [Stern Logs. Really Good](https://github.com/wercker/stern)
 - [Kail](https://github.com/boz/kail)
+- [K8s event exporter](https://github.com/opsgenie/kubernetes-event-exporter)
 
 ### Kubernetes Visualisers
 
@@ -64,7 +65,7 @@ published: true
 
 ## Security
 
-- [Sanitize Manifests](https://github.com/ik-kubernetes/popeye)
+- [K8s cluster sanitizer](https://github.com/ik-kubernetes/popeye)
 - [KubeHunber](https://github.com/aquasecurity/kube-hunter)
 - [Kube Bench](https://github.com/aquasecurity/kube-bench)
 - [Security.info](https://kubernetes-security.info/)
