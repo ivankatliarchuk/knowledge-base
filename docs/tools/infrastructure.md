@@ -30,7 +30,8 @@ published: true
 
 ## Chaos Tooling
 
-- [Chaos toolkit: CNCF](https://chaostoolkit.org){:target="_blank"}
+- [Chaos toolkit: k8s](https://chaostoolkit.org){:target="_blank"}
 - [Chaos monkey: Netflix](https://netflix.github.io/chaosmonkey){:target="_blank"}
+- [Chaos mesh: kubernetes](https://github.com/asobti/kube-monkey){:target="_blank"}
 - [Chaos Mesh: CNCF](https://github.com/chaos-mesh/chaos-mesh){:target="_blank"}
-- [Toxic proxy](https://github.com/Shopify/toxiproxy)
+- [Toxic proxy](https://github.com/Shopify/toxiproxy){:target="_blank"}
