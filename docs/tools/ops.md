@@ -27,4 +27,4 @@ published: true
 - [Promethues log aggregation](https://github.com/grafana/loki)
 - [Alertmanager dashboard](https://github.com/prymitive/karma)
 - [Swagger statistics](https://swaggerstats.io)
-
+- [SLO: prometheus service level objectives](https://github.com/slok/sloth)

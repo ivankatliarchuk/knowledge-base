@@ -82,3 +82,7 @@ published: true
 - [Different Coding Stuff.net](https://codeburst.io/)
 - [SweetCode](https://sweetcode.io/)
 - [30 days React](https://github.com/fullstackreact/30-days-of-react)
+
+## Testing
+
+- [Chaos Engineering](https://chaos-mesh.org/blog)
