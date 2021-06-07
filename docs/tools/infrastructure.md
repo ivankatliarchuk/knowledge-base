@@ -15,6 +15,7 @@ published: true
 - [Server Spec: tests for checking your servers are configured correct](https://serverspec.org){:target="_blank"}
 - [Babushka: automating computing chores](https://babushka.me){:target="_blank"}
 - [Linting Containers](https://github.com/hadolint/hadolint)
+- [Jepsen: distributed systems verification, with fault injection](https://github.com/jepsen-io/jepsen)
 
 ### Docker Security
 

@@ -111,7 +111,7 @@ nav:
       - ... | management/product/*.md
     - People:
       - ... | management/people/*.md
-  - Devops:
+  - Devops & SRE:
     - ... | devops/*.md
     - Run Books:
       - ... | devops/run-books/*.md

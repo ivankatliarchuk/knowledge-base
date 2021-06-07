@@ -14,12 +14,13 @@ published: true
 - [K6](https://k6.io/){:target="_blank"}
 - [Artillery](https://artillery.io/){:target="_blank"}
 - [Gatling](https://gatling.io/){:target="_blank"}
+- [Karate: combing any testing](https://github.com/intuit/karate)
+- [Locust: easy performance in python](https://github.com/locustio/locust)
 - [Yandex Tank](https://github.com/yandex/yandex-tank){:target="_blank"}
 - [Serverless Artilerry](https://github.com/Nordstrom/serverless-artillery){:target="_blank"}
 - [Gatling on ECS](https://github.com/nearmap/gatling-on-ecs){:target="_blank"}
 - [Gatling AWS](https://github.com/NET-A-PORTER/gatling-on-aws){:target="_blank"}
 - [Gatling InfluxDB-Grafana Stack](https://github.com/dblooman/gatling-docker){:target="_blank"}
-- [Karate: combing any testing](https://github.com/intuit/karate)
 
 ## Load Testing Services
 

@@ -27,6 +27,10 @@ My public Knowledge repository.
 - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
+## TODO
+
+- ⚠️ [Tags](https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags)
+
 [base-url]: https://ivankatliarchuk.github.io/knowledge-base
 [completed-actions-deploy]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/gh-pages.yml?query=is%3Acompleted
 [completed-actions-changelog]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/changelog.yml?query=is%3Acompleted
