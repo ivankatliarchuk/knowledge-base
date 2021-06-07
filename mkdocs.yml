@@ -121,6 +121,8 @@ nav:
       - ... | devops/architecture-notes/*.md
     - Infrastructure:
       - ... | devops/infrastructure/*.md
+    - Docs Examples:
+      - ... | devops/examples/*.md
   - Tools:
     - tools/index.md
     - ... | tools/*.md
