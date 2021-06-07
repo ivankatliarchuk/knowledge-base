@@ -8,7 +8,7 @@ author: google
 
 # Google - Site Reliability Engineering
 
-> ## Excerpt
+> Excerpt
 > Date: 2015-10-21
 
 ---

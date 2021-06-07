@@ -8,7 +8,7 @@ author: google
 
 # Google - Site Reliability Engineering
 
-> ## Excerpt
+> Excerpt
 > Shakespeare Sonnet++ Overload: 2015-10-21
   Incident management info: https://incident-management-cheat-sheet
 
