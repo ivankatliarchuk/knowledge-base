@@ -11,13 +11,13 @@ published: true
 
 ## Tech
 
+- [Uber](https://eng.uber.com/category/articles/architecture)
+- [PinTerest](https://medium.com/@Pinterest_Engineering)
+- [Netflix](https://medium.com/netflix-techblog)
 - [ADtMag](https://adtmag.com/articles/2019/03/15/coder.aspx)
 - [I-Programmer](https://www.i-programmer.info/)
 - [Telerik](https://www.telerik.com/blogs)
 - [Dev To](https://dev.to/)
-- [Uber](https://eng.uber.com/)
-- [PinTerest](https://medium.com/@Pinterest_Engineering)
-- [Netflix](https://medium.com/netflix-techblog)
 - [BlackRock](http://rockthecode.io/)
 - [Lyft](https://eng.lyft.com/)
 - [Evil Martian Consultancy](https://evilmartians.com/chronicles)
