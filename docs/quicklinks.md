@@ -42,6 +42,7 @@ date: 2021-04-25
 
 - [Slidesgo: google slides and powerpoint](https://slidesgo.com/slidesgo-school){:target="_blank"}
 - [SlidesCarnival: slides and themes for presentation](https://www.slidescarnival.com/){:target="_blank"}
+- [Canva: create slides from templates](https://www.canva.com){:target="_blank"}
 
 ## Resume Generator
 
