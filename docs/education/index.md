@@ -22,6 +22,12 @@ Must read
 - [ ] [Accelerate: scale technology organisations][accelerate]
 - [ ] [The first 90 days: techonology strategies][accelerate]
 - [ ] [Scale Everything](https://github.com/binhnguyennus/awesome-scalability)
+- [ ] [Bullet Journal](https://bulletjournal.com/pages/book)
+- [ ] [Practical Cloud Security](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507)
+- [ ] [Atomic Habits](https://jamesclear.com/atomic-habits)
+- [ ] [Making a manager](https://www.amazon.co.uk/Making-Manager-What-Everyone-Looks/dp/0753552892)
+- [ ] [Start with WHY](https://simonsinek.com/product/start-with-why/)
+- [ ] [How to win friends](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
 <!-- resources -->
 [good-bad-strategy]: https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy

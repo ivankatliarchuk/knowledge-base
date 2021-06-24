@@ -13,7 +13,7 @@ published: true
 
 !!! danger "should replicate them on single place"
 
-- [Terragrunt Release Readiness](https://www.gruntwork.io/devops-checklist/){:target=_blank}
+- [Gruntwork Release Readiness checklist](https://www.gruntwork.io/devops-checklist/){:target=_blank}
 - [Oreily Readiness](https://learning.oreilly.com/library/view/production-ready-microservices/9781491965962/app01.html){:target=_blank}
 - [Sysadmins/DevOps Launch Checklist](https://sysadmincasts.com/episodes/70-devops-launch-checklist){:target=_blank}
 - [Kubernets Production best practices](https://learnk8s.io/production-best-practices){:target=_blank}
