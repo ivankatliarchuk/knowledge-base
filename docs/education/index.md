@@ -11,13 +11,13 @@ published: true
 
 ## Technology
 
-- [Google SRE](https://landing.google.com/sre/sre-book/toc/)
+- [] [Google SRE](https://landing.google.com/sre/sre-book/toc/)
 
 ## Leadership
 
 Must read
 
-- [ ] [Good Strategy and Bad Strategy][good-bad-strategy]
+- [x] [Good Strategy and Bad Strategy][good-bad-strategy]
 - [ ] [Leading Snowflakes](http://leadingsnowflakes.com/)
 - [ ] [Accelerate: scale technology organisations][accelerate]
 - [ ] [The first 90 days: techonology strategies][accelerate]
