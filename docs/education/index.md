@@ -2,7 +2,7 @@
 title: books
 summary: My books
 authors: ["Ivan K"]
-tags: ["education", "books"]
+tags: ["education", "books", "reading"]
 date: 2021-03-08
 published: true
 ---
@@ -15,13 +15,19 @@ published: true
 - [ ] [The site Reliability workbook](https://sre.google/workbook/table-of-contents/)
 - [ ] [Buidling Secure & Reliable Systems][secure-reliable]
 
-## Leadership
+## Engineering Leadership
 
-Must read
+- [Engineer manager](https://github.com/ryanburgess/engineer-manager)
+- [Team management](https://github.com/kdeldycke/awesome-engineering-team-management#engineering-managers)
+- [Programming leadership newsletter](https://marcusblankenship.com/category/blog/daily-writing/)
+- [Leadership mess](https://johnpcutler.github.io/tbm2020/#tbm-35-53-basic-prioritization-questions-and-when-to-converge-on-a-solution)
+
+## Must Read
 
 - [x] [Good Strategy and Bad Strategy][good-bad-strategy]
 - [ ] [Behind closed doors]()
 - [ ] [Bullet Journal](https://bulletjournal.com/pages/book)
+- [ ] [Team topologies](https://teamtopologies.com/book)
 - [ ] [Leading Snowflakes](http://leadingsnowflakes.com/)
 - [ ] [Accelerate: scale technology organisations][accelerate]
 - [ ] [The first 90 days: techonology strategies][accelerate]
@@ -34,6 +40,8 @@ Must read
 - [ ] [Escape Velocity]()
 - [ ] [Flow: taking the agile forward]()
 - [ ] [The lean startup]()
+- [ ] [Can't hurt me](https://davidgoggins.com/book/)
+- [ ] [Deep work](https://www.calnewport.com/books/deep-work/)
 
 <!-- resources -->
 [good-bad-strategy]: https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy
