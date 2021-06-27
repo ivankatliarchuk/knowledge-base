@@ -7,7 +7,7 @@ date: 2021-03-08
 published: true
 ---
 
-# Education resources
+# Books and other resources
 
 ## Technology
 
