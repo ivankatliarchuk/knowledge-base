@@ -1,5 +1,5 @@
 ---
-title: books
+title: books & resources
 summary: My books
 authors: ["Ivan K"]
 tags: ["education", "books", "reading"]
@@ -7,7 +7,7 @@ date: 2021-03-08
 published: true
 ---
 
-# Books
+# Education resources
 
 ## Technology
 
@@ -22,11 +22,12 @@ published: true
 - [Programming leadership newsletter](https://marcusblankenship.com/category/blog/daily-writing/)
 - [Leadership mess](https://johnpcutler.github.io/tbm2020/#tbm-35-53-basic-prioritization-questions-and-when-to-converge-on-a-solution)
 
-## Must Read
+## Nice to Read Books
 
 - [x] [Good Strategy and Bad Strategy][good-bad-strategy]
 - [ ] [Behind closed doors]()
 - [ ] [Bullet Journal](https://bulletjournal.com/pages/book)
+- [ ] [Leading the Transformation](https://itrevolution.com/leading-the-transformation-book/)
 - [ ] [Team topologies](https://teamtopologies.com/book)
 - [ ] [Leading Snowflakes](http://leadingsnowflakes.com/)
 - [ ] [Accelerate: scale technology organisations][accelerate]
@@ -42,6 +43,7 @@ published: true
 - [ ] [The lean startup]()
 - [ ] [Can't hurt me](https://davidgoggins.com/book/)
 - [ ] [Deep work](https://www.calnewport.com/books/deep-work/)
+- [ ] [Agile conversations](https://itrevolution.com/agile-conversations/)
 
 <!-- resources -->
 [good-bad-strategy]: https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy
