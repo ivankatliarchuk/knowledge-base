@@ -17,11 +17,11 @@ An incident response plan is a documented, written plan with 6 distinct phases t
 
 Yes, Requirement 12 of the PCI DSS specifies the steps businesses must take relating to their incident response plan, including: 
 
--   12.10.2–Test incident response plan at least annually
--   12.10.3–Assign certain employees to be available 24/7 to deal with incidences 
--   12.10.4–Properly and regularly train the staff with incident response responsibilities
--   12.10.5–Set up alerts from intrusion-detection, intrusion-prevention, and file-integrity monitoring systems
--   12.10.6–Implement a process to update and manage the incident response plan per industry and organizational changes
+- 12.10.2–Test incident response plan at least annually
+- 12.10.3–Assign certain employees to be available 24/7 to deal with incidences 
+- 12.10.4–Properly and regularly train the staff with incident response responsibilities
+- 12.10.5–Set up alerts from intrusion-detection, intrusion-prevention, and file-integrity monitoring systems
+- 12.10.6–Implement a process to update and manage the incident response plan per industry and organizational changes
 
 ## How to create an incident response plan 
 
@@ -42,18 +42,18 @@ Let’s look at each phase in more depth and point out the items that you need t
 
 This phase will be the work horse of your incident response planning, and in the end, the most crucial phase to protect your business. Part of this phase includes:
 
--   Ensure [your employees are properly trained](https://www.securitymetrics.com/security-training) regarding their incident response roles and responsibilities in the event of data breach
--   Develop incident response drill scenarios and regularly conduct mock data breaches to evaluate your incident response plan.
--   Ensure that all aspects of your incident response plan (training, execution, hardware and software resources, etc.) are approved and funded in advance
+- Ensure [your employees are properly trained](https://www.securitymetrics.com/security-training) regarding their incident response roles and responsibilities in the event of data breach
+- Develop incident response drill scenarios and regularly conduct mock data breaches to evaluate your incident response plan.
+- Ensure that all aspects of your incident response plan (training, execution, hardware and software resources, etc.) are approved and funded in advance
 
 Your response plan should be well documented, thoroughly explaining everyone’s roles and responsibilities. [Then the plan must be tested](https://www.securitymetrics.com/blog/employee-data-security-training-tabletop-exercises) in order to assure that your employees will perform as they were trained. The more prepared your employees are, the less likely they’ll make critical mistakes.
 
  **Questions to address**
 
--   Has everyone been trained on security policies?
--   Have your security policies and incident response plan been approved by appropriate management?
--   Does the Incident Response Team know their roles and the required notifications to make?
--   Have all Incident Response Team members participated in mock drills?
+- Has everyone been trained on security policies?
+- Have your security policies and incident response plan been approved by appropriate management?
+- Does the Incident Response Team know their roles and the required notifications to make?
+- Have all Incident Response Team members participated in mock drills?
 
 SEE ALSO: [5 Things Your Incident Response Plan Needs](https://www.securitymetrics.com/blog/5-things-your-incident-response-plan-needs)
 
@@ -63,13 +63,13 @@ This is the process where you determine whether you’ve been breached. A breach
 
  **Questions to address**
 
--   When did the event happen?
--   How was it discovered?
--   Who discovered it?
--   Have any other areas been impacted?
--   What is the scope of the compromise?
--   Does it affect operations?
--   Has the source (point of entry) of the event been discovered?
+- When did the event happen?
+- How was it discovered?
+- Who discovered it?
+- Have any other areas been impacted?
+- What is the scope of the compromise?
+- Does it affect operations?
+- Has the source (point of entry) of the event been discovered?
 
 #### **3\. Containment**
 
@@ -83,13 +83,13 @@ WATCH: [Forensics Lessons Learned Webinar](http://info.securitymetrics.com/2017-
 
  **Questions to address**
 
--   What’s been done to contain the breach short term?
--   What’s been done to contain the breach long term?
--   Has any discovered malware been quarantined from the rest of the environment?
--   What sort of backups are in place?
--   Does your remote access require true multi-factor authentication?
--   Have all access credentials been reviewed for legitimacy, hardened and changed?
--   Have you applied all recent security patches and updates?
+- What’s been done to contain the breach short term?
+- What’s been done to contain the breach long term?
+- Has any discovered malware been quarantined from the rest of the environment?
+- What sort of backups are in place?
+- Does your remote access require true multi-factor authentication?
+- Have all access credentials been reviewed for legitimacy, hardened and changed?
+- Have you applied all recent security patches and updates?
 
 SEE ALSO: [Forensic Research: Data Breach Trends](https://www.securitymetrics.com/blog/2017-pci-dss-data-breach-trends)
 
@@ -101,9 +101,9 @@ Whether you do this yourself, or hire a third party to do it, you need to be tho
 
  **Questions to address**
 
--   Have artifacts/malware from the attacker been securely removed?
--   Has the system be hardened, patched, and updates applied?
--   Can the system be re-imaged?
+- Have artifacts/malware from the attacker been securely removed?
+- Has the system be hardened, patched, and updates applied?
+- Can the system be re-imaged?
 
 #### **5\. Recovery**
 
@@ -111,11 +111,11 @@ This is the process of restoring and returning affected systems and devices back
 
  **Questions to address**
 
--   When can systems be returned to production?
--   Have systems been patched, hardened and tested?
--   Can the system be restored from a trusted back-up?
--   How long will the affected systems be monitored and what will you look for when monitoring?
--   What tools will ensure similar attacks will not reoccur? (File integrity monitoring, intrusion detection/protection, etc)
+- When can systems be returned to production?
+- Have systems been patched, hardened and tested?
+- Can the system be restored from a trusted back-up?
+- How long will the affected systems be monitored and what will you look for when monitoring?
+- What tools will ensure similar attacks will not reoccur? (File integrity monitoring, intrusion detection/protection, etc)
 
 
 #### **6\. Lessons Learned**
@@ -124,10 +124,10 @@ Once the investigation is complete, hold an after-action meeting with all Incide
 
  **Questions to address**
 
--   What changes need to be made to the security?
--   How should employee be trained differently?
--   What weakness did the breach exploit?
--   How will you ensure a similar breach doesn’t happen again?
+- What changes need to be made to the security?
+- How should employee be trained differently?
+- What weakness did the breach exploit?
+- How will you ensure a similar breach doesn’t happen again?
 
 No one wants to go through a data breach, but it’s essential to plan for one. Prepare for it, know what to do when it happens, and learn all that you can afterwards.
 

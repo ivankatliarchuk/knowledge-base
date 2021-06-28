@@ -69,8 +69,6 @@ SEE ALSO: [What Does a Cyber Forensic Investigation Do and How Much Does It Cost
 
 This is a list for grab-and-go responses. When responding to a breach quickly, have a list of overall actions your employees need to take right away. It keeps the plan organized and prevents mistakes caused by panic. Some things to include in this list are:
 
-
-
 -   Incident handler’s journal to document the incident
 -   Incident response team contact list
 -   USB hard drives and write-blockers
@@ -84,8 +82,6 @@ This is a list for grab-and-go responses. When responding to a breach quickly, h
 ## **5\.  Security policy review list**
 
 This list deals with the aftermath of the breach and the response to it. It essentially helps your organization analyze the breach and what you can learn from it. This list should include documentation of the following things:
-
-
 
 -   When the breach was detected, by whom and what method
 -   Scope of the incident/affected systems
