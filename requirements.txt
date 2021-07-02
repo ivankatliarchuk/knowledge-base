@@ -21,7 +21,7 @@ mkdocs==1.2.1
 mkdocs-autolinks-plugin==0.4.0
 mkdocs-awesome-pages-plugin==2.5.0
 mkdocs-literate-nav==0.4.0
-mkdocs-material==7.1.8
+mkdocs-material==7.1.9
 mkdocs-material-extensions==1.0.1
 mkdocs-minify-plugin==0.4.0
 mkdocs-monorepo-plugin==0.4.15
@@ -29,13 +29,13 @@ mkdocs-pdf-export-plugin==0.5.8
 mkdocs-redirects==1.0.3
 mkdocs-same-dir==0.1.0
 nltk==3.6.2
-Pillow==8.2.0
+Pillow==8.3.0
 pycparser==2.20
 Pygments==2.9.0
 pymdown-extensions==8.2
 Pyphen==0.11.0
 PyYAML==5.4.1
-regex==2021.4.4
+regex==2021.7.1
 six==1.16.0
 soupsieve==2.2.1
 tinycss2==1.1.0
