@@ -16,6 +16,8 @@ published: true
 - [Babushka: automating computing chores](https://babushka.me){:target="_blank"}
 - [Linting Containers](https://github.com/hadolint/hadolint)
 - [Jepsen: distributed systems verification, with fault injection](https://github.com/jepsen-io/jepsen)
+- [Structure tests](https://github.com/GoogleContainerTools/container-structure-test)
+- [Bats: infrastructure automation testing](https://github.com/bats-core/bats-core)
 
 ### Docker Security
 
