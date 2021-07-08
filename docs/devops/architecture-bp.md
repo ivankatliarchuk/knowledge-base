@@ -23,6 +23,7 @@ published: true
 - [Auth Zero](https://auth0.com/docs/best-practices)
 - [7 API Sec Best Practices](https://www.twistlock.com/2018/06/04/7-api-best-practices/)
 - [Dot CMS](https://dotcms.com/docs/latest/security-best-practices)
+- [Helm: best practices](https://codersociety.com/blog/articles/helm-best-practices)
 
 [k8s-resource-limits]: https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-resource-requests-and-limits
 

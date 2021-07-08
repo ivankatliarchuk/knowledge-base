@@ -38,9 +38,12 @@ date: 2021-04-18
 
 - [National Vulnerability Database](https://nvd.nist.gov/)
 
-## Cloud Vulnerabilities
+## Cloud Vulnerabilities and Audit
 
 - [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)
+- [Scout suite](https://github.com/nccgroup/ScoutSuite)
+- [AWS Inventory](https://github.com/nccgroup/aws-inventory)
+- [AWS Iam: clouds planning](https://github.com/salesforce/cloudsplaining)
 
 ## Tools
 
