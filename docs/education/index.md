@@ -20,7 +20,7 @@ published: true
 - [Engineer manager](https://github.com/ryanburgess/engineer-manager)
 - [Team management](https://github.com/kdeldycke/awesome-engineering-team-management#engineering-managers)
 - [Programming leadership newsletter](https://marcusblankenship.com/category/blog/daily-writing/)
-- [Leadership mess](https://johnpcutler.github.io/tbm2020/#tbm-35-53-basic-prioritization-questions-and-when-to-converge-on-a-solution)
+- [Leadership mess][leadership-mess]
 
 ## Nice to Read Books
 
@@ -56,5 +56,6 @@ published: true
 [elegant-puzzle]: https://www.amazon.co.uk/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V
 [edge-value-driven]: https://www.amazon.co.uk/dp/B07WFL74JR/ref=pe_385721_48721101_TE_M1DP
 [unicorn-project]: https://www.amazon.co.uk/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41/
+[leadership-mess]: https://johnpcutler.github.io/tbm2020/#tbm-35-53-basic-prioritization-questions-and-when-to-converge-on-a-solution
 <!-- https://ebookcentral.proquest.com/lib/open/detail.action?pq-origsite=primo&docID=1743239 -->
 <!-- https://www.ebooks.com/en-gb/book/725888/good-strategy-bad-strategy/richard-rumelt/ -->
