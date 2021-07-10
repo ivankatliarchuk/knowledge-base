@@ -47,6 +47,8 @@ published: true
 - [ ] [Can't hurt me](https://davidgoggins.com/book/)
 - [ ] [Deep work](https://www.calnewport.com/books/deep-work/)
 - [ ] [Agile conversations](https://itrevolution.com/agile-conversations/)
+- [ ] [More Speak English Like an American](https://www.amazon.co.uk/More-Speak-English-Like-American/dp/B007QUYNR8)
+- [ ] [Speak Business English Like an American](https://www.amazon.co.uk/Speak-Business-English-Like-American/dp/0972530061)
 
 <!-- resources -->
 [good-bad-strategy]: https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy
