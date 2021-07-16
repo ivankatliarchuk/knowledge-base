@@ -25,8 +25,9 @@ published: true
 ## Nice to Read Books
 
 - [x] [Good Strategy and Bad Strategy][good-bad-strategy]
-- [ ] [Behind closed doors]()
+- [ ] [The Manager`s Path](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897)
 - [ ] [Bullet Journal](https://bulletjournal.com/pages/book)
+- [ ] [Behind closed doors]()
 - [ ] [Leading the Transformation](https://itrevolution.com/leading-the-transformation-book/)
 - [ ] [Team topologies](https://teamtopologies.com/book)
 - [ ] [An Elegant Puzzle: Systems of Engineering Management][elegant-puzzle]
@@ -49,6 +50,11 @@ published: true
 - [ ] [Agile conversations](https://itrevolution.com/agile-conversations/)
 - [ ] [More Speak English Like an American](https://www.amazon.co.uk/More-Speak-English-Like-American/dp/B007QUYNR8)
 - [ ] [Speak Business English Like an American](https://www.amazon.co.uk/Speak-Business-English-Like-American/dp/0972530061)
+- [ ] [Managing Humans](https://www.amazon.co.uk/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
+- [ ] [Radical Candor](https://www.radicalcandor.com/the-book/)
+- [ ] [Dichotomy of Leadership](https://www.amazon.co.uk/Dichotomy-Leadership-Jocko-Willink/dp/1250195772)
+- [ ] [Extreme Ownership](https://www.amazon.co.uk/Extreme-Ownership-Jocko-Willink/dp/1250067057)
+- [ ] []()
 
 <!-- resources -->
 [good-bad-strategy]: https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy
