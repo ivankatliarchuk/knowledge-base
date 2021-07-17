@@ -18,15 +18,19 @@ published: true
 ## Engineering Leadership
 
 - [Engineer manager](https://github.com/ryanburgess/engineer-manager)
+- [Engineer manager: v2](https://github.com/charlax/engineering-management)
 - [Team management](https://github.com/kdeldycke/awesome-engineering-team-management#engineering-managers)
 - [Programming leadership newsletter](https://marcusblankenship.com/category/blog/daily-writing/)
 - [Leadership mess][leadership-mess]
+- [Managing humans](https://github.com/ivankatliarchuk/managing-humans)
 
 ## Nice to Read Books
 
 - [x] [Good Strategy and Bad Strategy][good-bad-strategy]
 - [ ] [The Manager`s Path](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897)
 - [ ] [Bullet Journal](https://bulletjournal.com/pages/book)
+- [ ] [Managing Humans](https://www.amazon.co.uk/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
+- [ ] [Mobile MBA](https://www.amazon.com/Mobile-MBA-Skills-Further-Faster/dp/0273750216)
 - [ ] [Behind closed doors]()
 - [ ] [Leading the Transformation](https://itrevolution.com/leading-the-transformation-book/)
 - [ ] [Team topologies](https://teamtopologies.com/book)
@@ -50,11 +54,17 @@ published: true
 - [ ] [Agile conversations](https://itrevolution.com/agile-conversations/)
 - [ ] [More Speak English Like an American](https://www.amazon.co.uk/More-Speak-English-Like-American/dp/B007QUYNR8)
 - [ ] [Speak Business English Like an American](https://www.amazon.co.uk/Speak-Business-English-Like-American/dp/0972530061)
-- [ ] [Managing Humans](https://www.amazon.co.uk/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
 - [ ] [Radical Candor](https://www.radicalcandor.com/the-book/)
 - [ ] [Dichotomy of Leadership](https://www.amazon.co.uk/Dichotomy-Leadership-Jocko-Willink/dp/1250195772)
 - [ ] [Extreme Ownership](https://www.amazon.co.uk/Extreme-Ownership-Jocko-Willink/dp/1250067057)
-- [ ] []()
+- [ ] [The First 90 Days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612/ref=sr_1_1?ie=UTF8&qid=1546614786&sr=8-1&keywords=the+first+90+days)
+- [ ] [The 27 Challenges Managers Face](https://www.amazon.com/Challenges-Managers-Face-Step-Step/dp/111872559X/ref=sr_1_fkmr2_1?ie=UTF8&qid=1546614819&sr=8-1-fkmr2&keywords=37+challenges+managers+face)
+- [ ] [Becoming a Technical Leader](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021)
+- [ ] [Turn the Ship Around!](https://www.amazon.co.uk/Turn-Ship-Around-Building-Breaking/dp/1591846404)
+- [ ] [Leadership and Self-Deception](https://www.amazon.co.uk/Leadership-Self-Deception-Getting-out-Box/dp/0141030062)
+- [ ] [Crucial Comversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
+- [ ] [The Coaching Habit](https://boxofcrayons.com/the-coaching-habit-book/)
+- [ ] [High Output Management](https://www.amazon.co.uk/High-Output-Management-Andrew-Grove/dp/0679762884)
 
 <!-- resources -->
 [good-bad-strategy]: https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy
