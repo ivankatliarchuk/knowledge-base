@@ -17,6 +17,8 @@ published: true
     - [ ] [workshops][1]
      website lists workshops created by the teams at Amazon Web Services (AWS). Workshops are hands-on events designed to teach or introduce practical skills, techniques, or concepts which you can use to solve business problems.
 
+- [AWS Workshops](https://awsworkshop.io/categories/testing/)
+
 ## AWS ECS
 
 !!! summary "cats and docs on ECS"
