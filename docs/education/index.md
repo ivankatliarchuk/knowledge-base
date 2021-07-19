@@ -65,6 +65,9 @@ published: true
 - [ ] [Crucial Comversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 - [ ] [The Coaching Habit](https://boxofcrayons.com/the-coaching-habit-book/)
 - [ ] [High Output Management](https://www.amazon.co.uk/High-Output-Management-Andrew-Grove/dp/0679762884)
+- [ ] [People: Productivity project and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-Second/dp/0932633439)
+- [ ] [The Wisdom of Teams](https://www.amazon.co.uk/Wisdom-Teams-Creating-High-Performance-Organization-ebook/dp/B004OC07B2)
+- [ ] [Leading at the Edge](https://www.amazon.co.uk/Leading-Edge-Leadership-Extraordinary-Shackletons/dp/0814405436)
 
 <!-- resources -->
 [good-bad-strategy]: https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy
