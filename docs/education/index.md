@@ -24,9 +24,17 @@ published: true
 - [Leadership mess][leadership-mess]
 - [Managing humans](https://github.com/ivankatliarchuk/managing-humans)
 
-## Nice to Read Books
+## Product strategy
 
 - [x] [Good Strategy and Bad Strategy][good-bad-strategy]
+- [ ] [The Unicorn Project][unicorn-project]
+- [ ] [The first 90 days: techonology strategies][accelerate]
+- [ ] [Accelerate: scale technology organisations][accelerate]
+- [ ] [Extreme Ownership](https://www.amazon.co.uk/Extreme-Ownership-Jocko-Willink/dp/1250067057)
+- [ ] [The First 90 Days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612/ref=sr_1_1?ie=UTF8&qid=1546614786&sr=8-1&keywords=the+first+90+days)
+
+## Leadership
+
 - [ ] [The Manager`s Path](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897)
 - [ ] [Bullet Journal](https://bulletjournal.com/pages/book)
 - [ ] [Managing Humans](https://www.amazon.co.uk/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
@@ -37,9 +45,6 @@ published: true
 - [ ] [An Elegant Puzzle: Systems of Engineering Management][elegant-puzzle]
 - [ ] [EDGE: Value-Driven Digital Transformation][edge-value-driven]
 - [ ] [Leading Snowflakes](http://leadingsnowflakes.com/)
-- [ ] [Accelerate: scale technology organisations][accelerate]
-- [ ] [The first 90 days: techonology strategies][accelerate]
-- [ ] [The Unicorn Project][unicorn-project]
 - [ ] [Scale Everything](https://github.com/binhnguyennus/awesome-scalability)
 - [ ] [Practical Cloud Security](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507)
 - [ ] [Atomic Habits](https://jamesclear.com/atomic-habits)
@@ -56,8 +61,6 @@ published: true
 - [ ] [Speak Business English Like an American](https://www.amazon.co.uk/Speak-Business-English-Like-American/dp/0972530061)
 - [ ] [Radical Candor](https://www.radicalcandor.com/the-book/)
 - [ ] [Dichotomy of Leadership](https://www.amazon.co.uk/Dichotomy-Leadership-Jocko-Willink/dp/1250195772)
-- [ ] [Extreme Ownership](https://www.amazon.co.uk/Extreme-Ownership-Jocko-Willink/dp/1250067057)
-- [ ] [The First 90 Days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612/ref=sr_1_1?ie=UTF8&qid=1546614786&sr=8-1&keywords=the+first+90+days)
 - [ ] [The 27 Challenges Managers Face](https://www.amazon.com/Challenges-Managers-Face-Step-Step/dp/111872559X/ref=sr_1_fkmr2_1?ie=UTF8&qid=1546614819&sr=8-1-fkmr2&keywords=37+challenges+managers+face)
 - [ ] [Becoming a Technical Leader](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021)
 - [ ] [Turn the Ship Around!](https://www.amazon.co.uk/Turn-Ship-Around-Building-Breaking/dp/1591846404)
@@ -68,6 +71,10 @@ published: true
 - [ ] [People: Productivity project and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-Second/dp/0932633439)
 - [ ] [The Wisdom of Teams](https://www.amazon.co.uk/Wisdom-Teams-Creating-High-Performance-Organization-ebook/dp/B004OC07B2)
 - [ ] [Leading at the Edge](https://www.amazon.co.uk/Leading-Edge-Leadership-Extraordinary-Shackletons/dp/0814405436)
+
+## Agile
+
+- [ ] [User Story Mapping: Discover the Whole Story](https://www.amazon.co.uk/User-Story-Mapping-Discover-Product/dp/1491904909)
 
 <!-- resources -->
 [good-bad-strategy]: https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy
