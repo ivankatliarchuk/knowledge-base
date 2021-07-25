@@ -25,13 +25,16 @@ published: true
 
 - [LambCI: continuous integration system built on AWS Lambda](https://github.com/lambci/lambci){:target="_blank"}
 
-## Containers & K8s
+## CD Containers & K8s
 
 - [Werf: the CLI tool glueing Git, Docker, Helm & K8s](https://werf.io/){:target="_blank"}
 - [Skaffold: handles the workflow for building, pushing and deploying your application](https://skaffold.dev){:target="_blank"}
 - [Shipper: K8s native multi-cluster canary or blue-green rollouts using Helm][snipper]{:target="_blank"}
 - [GitKube: build and deploy docker images to Kubernetes using git push][gitkube]{:target="_blank"}
 - [Brigate: event-driven scripting for Kubernetes][brigade]{:target="_blank"}
+- [Argocd](https://argoproj.github.io/argo-cd/){:target="_blank"}
+- [Tekton](https://github.com/tektoncd){:target="_blank"}
+- [Spinnaker](https://spinnaker.io/){:target="_blank"}
 
 <!-- resources -->
 

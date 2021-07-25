@@ -8,6 +8,10 @@ source:
 published: true
 ---
 
+## Kubernets Tooling
+
+- [Kubernetes: essetntials](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)
+
 ## Workflow and Automation
 
 - [KubeSeco Framework](https://github.com/appsecco/kubeseco)
@@ -123,6 +127,7 @@ published: true
 - [GiantSwarm](https://www.giantswarm.io/)
 - [OneInfra](https://github.com/ik-kubernetes/oneinfra)
 - [Krucible](https://usekrucible.com/plans)
+- [Snipa](https://www.shipa.io/)
 
 ## Development
 
@@ -137,6 +142,7 @@ published: true
 - [KubeCFG](https://github.com/bitnami/kubecfg)
 - [Kustomize](https://github.com/kubernetes-sigs/kustomize)
 - [Kaptan](https://github.com/deepmind/kapitan)
+- [KubeZero](https://github.com/Zero-Down-Time/kubezero)
 
 ## Multi Cloud
 
