@@ -35,6 +35,7 @@ published: true
 - [Pushover](https://pushover.net/apps)
 - [Kapacitor](https://github.com/influxdata/kapacitor)
 - [PagerDuty](https://www.pagerduty.com/)
+- [OS Query](https://osquery.io/)
 
 ## Web Site Screenshots
 

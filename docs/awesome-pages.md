@@ -17,6 +17,7 @@ date: 2021-04-25
 - [dev environment](https://github.com/jondot/awesome-devenv)
 - [tmux](https://github.com/ivankatliarchuk/awesome-tmux)
 - [open university projects](https://github.com/tejado/awesome-ou-projects)
+- [incident response](https://github.com/meirwah/awesome-incident-response)
 
 ## Security
 
