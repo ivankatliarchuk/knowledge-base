@@ -56,16 +56,11 @@ published: true
 - [ ] [The lean startup]()
 - [ ] [Can't hurt me](https://davidgoggins.com/book/)
 - [ ] [Deep work](https://www.calnewport.com/books/deep-work/)
-- [ ] [Agile conversations](https://itrevolution.com/agile-conversations/)
-- [ ] [More Speak English Like an American](https://www.amazon.co.uk/More-Speak-English-Like-American/dp/B007QUYNR8)
-- [ ] [Speak Business English Like an American](https://www.amazon.co.uk/Speak-Business-English-Like-American/dp/0972530061)
-- [ ] [Radical Candor](https://www.radicalcandor.com/the-book/)
 - [ ] [Dichotomy of Leadership](https://www.amazon.co.uk/Dichotomy-Leadership-Jocko-Willink/dp/1250195772)
 - [ ] [The 27 Challenges Managers Face](https://www.amazon.com/Challenges-Managers-Face-Step-Step/dp/111872559X/ref=sr_1_fkmr2_1?ie=UTF8&qid=1546614819&sr=8-1-fkmr2&keywords=37+challenges+managers+face)
 - [ ] [Becoming a Technical Leader](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021)
 - [ ] [Turn the Ship Around!](https://www.amazon.co.uk/Turn-Ship-Around-Building-Breaking/dp/1591846404)
 - [ ] [Leadership and Self-Deception](https://www.amazon.co.uk/Leadership-Self-Deception-Getting-out-Box/dp/0141030062)
-- [ ] [Crucial Comversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 - [ ] [The Coaching Habit](https://boxofcrayons.com/the-coaching-habit-book/)
 - [ ] [High Output Management](https://www.amazon.co.uk/High-Output-Management-Andrew-Grove/dp/0679762884)
 - [ ] [People: Productivity project and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-Second/dp/0932633439)
@@ -75,6 +70,16 @@ published: true
 ## Agile
 
 - [ ] [User Story Mapping: Discover the Whole Story](https://www.amazon.co.uk/User-Story-Mapping-Discover-Product/dp/1491904909)
+- [ ] [Agile conversations](https://itrevolution.com/agile-conversations/)
+
+## Effective Communications
+
+- [ ] [Radical Candor](https://www.radicalcandor.com/the-book/)
+- [ ] [Crucial Comversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
+- [ ] [Can You Hear Me? (Harvard Business Review Press, 2018) ]()
+- [ ] [Alan Alda’s If I Understood You, Would I Have This Look on My Face? (Random House, 2017)]()
+- [ ] [More Speak English Like an American](https://www.amazon.co.uk/More-Speak-English-Like-American/dp/B007QUYNR8)
+- [ ] [Speak Business English Like an American](https://www.amazon.co.uk/Speak-Business-English-Like-American/dp/0972530061)
 
 <!-- resources -->
 [good-bad-strategy]: https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy
