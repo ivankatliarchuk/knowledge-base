@@ -13,7 +13,7 @@ published: true
 
 - [ ] [Google: site reliability Engineering](https://landing.google.com/sre/sre-book/toc/)
 - [ ] [The site Reliability workbook](https://sre.google/workbook/table-of-contents/)
-- [ ] [Buidling Secure & Reliable Systems][secure-reliable]
+- [X] [Buidling Secure & Reliable Systems][secure-reliable]
 
 ## Engineering Leadership
 
