@@ -19,10 +19,10 @@ published: true
 
 - [Engineer manager](https://github.com/ryanburgess/engineer-manager)
 - [Engineer manager: v2](https://github.com/charlax/engineering-management)
-- [Team management](https://github.com/kdeldycke/awesome-engineering-team-management#engineering-managers)
-- [Programming leadership newsletter](https://marcusblankenship.com/category/blog/daily-writing/)
-- [Leadership mess][leadership-mess]
-- [Managing humans](https://github.com/ivankatliarchuk/managing-humans)
+- [ ] [Team management](https://github.com/kdeldycke/awesome-engineering-team-management#engineering-managers)
+- [ ] [Programming leadership newsletter](https://marcusblankenship.com/category/blog/daily-writing/)
+- [ ] [Leadership mess][leadership-mess]
+- [X] [Managing humans](https://github.com/ivankatliarchuk/managing-humans)
 
 ## Product strategy
 
@@ -66,6 +66,7 @@ published: true
 - [ ] [People: Productivity project and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-Second/dp/0932633439)
 - [ ] [The Wisdom of Teams](https://www.amazon.co.uk/Wisdom-Teams-Creating-High-Performance-Organization-ebook/dp/B004OC07B2)
 - [ ] [Leading at the Edge](https://www.amazon.co.uk/Leading-Edge-Leadership-Extraordinary-Shackletons/dp/0814405436)
+- [ ] [The 48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197)
 
 ## Agile
 
