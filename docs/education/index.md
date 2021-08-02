@@ -22,7 +22,6 @@ published: true
 - [ ] [Team management](https://github.com/kdeldycke/awesome-engineering-team-management#engineering-managers)
 - [ ] [Programming leadership newsletter](https://marcusblankenship.com/category/blog/daily-writing/)
 - [ ] [Leadership mess][leadership-mess]
-- [X] [Managing humans](https://github.com/ivankatliarchuk/managing-humans)
 
 ## Product strategy
 
@@ -35,9 +34,9 @@ published: true
 
 ## Leadership
 
+- [X] [Managing humans](https://github.com/ivankatliarchuk/managing-humans)
 - [ ] [The Manager`s Path](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897)
 - [ ] [Bullet Journal](https://bulletjournal.com/pages/book)
-- [ ] [Managing Humans](https://www.amazon.co.uk/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
 - [ ] [Mobile MBA](https://www.amazon.com/Mobile-MBA-Skills-Further-Faster/dp/0273750216)
 - [ ] [Behind closed doors]()
 - [ ] [Leading the Transformation](https://itrevolution.com/leading-the-transformation-book/)
