@@ -13,7 +13,7 @@ published: true
 
 - [ ] [Google: site reliability Engineering](https://landing.google.com/sre/sre-book/toc/)
 - [ ] [The site Reliability workbook](https://sre.google/workbook/table-of-contents/)
-- [X] [Buidling Secure & Reliable Systems][secure-reliable]
+- [X] [Buidling Secure & Reliable Systems (10/10)][secure-reliable]
 
 ## Engineering Leadership
 
@@ -25,7 +25,7 @@ published: true
 
 ## Product strategy
 
-- [x] [Good Strategy and Bad Strategy][good-bad-strategy]
+- [x] [Good Strategy and Bad Strategy (4/10)][good-bad-strategy]
 - [ ] [The Unicorn Project][unicorn-project]
 - [ ] [The first 90 days: techonology strategies][accelerate]
 - [ ] [Accelerate: scale technology organisations][accelerate]
@@ -34,9 +34,8 @@ published: true
 
 ## Leadership
 
-- [X] [Managing humans](https://github.com/ivankatliarchuk/managing-humans)
+- [X] [Managing humans (8/10)](https://github.com/ivankatliarchuk/managing-humans)
 - [ ] [The Manager`s Path](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897)
-- [ ] [Bullet Journal](https://bulletjournal.com/pages/book)
 - [ ] [Mobile MBA](https://www.amazon.com/Mobile-MBA-Skills-Further-Faster/dp/0273750216)
 - [ ] [Behind closed doors]()
 - [ ] [Leading the Transformation](https://itrevolution.com/leading-the-transformation-book/)
@@ -46,7 +45,6 @@ published: true
 - [ ] [Leading Snowflakes](http://leadingsnowflakes.com/)
 - [ ] [Scale Everything](https://github.com/binhnguyennus/awesome-scalability)
 - [ ] [Practical Cloud Security](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507)
-- [ ] [Atomic Habits](https://jamesclear.com/atomic-habits)
 - [ ] [Making a manager](https://www.amazon.co.uk/Making-Manager-What-Everyone-Looks/dp/0753552892)
 - [ ] [Start with WHY](https://simonsinek.com/product/start-with-why/)
 - [ ] [How to win friends](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
@@ -54,13 +52,11 @@ published: true
 - [ ] [Flow: taking the agile forward]()
 - [ ] [The lean startup]()
 - [ ] [Can't hurt me](https://davidgoggins.com/book/)
-- [ ] [Deep work](https://www.calnewport.com/books/deep-work/)
 - [ ] [Dichotomy of Leadership](https://www.amazon.co.uk/Dichotomy-Leadership-Jocko-Willink/dp/1250195772)
 - [ ] [The 27 Challenges Managers Face](https://www.amazon.com/Challenges-Managers-Face-Step-Step/dp/111872559X/ref=sr_1_fkmr2_1?ie=UTF8&qid=1546614819&sr=8-1-fkmr2&keywords=37+challenges+managers+face)
 - [ ] [Becoming a Technical Leader](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021)
 - [ ] [Turn the Ship Around!](https://www.amazon.co.uk/Turn-Ship-Around-Building-Breaking/dp/1591846404)
 - [ ] [Leadership and Self-Deception](https://www.amazon.co.uk/Leadership-Self-Deception-Getting-out-Box/dp/0141030062)
-- [ ] [The Coaching Habit](https://boxofcrayons.com/the-coaching-habit-book/)
 - [ ] [High Output Management](https://www.amazon.co.uk/High-Output-Management-Andrew-Grove/dp/0679762884)
 - [ ] [People: Productivity project and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-Second/dp/0932633439)
 - [ ] [The Wisdom of Teams](https://www.amazon.co.uk/Wisdom-Teams-Creating-High-Performance-Organization-ebook/dp/B004OC07B2)
@@ -71,6 +67,17 @@ published: true
 
 - [ ] [User Story Mapping: Discover the Whole Story](https://www.amazon.co.uk/User-Story-Mapping-Discover-Product/dp/1491904909)
 - [ ] [Agile conversations](https://itrevolution.com/agile-conversations/)
+
+## Project Management
+
+- [ ] [Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+
+## Self organising
+
+- [ ] [The Coaching Habit](https://boxofcrayons.com/the-coaching-habit-book/)
+- [ ] [Atomic Habits](https://jamesclear.com/atomic-habits)
+- [ ] [Bullet Journal](https://bulletjournal.com/pages/book)
+- [ ] [Deep work](https://www.calnewport.com/books/deep-work/)
 
 ## Effective Communications
 
