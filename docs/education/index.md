@@ -35,6 +35,7 @@ published: true
 ## Leadership
 
 - [X] [Managing humans (8/10)](https://github.com/ivankatliarchuk/managing-humans)
+- [X] [How to win friends (5/10)](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 - [ ] [The Manager`s Path](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897)
 - [ ] [Mobile MBA](https://www.amazon.com/Mobile-MBA-Skills-Further-Faster/dp/0273750216)
 - [ ] [Behind closed doors]()
@@ -47,7 +48,6 @@ published: true
 - [ ] [Practical Cloud Security](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507)
 - [ ] [Making a manager](https://www.amazon.co.uk/Making-Manager-What-Everyone-Looks/dp/0753552892)
 - [ ] [Start with WHY](https://simonsinek.com/product/start-with-why/)
-- [ ] [How to win friends](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 - [ ] [Escape Velocity]()
 - [ ] [Flow: taking the agile forward]()
 - [ ] [The lean startup]()
