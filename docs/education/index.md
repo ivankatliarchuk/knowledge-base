@@ -39,11 +39,9 @@ published: true
 - [ ] [The Manager`s Path](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897)
 - [ ] [Mobile MBA](https://www.amazon.com/Mobile-MBA-Skills-Further-Faster/dp/0273750216)
 - [ ] [Behind closed doors]()
-- [ ] [Leading the Transformation](https://itrevolution.com/leading-the-transformation-book/)
 - [ ] [Team topologies](https://teamtopologies.com/book)
 - [ ] [An Elegant Puzzle: Systems of Engineering Management][elegant-puzzle]
 - [ ] [EDGE: Value-Driven Digital Transformation][edge-value-driven]
-- [ ] [Leading Snowflakes](http://leadingsnowflakes.com/)
 - [ ] [Scale Everything](https://github.com/binhnguyennus/awesome-scalability)
 - [ ] [Practical Cloud Security](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507)
 - [ ] [Making a manager](https://www.amazon.co.uk/Making-Manager-What-Everyone-Looks/dp/0753552892)
@@ -71,10 +69,12 @@ published: true
 ## Project Management
 
 - [ ] [Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+- [ ] [Leading Snowflakes](http://leadingsnowflakes.com/)
+- [ ] [Leading the Transformation](https://itrevolution.com/leading-the-transformation-book/)
 
 ## Self organising
 
-- [ ] [The Coaching Habit](https://boxofcrayons.com/the-coaching-habit-book/)
+- [X] [The Coaching Habit (10/10)](https://boxofcrayons.com/the-coaching-habit-book/)
 - [ ] [Atomic Habits](https://jamesclear.com/atomic-habits)
 - [ ] [Bullet Journal](https://bulletjournal.com/pages/book)
 - [ ] [Deep work](https://www.calnewport.com/books/deep-work/)
