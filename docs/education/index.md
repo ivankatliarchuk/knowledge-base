@@ -98,6 +98,6 @@ published: true
 [edge-value-driven]: https://www.amazon.co.uk/dp/B07WFL74JR/ref=pe_385721_48721101_TE_M1DP
 [unicorn-project]: https://www.amazon.co.uk/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41/
 [leadership-mess]: https://johnpcutler.github.io/tbm2020/#tbm-35-53-basic-prioritization-questions-and-when-to-converge-on-a-solution
-[making-work-visible](https://www.amazon.co.uk/Making-Work-Visible-Exposing-Optimize-ebook/dp/B076BYZ6VN/ref=pd_vtp_3/262-5799718-7275217?pd_rd_w=NeQt3&pf_rd_p=f8be2100-4de3-46b4-9cb2-76b688b54cf4&pf_rd_r=50VE3ZVWH207RTN0CC7G&pd_rd_r=a7501f02-1a00-4a91-a399-7bf282c6d845&pd_rd_wg=Cs0Wx&pd_rd_i=B076BYZ6VN&psc=1)
+[making-work-visible]: https://www.amazon.co.uk/Making-Work-Visible-Exposing-Optimize-ebook/dp/B076BYZ6VN/ref=pd_vtp_3/262-5799718-7275217?pd_rd_w=NeQt3&pf_rd_p=f8be2100-4de3-46b4-9cb2-76b688b54cf4&pf_rd_r=50VE3ZVWH207RTN0CC7G&pd_rd_r=a7501f02-1a00-4a91-a399-7bf282c6d845&pd_rd_wg=Cs0Wx&pd_rd_i=B076BYZ6VN&psc=1
 <!-- https://ebookcentral.proquest.com/lib/open/detail.action?pq-origsite=primo&docID=1743239 -->
 <!-- https://www.ebooks.com/en-gb/book/725888/good-strategy-bad-strategy/richard-rumelt/ -->
