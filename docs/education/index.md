@@ -27,10 +27,10 @@ published: true
 
 - [x] [Good Strategy and Bad Strategy (4/10)][good-bad-strategy]
 - [ ] [The Unicorn Project][unicorn-project]
-- [ ] [The first 90 days: techonology strategies][accelerate]
+- [ ] [The first 90 days: techonology strategies][[first-90-days]]
 - [ ] [Accelerate: scale technology organisations][accelerate]
 - [ ] [Extreme Ownership](https://www.amazon.co.uk/Extreme-Ownership-Jocko-Willink/dp/1250067057)
-- [ ] [The First 90 Days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612/ref=sr_1_1?ie=UTF8&qid=1546614786&sr=8-1&keywords=the+first+90+days)
+- [ ] [Making work visible][making-work-visible]
 
 ## Leadership
 
@@ -90,6 +90,7 @@ published: true
 
 <!-- resources -->
 [good-bad-strategy]: https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy
+[first-90-days]: https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612/ref=sr_1_1?ie=UTF8&qid=1546614786&sr=8-1&keywords=the+first+90+days
 [accelerate]: https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM/ref=sr_1_1?s=books&ie=UTF8&qid=1532354658&sr=1-1&keywords=accelerate+devops
 [tech-strategies]: https://www.amazon.com/First-Days-Updated-Expanded-Strategies-ebook/dp/B00B6U63ZE/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1532438854&sr=1-1&keywords=the+first+90+days
 [secure-reliable]: https://static.googleusercontent.com/media/sre.google/en//static/pdf/building_secure_and_reliable_systems.pdf
@@ -97,5 +98,6 @@ published: true
 [edge-value-driven]: https://www.amazon.co.uk/dp/B07WFL74JR/ref=pe_385721_48721101_TE_M1DP
 [unicorn-project]: https://www.amazon.co.uk/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41/
 [leadership-mess]: https://johnpcutler.github.io/tbm2020/#tbm-35-53-basic-prioritization-questions-and-when-to-converge-on-a-solution
+[making-work-visible](https://www.amazon.co.uk/Making-Work-Visible-Exposing-Optimize-ebook/dp/B076BYZ6VN/ref=pd_vtp_3/262-5799718-7275217?pd_rd_w=NeQt3&pf_rd_p=f8be2100-4de3-46b4-9cb2-76b688b54cf4&pf_rd_r=50VE3ZVWH207RTN0CC7G&pd_rd_r=a7501f02-1a00-4a91-a399-7bf282c6d845&pd_rd_wg=Cs0Wx&pd_rd_i=B076BYZ6VN&psc=1)
 <!-- https://ebookcentral.proquest.com/lib/open/detail.action?pq-origsite=primo&docID=1743239 -->
 <!-- https://www.ebooks.com/en-gb/book/725888/good-strategy-bad-strategy/richard-rumelt/ -->
