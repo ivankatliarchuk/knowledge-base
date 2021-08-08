@@ -11,80 +11,80 @@ published: true
 
 ## Technology
 
-- [ ] [Google: site reliability Engineering](https://landing.google.com/sre/sre-book/toc/)
-- [ ] [The site Reliability workbook](https://sre.google/workbook/table-of-contents/)
-- [X] [Buidling Secure & Reliable Systems (10/10)][secure-reliable]
+- [ ] [Google: site reliability Engineering](https://landing.google.com/sre/sre-book/toc/){:target="_blank"}
+- [ ] [The site Reliability workbook](https://sre.google/workbook/table-of-contents/){:target="_blank"}
+- [X] [Buidling Secure & Reliable Systems (10/10)][secure-reliable]{:target="_blank"}
 
 ## Engineering Leadership
 
-- [Engineer manager](https://github.com/ryanburgess/engineer-manager)
-- [Engineer manager: v2](https://github.com/charlax/engineering-management)
-- [ ] [Team management](https://github.com/kdeldycke/awesome-engineering-team-management#engineering-managers)
-- [ ] [Programming leadership newsletter](https://marcusblankenship.com/category/blog/daily-writing/)
-- [ ] [Leadership mess][leadership-mess]
+- [Engineer manager](https://github.com/ryanburgess/engineer-manager){:target="_blank"}
+- [Engineer manager: v2](https://github.com/charlax/engineering-management){:target="_blank"}
+- [ ] [Team management](https://github.com/kdeldycke/awesome-engineering-team-management#engineering-managers){:target="_blank"}
+- [ ] [Programming leadership newsletter](https://marcusblankenship.com/category/blog/daily-writing/){:target="_blank"}
+- [ ] [Leadership mess][leadership-mess]{:target="_blank"}
 
 ## Product strategy
 
-- [x] [Good Strategy and Bad Strategy (4/10)][good-bad-strategy]
-- [ ] [The Unicorn Project][unicorn-project]
-- [ ] [The first 90 days: techonology strategies][[first-90-days]]
-- [ ] [Accelerate: scale technology organisations][accelerate]
-- [ ] [Extreme Ownership](https://www.amazon.co.uk/Extreme-Ownership-Jocko-Willink/dp/1250067057)
-- [ ] [Making work visible][making-work-visible]
+- [x] [Good Strategy and Bad Strategy (4/10)][good-bad-strategy]{:target="_blank"}
+- [ ] [The Unicorn Project][unicorn-project]{:target="_blank"}
+- [ ] [The first 90 days: techonology strategies][first-90-days]{:target="_blank"}
+- [ ] [Accelerate: scale technology organisations][accelerate]{:target="_blank"}
+- [ ] [Extreme Ownership](https://www.amazon.co.uk/Extreme-Ownership-Jocko-Willink/dp/1250067057){:target="_blank"}
+- [ ] [Making work visible][making-work-visible]{:target="_blank"}
 
 ## Leadership
 
-- [X] [Managing humans (8/10)](https://github.com/ivankatliarchuk/managing-humans)
-- [X] [How to win friends (5/10)](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
-- [ ] [The Manager`s Path](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897)
-- [ ] [Mobile MBA](https://www.amazon.com/Mobile-MBA-Skills-Further-Faster/dp/0273750216)
-- [ ] [Behind closed doors]()
-- [ ] [Team topologies](https://teamtopologies.com/book)
-- [ ] [An Elegant Puzzle: Systems of Engineering Management][elegant-puzzle]
-- [ ] [EDGE: Value-Driven Digital Transformation][edge-value-driven]
-- [ ] [Scale Everything](https://github.com/binhnguyennus/awesome-scalability)
-- [ ] [Practical Cloud Security](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507)
-- [ ] [Making a manager](https://www.amazon.co.uk/Making-Manager-What-Everyone-Looks/dp/0753552892)
-- [ ] [Start with WHY](https://simonsinek.com/product/start-with-why/)
-- [ ] [Escape Velocity]()
-- [ ] [Flow: taking the agile forward]()
-- [ ] [The lean startup]()
-- [ ] [Can't hurt me](https://davidgoggins.com/book/)
-- [ ] [Dichotomy of Leadership](https://www.amazon.co.uk/Dichotomy-Leadership-Jocko-Willink/dp/1250195772)
-- [ ] [The 27 Challenges Managers Face](https://www.amazon.com/Challenges-Managers-Face-Step-Step/dp/111872559X/ref=sr_1_fkmr2_1?ie=UTF8&qid=1546614819&sr=8-1-fkmr2&keywords=37+challenges+managers+face)
-- [ ] [Becoming a Technical Leader](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021)
-- [ ] [Turn the Ship Around!](https://www.amazon.co.uk/Turn-Ship-Around-Building-Breaking/dp/1591846404)
-- [ ] [Leadership and Self-Deception](https://www.amazon.co.uk/Leadership-Self-Deception-Getting-out-Box/dp/0141030062)
-- [ ] [High Output Management](https://www.amazon.co.uk/High-Output-Management-Andrew-Grove/dp/0679762884)
+- [X] [Managing humans (8/10)](https://github.com/ivankatliarchuk/managing-humans){:target="_blank"}
+- [X] [How to win friends (5/10)](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People){:target="_blank"}
+- [ ] [The Manager`s Path](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897){:target="_blank"}
+- [ ] [Mobile MBA](https://www.amazon.com/Mobile-MBA-Skills-Further-Faster/dp/0273750216){:target="_blank"}
+- [ ] [Behind closed doors](){:target="_blank"}
+- [ ] [Team topologies](https://teamtopologies.com/book){:target="_blank"}
+- [ ] [An Elegant Puzzle: Systems of Engineering Management][elegant-puzzle]{:target="_blank"}
+- [ ] [EDGE: Value-Driven Digital Transformation][edge-value-driven]{:target="_blank"}
+- [ ] [Scale Everything](https://github.com/binhnguyennus/awesome-scalability){:target="_blank"}
+- [ ] [Practical Cloud Security](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507){:target="_blank"}
+- [ ] [Making a manager](https://www.amazon.co.uk/Making-Manager-What-Everyone-Looks/dp/0753552892){:target="_blank"}
+- [ ] [Start with WHY](https://simonsinek.com/product/start-with-why/){:target="_blank"}
+- [ ] [Escape Velocity](){:target="_blank"}
+- [ ] [Flow: taking the agile forward](){:target="_blank"}
+- [ ] [The lean startup](){:target="_blank"}
+- [ ] [Can't hurt me](https://davidgoggins.com/book/){:target="_blank"}
+- [ ] [Dichotomy of Leadership](https://www.amazon.co.uk/Dichotomy-Leadership-Jocko-Willink/dp/1250195772){:target="_blank"}
+- [ ] [The 27 Challenges Managers Face](https://www.amazon.com/Challenges-Managers-Face-Step-Step/dp/111872559X/ref=sr_1_fkmr2_1?ie=UTF8&qid=1546614819&sr=8-1-fkmr2&keywords=37+challenges+managers+face){:target="_blank"}
+- [ ] [Becoming a Technical Leader](https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021){:target="_blank"}
+- [ ] [Turn the Ship Around!](https://www.amazon.co.uk/Turn-Ship-Around-Building-Breaking/dp/1591846404){:target="_blank"}
+- [ ] [Leadership and Self-Deception](https://www.amazon.co.uk/Leadership-Self-Deception-Getting-out-Box/dp/0141030062){:target="_blank"}
+- [ ] [High Output Management](https://www.amazon.co.uk/High-Output-Management-Andrew-Grove/dp/0679762884){:target="_blank"}
 - [ ] [People: Productivity project and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-Second/dp/0932633439)
-- [ ] [The Wisdom of Teams](https://www.amazon.co.uk/Wisdom-Teams-Creating-High-Performance-Organization-ebook/dp/B004OC07B2)
-- [ ] [Leading at the Edge](https://www.amazon.co.uk/Leading-Edge-Leadership-Extraordinary-Shackletons/dp/0814405436)
-- [ ] [The 48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197)
+- [ ] [The Wisdom of Teams](https://www.amazon.co.uk/Wisdom-Teams-Creating-High-Performance-Organization-ebook/dp/B004OC07B2){:target="_blank"}
+- [ ] [Leading at the Edge](https://www.amazon.co.uk/Leading-Edge-Leadership-Extraordinary-Shackletons/dp/0814405436){:target="_blank"}
+- [ ] [The 48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197){:target="_blank"}
 
 ## Agile
 
 - [ ] [User Story Mapping: Discover the Whole Story](https://www.amazon.co.uk/User-Story-Mapping-Discover-Product/dp/1491904909)
-- [ ] [Agile conversations](https://itrevolution.com/agile-conversations/)
+- [ ] [Agile conversations](https://itrevolution.com/agile-conversations/){:target="_blank"}
 
 ## Project Management
 
-- [ ] [Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
-- [ ] [Leading Snowflakes](http://leadingsnowflakes.com/)
-- [ ] [Leading the Transformation](https://itrevolution.com/leading-the-transformation-book/)
+- [ ] [Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592){:target="_blank"}
+- [ ] [Leading Snowflakes](http://leadingsnowflakes.com/){:target="_blank"}
+- [ ] [Leading the Transformation](https://itrevolution.com/leading-the-transformation-book/){:target="_blank"}
 
 ## Self organising
 
-- [X] [The Coaching Habit (10/10)](https://boxofcrayons.com/the-coaching-habit-book/)
-- [ ] [Atomic Habits](https://jamesclear.com/atomic-habits)
-- [ ] [Bullet Journal](https://bulletjournal.com/pages/book)
-- [ ] [Deep work](https://www.calnewport.com/books/deep-work/)
+- [X] [The Coaching Habit (10/10)](https://boxofcrayons.com/the-coaching-habit-book/){:target="_blank"}
+- [ ] [Atomic Habits](https://jamesclear.com/atomic-habits){:target="_blank"}
+- [ ] [Bullet Journal](https://bulletjournal.com/pages/book){:target="_blank"}
+- [ ] [Deep work](https://www.calnewport.com/books/deep-work){:target="_blank"}
 
 ## Effective Communications
 
-- [ ] [Radical Candor](https://www.radicalcandor.com/the-book/)
-- [ ] [Crucial Comversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
-- [ ] [Can You Hear Me? (Harvard Business Review Press, 2018) ]()
-- [ ] [Alan Alda’s If I Understood You, Would I Have This Look on My Face? (Random House, 2017)]()
+- [ ] [Radical Candor](https://www.radicalcandor.com/the-book){:target="_blank"}
+- [ ] [Crucial Comversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations){:target="_blank"}
+- [ ] [Can You Hear Me? (Harvard Business Review Press, 2018) ](){:target="_blank"}
+- [ ] [Alan Alda’s If I Understood You, Would I Have This Look on My Face? (Random House, 2017)](){:target="_blank"}
 - [ ] [More Speak English Like an American](https://www.amazon.co.uk/More-Speak-English-Like-American/dp/B007QUYNR8)
 - [ ] [Speak Business English Like an American](https://www.amazon.co.uk/Speak-Business-English-Like-American/dp/0972530061)
 
