@@ -15,7 +15,6 @@ published: true
 
 - [Draw.io or app.diagrams.net](https://app.diagrams.net){:target="_blank"}
 - [Miro][miro]{:target="_blank"}
-
 - [Creately.com Plan,brainstorm or design $][creatly.com]{:target="_blank"}
 - [Visual Paradigm. $](https://online.visual-paradigm.com/pricing){:target="_blank"}
 - [Sketch Board: online whiteboard $$](https://sketchboard.io){:target="_blank"}

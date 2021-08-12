@@ -30,7 +30,7 @@ published: true
 - [ ] [The first 90 days: techonology strategies][first-90-days]{:target="_blank"}
 - [ ] [Accelerate: scale technology organisations][accelerate]{:target="_blank"}
 - [ ] [Extreme Ownership](https://www.amazon.co.uk/Extreme-Ownership-Jocko-Willink/dp/1250067057){:target="_blank"}
-- [ ] [Making work visible][making-work-visible]{:target="_blank"}
+- [X] [Making work visible (8/10)][making-work-visible]{:target="_blank"}
 
 ## Leadership
 

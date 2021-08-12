@@ -12,7 +12,7 @@ published: true
 
 # Best Practices
 
-# Best Practices: Kubernetes
+## Best Practices: Kubernetes
 
 ??? summary "K8s Resource limits"
     [K8s Resource limits][k8s-resource-limits]{:target=_blank}
