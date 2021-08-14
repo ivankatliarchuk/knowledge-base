@@ -13,7 +13,7 @@ published: true
 
 - [ ] [Google: site reliability Engineering](https://landing.google.com/sre/sre-book/toc/){:target="_blank"}
 - [ ] [The site Reliability workbook](https://sre.google/workbook/table-of-contents/){:target="_blank"}
-- [X] [Buidling Secure & Reliable Systems (10/10)][secure-reliable]{:target="_blank"}
+- [X] [Buidling Secure & Reliable Systems (10/10 2021/Jul)][secure-reliable]{:target="_blank"}
 
 ## Engineering Leadership
 
@@ -30,13 +30,14 @@ published: true
 - [ ] [The first 90 days: techonology strategies][first-90-days]{:target="_blank"}
 - [ ] [Accelerate: scale technology organisations][accelerate]{:target="_blank"}
 - [ ] [Extreme Ownership](https://www.amazon.co.uk/Extreme-Ownership-Jocko-Willink/dp/1250067057){:target="_blank"}
-- [X] [Making work visible (8/10)][making-work-visible]{:target="_blank"}
+- [X] [Making work visible (8/10 2021/Aug)][making-work-visible]{:target="_blank"}
 
 ## Leadership
 
-- [X] [Managing humans (8/10)](https://github.com/ivankatliarchuk/managing-humans){:target="_blank"}
-- [X] [How to win friends (5/10)](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People){:target="_blank"}
-- [ ] [The Manager`s Path](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897){:target="_blank"}
+- [X] [Managing humans (8/10 2021/Aug)](https://github.com/ivankatliarchuk/managing-humans){:target="_blank"}
+- [X] [How to win friends (5/10 2021/Aug)](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People){:target="_blank"}
+- [X] [The Manager`s Path (9/10 2021/Aug)](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897){:target="_blank"}
+- [ ] [First, break all the rules](https://www.amazon.co.uk/First-Break-All-Rules-Differently-ebook/dp/B01E7LH8E8/ref=sr_1_1?_encoding=UTF8&dchild=1&keywords=First%2C+Break+All+the+Rules%3A+What+the+World%27s+Greatest+Managers+Do+Differently&qid=1628839787&s=digital-text&sr=1-1)
 - [ ] [Mobile MBA](https://www.amazon.com/Mobile-MBA-Skills-Further-Faster/dp/0273750216){:target="_blank"}
 - [ ] [Behind closed doors](){:target="_blank"}
 - [ ] [Team topologies](https://teamtopologies.com/book){:target="_blank"}
@@ -47,7 +48,6 @@ published: true
 - [ ] [Making a manager](https://www.amazon.co.uk/Making-Manager-What-Everyone-Looks/dp/0753552892){:target="_blank"}
 - [ ] [Start with WHY](https://simonsinek.com/product/start-with-why/){:target="_blank"}
 - [ ] [Escape Velocity](){:target="_blank"}
-- [ ] [Flow: taking the agile forward](){:target="_blank"}
 - [ ] [The lean startup](){:target="_blank"}
 - [ ] [Can't hurt me](https://davidgoggins.com/book/){:target="_blank"}
 - [ ] [Dichotomy of Leadership](https://www.amazon.co.uk/Dichotomy-Leadership-Jocko-Willink/dp/1250195772){:target="_blank"}
@@ -65,6 +65,7 @@ published: true
 
 - [ ] [User Story Mapping: Discover the Whole Story](https://www.amazon.co.uk/User-Story-Mapping-Discover-Product/dp/1491904909)
 - [ ] [Agile conversations](https://itrevolution.com/agile-conversations/){:target="_blank"}
+- [ ] [Flow: taking the agile forward](){:target="_blank"}
 
 ## Project Management
 
@@ -74,7 +75,7 @@ published: true
 
 ## Self organising
 
-- [X] [The Coaching Habit (10/10)](https://boxofcrayons.com/the-coaching-habit-book/){:target="_blank"}
+- [X] [The Coaching Habit (9/10 2021/Aug)](https://boxofcrayons.com/the-coaching-habit-book/){:target="_blank"}
 - [ ] [Atomic Habits](https://jamesclear.com/atomic-habits){:target="_blank"}
 - [ ] [Bullet Journal](https://bulletjournal.com/pages/book){:target="_blank"}
 - [ ] [Deep work](https://www.calnewport.com/books/deep-work){:target="_blank"}
