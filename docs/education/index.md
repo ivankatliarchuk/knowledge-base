@@ -26,7 +26,6 @@ published: true
 ## Product strategy
 
 - [x] [Good Strategy and Bad Strategy (4/10)][good-bad-strategy]{:target="_blank"}
-- [ ] [The Unicorn Project][unicorn-project]{:target="_blank"}
 - [ ] [The first 90 days: techonology strategies][first-90-days]{:target="_blank"}
 - [ ] [Accelerate: scale technology organisations][accelerate]{:target="_blank"}
 - [ ] [Extreme Ownership](https://www.amazon.co.uk/Extreme-Ownership-Jocko-Willink/dp/1250067057){:target="_blank"}
@@ -70,6 +69,7 @@ published: true
 ## Project Management
 
 - [ ] [Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592){:target="_blank"}
+- [ ] [The Unicorn Project][unicorn-project]{:target="_blank"}
 - [ ] [Leading Snowflakes](http://leadingsnowflakes.com/){:target="_blank"}
 - [ ] [Leading the Transformation](https://itrevolution.com/leading-the-transformation-book/){:target="_blank"}
 
