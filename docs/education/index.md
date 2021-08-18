@@ -68,7 +68,7 @@ published: true
 
 ## Project Management
 
-- [ ] [Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592){:target="_blank"}
+- [X] [Phoenix Project (9/10 2021/Aug)](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592){:target="_blank"}
 - [ ] [The Unicorn Project][unicorn-project]{:target="_blank"}
 - [ ] [Leading Snowflakes](http://leadingsnowflakes.com/){:target="_blank"}
 - [ ] [Leading the Transformation](https://itrevolution.com/leading-the-transformation-book/){:target="_blank"}
