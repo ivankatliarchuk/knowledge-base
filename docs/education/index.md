@@ -29,13 +29,13 @@ published: true
 - [ ] [The first 90 days: techonology strategies][first-90-days]{:target="_blank"}
 - [ ] [Accelerate: scale technology organisations][accelerate]{:target="_blank"}
 - [ ] [Extreme Ownership](https://www.amazon.co.uk/Extreme-Ownership-Jocko-Willink/dp/1250067057){:target="_blank"}
-- [X] [Making work visible (8/10 2021/Aug)][making-work-visible]{:target="_blank"}
+- [X] [Making work visible (8/10 2021|Aug)][making-work-visible]{:target="_blank"}
 
 ## Leadership
 
-- [X] [Managing humans (8/10 2021/Aug)](https://github.com/ivankatliarchuk/managing-humans){:target="_blank"}
-- [X] [How to win friends (5/10 2021/Aug)](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People){:target="_blank"}
-- [X] [The Manager`s Path (9/10 2021/Aug)](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897){:target="_blank"}
+- [X] [Managing humans (8/10 2021|Aug)](https://github.com/ivankatliarchuk/managing-humans){:target="_blank"}
+- [X] [How to win friends (5/10 2021|Aug)](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People){:target="_blank"}
+- [X] [The Manager`s Path (9/10 2021|Aug)](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897){:target="_blank"}
 - [ ] [First, break all the rules](https://www.amazon.co.uk/First-Break-All-Rules-Differently-ebook/dp/B01E7LH8E8/ref=sr_1_1?_encoding=UTF8&dchild=1&keywords=First%2C+Break+All+the+Rules%3A+What+the+World%27s+Greatest+Managers+Do+Differently&qid=1628839787&s=digital-text&sr=1-1)
 - [ ] [Mobile MBA](https://www.amazon.com/Mobile-MBA-Skills-Further-Faster/dp/0273750216){:target="_blank"}
 - [ ] [Behind closed doors](){:target="_blank"}
@@ -68,14 +68,14 @@ published: true
 
 ## Project Management
 
-- [X] [Phoenix Project (9/10 2021/Aug)](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592){:target="_blank"}
-- [ ] [The Unicorn Project][unicorn-project]{:target="_blank"}
+- [X] [Phoenix Project (9/10 2021|Aug)](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592){:target="_blank"}
+- [X] [The Unicorn Project (7/10 2021|Aug)][unicorn-project]{:target="_blank"}
 - [ ] [Leading Snowflakes](http://leadingsnowflakes.com/){:target="_blank"}
 - [ ] [Leading the Transformation](https://itrevolution.com/leading-the-transformation-book/){:target="_blank"}
 
 ## Self organising
 
-- [X] [The Coaching Habit (9/10 2021/Aug)](https://boxofcrayons.com/the-coaching-habit-book/){:target="_blank"}
+- [X] [The Coaching Habit (9/10 2021|Aug)](https://boxofcrayons.com/the-coaching-habit-book/){:target="_blank"}
 - [ ] [Atomic Habits](https://jamesclear.com/atomic-habits){:target="_blank"}
 - [ ] [Bullet Journal](https://bulletjournal.com/pages/book){:target="_blank"}
 - [ ] [Deep work](https://www.calnewport.com/books/deep-work){:target="_blank"}
