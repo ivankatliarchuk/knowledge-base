@@ -14,6 +14,7 @@ published: true
 - [ ] [Google: site reliability Engineering](https://landing.google.com/sre/sre-book/toc/){:target="_blank"}
 - [ ] [The site Reliability workbook](https://sre.google/workbook/table-of-contents/){:target="_blank"}
 - [X] [Buidling Secure & Reliable Systems (10/10 2021/Jul)][secure-reliable]{:target="_blank"}
+- [ ] [Hello startup](https://www.hello-startup.net/?ref=ybrikman-home){:target="_blank"}
 
 ## Engineering Leadership
 
