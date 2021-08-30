@@ -42,5 +42,5 @@ tinycss2==1.1.0
 tornado==6.1
 tqdm==4.62.2
 wcmatch==8.2
-WeasyPrint==53.1
+WeasyPrint==53.2
 webencodings==0.5.1
