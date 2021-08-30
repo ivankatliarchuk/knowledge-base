@@ -15,6 +15,7 @@ published: true
 - [ ] [The site Reliability workbook](https://sre.google/workbook/table-of-contents/){:target="_blank"}
 - [X] [Buidling Secure & Reliable Systems (10/10 2021/Jul)][secure-reliable]{:target="_blank"}
 - [ ] [Hello startup](https://www.hello-startup.net/?ref=ybrikman-home){:target="_blank"}
+- [ ] [System Desigh Interview](https://www.amazon.co.uk/dp/B08CMF2CQF?tag=gregdoesit-21&keywords=system%20design%20interview&geniuslink=true)
 
 ## Engineering Leadership
 
@@ -38,6 +39,9 @@ published: true
 - [X] [How to win friends (5/10 2021|Aug)](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People){:target="_blank"}
 - [X] [The Manager`s Path (9/10 2021|Aug)](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897){:target="_blank"}
 - [ ] [First, break all the rules](https://www.amazon.co.uk/First-Break-All-Rules-Differently-ebook/dp/B01E7LH8E8/ref=sr_1_1?_encoding=UTF8&dchild=1&keywords=First%2C+Break+All+the+Rules%3A+What+the+World%27s+Greatest+Managers+Do+Differently&qid=1628839787&s=digital-text&sr=1-1)
+- [ ] [Become an Effective Engineering Manager](https://www.amazon.com/Become-Effective-Software-Engineering-Manager-ebook-dp-B08GF7P3G8/dp/B08GF7P3G8/ref=mt_other?_encoding=UTF8&me=&qid=1590871123)
+- [ ] [The Five Disfuncation of the team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Lencioni-ebook-dp-B006960LQW/dp/B006960LQW/ref=mt_other?_encoding=UTF8&me=&qid=)
+- [ ] [The Feiner Points of Leadership](https://www.amazon.co.uk/dp/0446695750/ref=as_li_qf_asin_il_tl?ie=UTF8&linkCode=gs2&linkId=8a35cdd91e1046fe8ab6e38b7b1d90b7&creativeASIN=0446695750&tag=gregdoesit-21&creative=9325)
 - [ ] [Mobile MBA](https://www.amazon.com/Mobile-MBA-Skills-Further-Faster/dp/0273750216){:target="_blank"}
 - [ ] [Behind closed doors](){:target="_blank"}
 - [ ] [Team topologies](https://teamtopologies.com/book){:target="_blank"}
