@@ -126,4 +126,4 @@ nav:
     - tools/index.md
     - ... | tools/*.md
   - Properties&Travel:
-    - idex.md
+    - ... | travel/*.md

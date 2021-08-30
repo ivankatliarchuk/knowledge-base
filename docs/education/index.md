@@ -91,6 +91,11 @@ published: true
 - [ ] [Crucial Comversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations){:target="_blank"}
 - [ ] [Can You Hear Me? (Harvard Business Review Press, 2018) ](){:target="_blank"}
 - [ ] [Alan Alda’s If I Understood You, Would I Have This Look on My Face? (Random House, 2017)](){:target="_blank"}
+
+## Speaking and Writing
+
+- [ ] [On Writing Well](https://www.amazon.co.uk/dp/0060891548/ref=as_li_tl?ie=UTF8&linkCode=gs2&linkId=39f2ab8ab47769b2a106e9667149df30&creativeASIN=0060891548&tag=gregdoesit-21&creative=9325&camp=1789)
+- [ ] [The sense of style: effective writing](https://www.amazon.co.uk/dp/0143127799/ref=as_li_tl?ie=UTF8&linkCode=gs2&linkId=ff9322c17ca288b1d9d6b5fb8d6df619&creativeASIN=0143127799&tag=gregdoesit-21&creative=9325&camp=1789)
 - [ ] [More Speak English Like an American](https://www.amazon.co.uk/More-Speak-English-Like-American/dp/B007QUYNR8)
 - [ ] [Speak Business English Like an American](https://www.amazon.co.uk/Speak-Business-English-Like-American/dp/0972530061)
 
