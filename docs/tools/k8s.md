@@ -18,6 +18,7 @@ published: true
 
 ## Cluster Management/Dashboards
 
+- [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
 - [Thanos](https://github.com/thanos-io/thanos)
 - [DevSpace](https://devspace.cloud/)
 - [Kontena Dashboard](https://www.kontena.io/)
