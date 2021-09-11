@@ -38,6 +38,8 @@ published: true
 - [X] [Managing humans (8/10 2021|Aug)](https://github.com/ivankatliarchuk/managing-humans){:target="_blank"}
 - [X] [How to win friends (5/10 2021|Aug)](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People){:target="_blank"}
 - [X] [The Manager`s Path (9/10 2021|Aug)](https://www.amazon.co.uk/Manager%60s-Path-Camille-Fournier/dp/1491973897){:target="_blank"}
+- [ ] [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.co.uk/dp/1732265186?tag=gregdoesit-21&geniuslink=true){:target="_blank"}
+- [ ] [Empowered: Ordinary People, Extraordinary Products](https://www.amazon.co.uk/dp/111969129X?tag=gregdoesit-21&keywords=empowered%20marty%20cagan&geniuslink=true){:target="_blank"}
 - [ ] [First, break all the rules](https://www.amazon.co.uk/First-Break-All-Rules-Differently-ebook/dp/B01E7LH8E8/ref=sr_1_1?_encoding=UTF8&dchild=1&keywords=First%2C+Break+All+the+Rules%3A+What+the+World%27s+Greatest+Managers+Do+Differently&qid=1628839787&s=digital-text&sr=1-1)
 - [ ] [Become an Effective Engineering Manager](https://www.amazon.com/Become-Effective-Software-Engineering-Manager-ebook-dp-B08GF7P3G8/dp/B08GF7P3G8/ref=mt_other?_encoding=UTF8&me=&qid=1590871123)
 - [ ] [The Five Disfuncation of the team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Lencioni-ebook-dp-B006960LQW/dp/B006960LQW/ref=mt_other?_encoding=UTF8&me=&qid=)
@@ -81,6 +83,8 @@ published: true
 ## Self organising
 
 - [X] [The Coaching Habit (9/10 2021|Aug)](https://boxofcrayons.com/the-coaching-habit-book/){:target="_blank"}
+- [ ] [Building a Career in Software](https://www.amazon.co.uk/dp/1484261461?tag=gregdoesit-21&keywords=building%20a%20career%20in%20software&geniuslink=true){:target="_blank"}
+- [ ] [Staff Engineer: Leadership beyond the management track ](https://staffeng.com/book){:target="_blank"}
 - [ ] [Atomic Habits](https://jamesclear.com/atomic-habits){:target="_blank"}
 - [ ] [Bullet Journal](https://bulletjournal.com/pages/book){:target="_blank"}
 - [ ] [Deep work](https://www.calnewport.com/books/deep-work){:target="_blank"}
