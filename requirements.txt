@@ -1,4 +1,4 @@
-beautifulsoup4==4.9.3
+beautifulsoup4==4.10.0
 bracex==2.1.1
 cairocffi==1.2.0
 CairoSVG==2.5.2
