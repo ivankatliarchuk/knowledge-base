@@ -12,7 +12,7 @@ html5lib==1.1
 htmlmin==0.1.12
 Jinja2==3.0.1
 joblib==1.0.1
-jsmin==2.2.2
+jsmin==3.0.0
 livereload==2.6.3
 lunr
 Markdown==3.3.4
