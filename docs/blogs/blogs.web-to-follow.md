@@ -12,6 +12,7 @@ published: true
 ## Tech
 
 - [Uber](https://eng.uber.com/category/articles/architecture)
+- [Dropbox](https://dropbox.tech/)
 - [PinTerest](https://medium.com/@Pinterest_Engineering)
 - [Netflix](https://medium.com/netflix-techblog)
 - [ADtMag](https://adtmag.com/articles/2019/03/15/coder.aspx)
