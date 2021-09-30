@@ -28,6 +28,8 @@ published: true
 - [Open Practices](https://openpracticelibrary.com/){:target="_blank"}
 - [Easy Retro](https://easyretro.io/){:target="_blank"}
 - [Trello](https://trello.com/){:target="_blank"}
+- [Idea Boards](https://ideaboardz.com/){:target="_blank"}
+- [Metro Retro](https://metroretro.io/){:target="_blank"}
 
 <!-- resources -->
 
