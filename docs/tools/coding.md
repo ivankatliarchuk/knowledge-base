@@ -102,7 +102,6 @@ published: true
 ### Releaser(go)
 
 - [Go Release](https://github.com/goreleaser/goreleaser/)
-- [Go Release](https://github.com/goreleaser/goreleaser)
 - [TaskFile e.g. Go Make](https://taskfile.dev/#/installation)
 
 ### Manage Projects(go)

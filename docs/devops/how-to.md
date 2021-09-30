@@ -21,6 +21,7 @@ published: true
 
 - [CloudFront bill reduce][cloudfront-reduce]{:target="_blank"}
 - [Cloud cost optimisation][cloud-cost-optimisation]{:target="_blank"}
+- [Cloud cost: aws EC2](https://instances.vantage.sh/){:target="_blank"}
 
 ## Scan Websites
 

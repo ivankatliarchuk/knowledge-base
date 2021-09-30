@@ -24,7 +24,8 @@ published: true
 ## OPS monitoring
 
 - [Real-time performance monitoring](https://github.com/netdata/netdata)
-- [Promethues log aggregation](https://github.com/grafana/loki)
+- [Loki: Promethues log aggregation](https://github.com/grafana/loki)
+- [Elastic Alerts: Easy & Flexible Alerting With ElasticSearch](https://github.com/Yelp/elastalert)
 - [Alertmanager dashboard](https://github.com/prymitive/karma)
 - [Swagger statistics](https://swaggerstats.io)
 - [SLO: prometheus service level objectives](https://github.com/slok/sloth)
