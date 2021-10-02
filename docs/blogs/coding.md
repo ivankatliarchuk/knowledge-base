@@ -2,7 +2,7 @@
 title: coding blogs
 summary: Blogs related to coding practices
 authors: ["ivan"]
-tags: ["tools", "code", "coding", "blog"]
+tags: ["tools", "code", "coding", "blog", "schools"]
 date: 2021-03-27
 published: true
 ---
@@ -19,6 +19,12 @@ published: true
 ## Golang Testing
 
 - [Go: testing with interfaces][go-testing-interfaces]
+
+## Coding Schools
+
+- [CodeCombat](https://codecombat.com/)
+- [Code Monkey](https://www.codemonkey.com/)
+- [Code Combat](https://codecombat.com/)
 
 <!-- resources -->
 
