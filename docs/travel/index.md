@@ -39,6 +39,10 @@ published: true
 - [Second Residency](https://nomadcapitalist.com/2013/05/03/your-second-residence-how-to-live-in-gibraltar/)
 - [Citizenship](https://www.quora.com/How-do-I-become-a-citizen-of-Gibraltar)
 
+### Bulgaria
+
+- [Bulgarian Propertires](https://www.bulgarianproperties.com/)
+
 ## Cost of living
 
 - https://www.numbeo.com/cost-of-living/comparison.jsp
