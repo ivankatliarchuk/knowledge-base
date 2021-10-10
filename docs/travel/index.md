@@ -9,6 +9,7 @@ published: true
 
 # Travel and Properties
 
+- [International Guides](https://www.expatica.com/)
 - [Buy property country guide](https://www.rightmove.co.uk/overseas-property/country-guides.html)
 
 ## Europe
@@ -26,6 +27,7 @@ published: true
 - [Moving Service](https://www.comparemymove.com/quote/international-removal)
 - [Costs Of Living](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=Spain&country2=United+Kingdom&city1=Malaga&city2=Nottingham&tracking=getDispatchComparison)
 - [Nomads List](https://nomadlist.com/)
+- [A place in the sun](https://www.aplaceinthesun.com/)
 
 ## Englang
 
@@ -43,9 +45,10 @@ published: true
 
 - [Bulgarian Propertires](https://www.bulgarianproperties.com/)
 
-## Cost of living
+## Life comparison in different countries
 
-- https://www.numbeo.com/cost-of-living/comparison.jsp
+- [Cost Of living](https://www.numbeo.com/cost-of-living/comparison.jsp)
+- [My life elsewhere](https://www.mylifeelsewhere.com/)
 
 ## Population and Security
 
