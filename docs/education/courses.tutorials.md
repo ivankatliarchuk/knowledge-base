@@ -45,6 +45,10 @@ published: true
 - [Ninja Wriring](https://www.udemy.com/course/ninja-writing-the-four-levels-of-writing-mastery/)
 - [Wriring with Confidence](https://www.udemy.com/course/writing-for-business/)
 
+## Kubernetes
+
+- [Kubernetes course](https://learnk8s.io/)
+
 ## UI
 
 - [30 days React](https://github.com/fullstackreact/30-days-of-react)
