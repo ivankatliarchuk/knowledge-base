@@ -40,7 +40,7 @@ published: true
 - [Chaos Engineering: litmux](https://github.com/litmuschaos/litmus){:target="_blank"}
 - [Toxic proxy](https://github.com/Shopify/toxiproxy){:target="_blank"}
 
-## VPN Tools
+## VPN Solutions
 
 - [Open VPN](https://openvpn.net/)
 - [Prinutl](https://client.pritunl.com/#install)
