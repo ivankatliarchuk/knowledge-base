@@ -99,10 +99,11 @@ published: true
 - [Permission Manager](https://github.com/sighupio/permission-manager)
 - [Krane](https://github.com/appvia/krane)
 
-#### Keycloack
+#### Keycloack and Authentic
 
 - [Workshop](https://github.com/ibuetler/docker-keycloak-traefik-workshop)
 - [SSO](https://www.slideshare.net/roidelapluie/single-sign-on-with-keycloak)
+- [Authentic](https://charts.goauthentik.io)
 
 ## K8s manage Secrets
 
