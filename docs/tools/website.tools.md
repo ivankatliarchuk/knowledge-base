@@ -53,3 +53,4 @@ published: true
 - [StoryBook](https://storybook.js.org)
 
 <!-- resources -->
+[foo.software]: https://www.foo.software/

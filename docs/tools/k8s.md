@@ -21,7 +21,6 @@ published: true
 - [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
 - [Thanos](https://github.com/thanos-io/thanos)
 - [DevSpace](https://devspace.cloud/)
-- [Kontena Dashboard](https://www.kontena.io/)
 - [Weave Scope Dashboard](https://github.com/weaveworks/scope)
 - [Kubrics Dashboard](https://github.com/kubricksllc/Kubricks)
 - [Kubernator Dashboard](https://github.com/smpio/kubernator)
@@ -31,7 +30,6 @@ published: true
 - [Pre Scaler](https://github.com/microsoft/k8s-cronjob-prescaler)
 - [Node Problem Detector](https://github.com/kubernetes/node-problem-detector/blob/master/README.md)
 - [GKE Monitoring](https://github.com/ik-kubernetes/gke-monitoring-tutorial)
-- [Kubricks](https://github.com/kubricksllc/Kubricks)
 - [Loghous/Papertrail](https://github.com/flant/loghouse)
 
 ## Logging & Monitoring command liners
@@ -49,9 +47,13 @@ published: true
 - [Weve Scope](https://github.com/weaveworks/scope)
 - [Containerium](https://github.com/containerum/containerum)
 - [Status Bay](https://github.com/similarweb/statusbay)
-- [Kube Analytics](https://github.com/rchakode/kube-opex-analytics)
 - [Helm Tenkai](https://github.com/softplan/tenkai)
-- [Kiali Servie Mesh UI](https://kiali.io/)
+- [Kiali Service Mesh UI](https://kiali.io/)
+
+## Kubernetes Costs
+
+- [Krossboard: Centralized Multi-Cluster Kubernetes Usage Accounting](https://github.com/rchakode/kube-opex-analytics)
+- [Kubecost: Cross-cloud cost allocation](https://github.com/kubecost/cost-model)
 
 ## AWS Specific K8s Tooling
 
@@ -70,10 +72,10 @@ published: true
 
 ## Security
 
+- [Security.info: Kubernetes Security](https://kubernetes-security.info/)
 - [K8s cluster sanitizer](https://github.com/ik-kubernetes/popeye)
 - [KubeHunber](https://github.com/aquasecurity/kube-hunter)
 - [Kube Bench](https://github.com/aquasecurity/kube-bench)
-- [Security.info](https://kubernetes-security.info/)
 - [TwistLock](https://www.twistlock.com/2018/06/21/securing-istio-twistlock/)
 - [Kritis Supply Chain Software](https://github.com/grafeas/kritis)
 - [Kubernetes Rules](https://github.com/circa10a/k8s-label-rules-webhook)

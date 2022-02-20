@@ -1,5 +1,5 @@
 ---
-title: awesome pages
+title: Awesome Pages
 summary: awesome pages
 author: "ik"
 tags: ["main", "awesome pages"]

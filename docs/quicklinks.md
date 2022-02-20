@@ -1,5 +1,5 @@
 ---
-title: quicklinks
+title: Quick Links
 summary: quick links
 author: "ik"
 tags: ["main", "quick links"]

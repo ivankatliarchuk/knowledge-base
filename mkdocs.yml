@@ -71,6 +71,8 @@ plugins:
   - awesome-pages:
       collapse_single_pages: true
   - autolinks
+  - tags:
+      tags_file: tags.md
   # - pdf-export
   # - git-revision-date
   # - same-dir
@@ -100,6 +102,7 @@ nav:
     - index.md
     - quicklinks.md
     - awesome-pages.md
+    - tags.md
   - Blogs&Articles:
     - ... | blogs/*.md
   - Education:
