@@ -30,6 +30,7 @@ My public Knowledge repository.
 ## TODO
 
 - ⚠️ [Insiders](https://squidfunk.github.io/mkdocs-material/insiders/)
+- [ ] Enrich pages with Tags
 
 [base-url]: https://ivankatliarchuk.github.io/knowledge-base
 [completed-actions-deploy]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/gh-pages.yml?query=is%3Acompleted
