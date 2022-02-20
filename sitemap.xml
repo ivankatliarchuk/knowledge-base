@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ivankatliarchuk.github.io/tags/</loc>
+         <lastmod>2022-02-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ivankatliarchuk.github.io/blogs/blogs.web-to-follow/</loc>
          <lastmod>2022-02-20</lastmod>
          <changefreq>daily</changefreq>
@@ -477,6 +482,11 @@
     </url>
     <url>
          <loc>https://ivankatliarchuk.github.io/workshops/pentest/</loc>
+         <lastmod>2022-02-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ivankatliarchuk.github.io/tags/</loc>
          <lastmod>2022-02-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
