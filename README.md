@@ -29,7 +29,7 @@ My public Knowledge repository.
 
 ## TODO
 
-- ⚠️ [Tags](https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags)
+- ⚠️ [Insiders](https://squidfunk.github.io/mkdocs-material/insiders/)
 
 [base-url]: https://ivankatliarchuk.github.io/knowledge-base
 [completed-actions-deploy]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/gh-pages.yml?query=is%3Acompleted
