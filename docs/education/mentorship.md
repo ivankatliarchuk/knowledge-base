@@ -11,7 +11,7 @@ published: true
 
 
 | Name                | Cost                      | Quality  | Tried |  Link                   |
-|:--------------------|---------------------------|----------|-------|-----.-------------------|
+|:--------------------|---------------------------|----------|-------|-------------------------|
 | PlatoHQ             | [💰💰💰][platohq.cost]     | N/A      |       | [url][platohq]         |
 | Marcus Blankenship  | [💰💰💰💰💰💰][marcus.cost] | N/A      |       | [url][marcus]          |
 | CodeMentor          | 💰                        | N/A      |       | [url][codementor]      |
