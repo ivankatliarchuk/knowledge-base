@@ -10,11 +10,12 @@ published: true
 # Mentorship
 
 
-| Name                | Cost                      | Quality  | Link             |
-|:--------------------|---------------------------|----------|------------------|
-| PlatoHQ             | [💰💰💰][platohq.cost]     | N/A      | [url][platohq]   |
-| Marcus Blankenship  | [💰💰💰💰💰💰][marcus.cost] | N/A      | [url][marcus]    |
-| CodeMentor          | 💰                        | N/A      | [url][codementor] |
+| Name                | Cost                      | Quality  | Tried |  Link                   |
+|:--------------------|---------------------------|----------|-------|-----.-------------------|
+| PlatoHQ             | [💰💰💰][platohq.cost]     | N/A      |       | [url][platohq]         |
+| Marcus Blankenship  | [💰💰💰💰💰💰][marcus.cost] | N/A      |       | [url][marcus]          |
+| CodeMentor          | 💰                        | N/A      |       | [url][codementor]      |
+| Exorcism            | 💰 or free                | N/A      |       | [url][exorcism.mentor] |
 
 
 <!-- resources -->
@@ -23,3 +24,4 @@ published: true
 [marcus]: https://marcusblankenship.com
 [marcus.cost]: https://marcusblankenship.com/tech-lead-mentoring-group/#
 [codementor]: https://www.codementor.io
+[exorcism.mentor]: https://exercism.org/mentoring
