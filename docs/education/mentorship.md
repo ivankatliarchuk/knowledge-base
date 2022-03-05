@@ -12,10 +12,11 @@ published: true
 
 | Name                | Cost                      | Quality  | Tried |  Link                   |
 |:--------------------|---------------------------|----------|-------|-------------------------|
-| PlatoHQ             | [💰💰💰][platohq.cost]     | N/A      |       | [url][platohq]         |
-| Marcus Blankenship  | [💰💰💰💰💰💰][marcus.cost] | N/A      |       | [url][marcus]          |
-| CodeMentor          | 💰                        | N/A      |       | [url][codementor]      |
-| Exorcism            | 💰 or free                | N/A      |       | [url][exorcism.mentor] |
+| PlatoHQ             | [💰💰💰][platohq.cost]     | N/A      |       | [url][platohq]          |
+| Marcus Blankenship  | [💰💰💰💰💰💰][marcus.cost] | N/A      |       | [url][marcus]           |
+| CodeMentor          | 💰                        | N/A      |       | [url][codementor]       |
+| Exorcism            | 💰 or free                | N/A      |       | [url][exorcism.mentor]  |
+| AdpList             | free                      | N/A      |       | [url][adplist]          |
 
 
 <!-- resources -->
@@ -25,3 +26,4 @@ published: true
 [marcus.cost]: https://marcusblankenship.com/tech-lead-mentoring-group/#
 [codementor]: https://www.codementor.io
 [exorcism.mentor]: https://exercism.org/mentoring
+[adplist]: https://adplist.org
