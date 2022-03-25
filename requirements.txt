@@ -10,7 +10,7 @@ future==0.18.2
 glob2==0.7
 html5lib==1.1
 htmlmin==0.1.12
-Jinja2==3.0.3
+Jinja2==3.1.0
 joblib==1.1.0
 jsmin==3.0.1
 livereload==2.6.3
@@ -21,7 +21,7 @@ mkdocs==1.2.3
 mkdocs-autolinks-plugin==0.5.0
 mkdocs-awesome-pages-plugin==2.7.0
 mkdocs-literate-nav==0.4.1
-mkdocs-material==8.2.5
+mkdocs-material==8.2.7
 mkdocs-material-extensions==1.0.3
 mkdocs-minify-plugin==0.5.0
 mkdocs-monorepo-plugin==1.0.1
@@ -40,7 +40,7 @@ six==1.16.0
 soupsieve==2.3.1
 tinycss2==1.1.1
 tornado==6.1
-tqdm==4.63.0
+tqdm==4.63.1
 wcmatch==8.3
 WeasyPrint==54.2
 webencodings==0.5.1
