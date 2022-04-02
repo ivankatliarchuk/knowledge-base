@@ -1,5 +1,5 @@
 ---
-title: tooling
+title: Tooling
 summary: Any tooling
 authors: ["Ivan K"]
 tags: ["tools", "home automation", "api", "fixtures"]
