@@ -102,7 +102,11 @@ published: true
 ### Releaser(go)
 
 - [Go Release](https://github.com/goreleaser/goreleaser/)
+
+## Devops(go)
+
 - [TaskFile e.g. Go Make](https://taskfile.dev/#/installation)
+- [Earthly](https://earthly.dev/)
 
 ### Manage Projects(go)
 
