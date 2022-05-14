@@ -81,7 +81,7 @@ published: true
 - [Go Cloud discovery](https://github.com/twistlock/cloud-discovery)
 - [Go cloud lists](https://github.com/projectdiscovery/cloudlist)
 
-### TCP&HTTP&Socks (python)
+### TCP & HTTP & Socks (python)
 
 - [Tor](https://github.com/erdiaker/torrequest)
 - [Requests Async](https://pypi.org/project/requests-futures/)
@@ -107,6 +107,7 @@ published: true
 
 - [TaskFile e.g. Go Make](https://taskfile.dev/#/installation)
 - [Earthly](https://earthly.dev/)
+- [Tilt dev](https://tilt.dev/)
 
 ### Manage Projects(go)
 
