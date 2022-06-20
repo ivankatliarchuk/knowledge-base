@@ -68,3 +68,5 @@ date: 2021-03-24
 - [Mock API: mockend](https://docs.mockend.com)
 - [Mock API: json server](https://github.com/typicode/json-server)
 - [Mock API: json place holder](https://jsonplaceholder.typicode.com)
+- [Random Data](https://random-data-api.com/documentation)
+  
