@@ -39,7 +39,7 @@ regex==2022.6.2
 six==1.16.0
 soupsieve==2.3.2.post1
 tinycss2==1.1.1
-tornado==6.1
+tornado==6.2
 tqdm==4.64.0
 wcmatch==8.4
 WeasyPrint==55.0
