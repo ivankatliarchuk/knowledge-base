@@ -2,7 +2,7 @@
 title: coding tooling
 summary: Tools related to code review and quality
 authors: ["ivan"]
-tags: ["tools", "code", "coding", ".net", "c#", "python", "go", "nodejs"]
+tags: ["tools", "code", "coding", ".net", "c#", "python", "go", "nodejs", "k8s"]
 date: 2021-03-8
 published: true
 ---
@@ -111,10 +111,14 @@ published: true
 
 - [Go Release](https://github.com/goreleaser/goreleaser/)
 
-## Devops(go)
+## Task Files & DevOps (go)
 
 - [TaskFile e.g. Go Make](https://taskfile.dev/#/installation)
 - [Earthly](https://earthly.dev/)
+
+## Improve Deployments
+
+- [Shipa: kubernets (k8s) deploy](https://shipa.io/)
 - [Tilt dev](https://tilt.dev/)
 
 ### Manage Projects(go)
