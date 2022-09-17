@@ -2,7 +2,7 @@
 title: coding tooling
 summary: Tools related to code review and quality
 authors: ["ivan"]
-tags: ["tools", "code", "coding", ".net", "c#", "python", "go"]
+tags: ["tools", "code", "coding", ".net", "c#", "python", "go", "nodejs"]
 date: 2021-03-8
 published: true
 ---
@@ -54,11 +54,19 @@ published: true
 - [Invoke](http://www.pyinvoke.org/)
 - [DoIt](https://pydoit.org/)
 
-### Cli (python)
+### CLI & CMD (command line tools)
+
+### Python
 
 - [Click](https://pypi.org/project/click8/)
 - [Completion](https://pypi.org/project/argcomplete/)
 - [PythonFire](https://github.com/google/python-fire)
+
+### NodeJS
+
+- [Yargs: cmd](https://www.npmjs.com/package/yargs)
+- [Commander: cmd](https://www.npmjs.com/package/commander)
+- [Promnts: input](https://www.npmjs.com/package/prompts)
 
 ### Configuration (python)
 
