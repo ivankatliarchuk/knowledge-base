@@ -18,6 +18,8 @@ published: true
 - [Jepsen: distributed systems verification, with fault injection](https://github.com/jepsen-io/jepsen)
 - [Structure tests](https://github.com/GoogleContainerTools/container-structure-test)
 - [Bats: infrastructure automation testing](https://github.com/bats-core/bats-core)
+- [Conftest: test sctuctured data](https://www.conftest.dev/)
+- [OPA: open policy agent](https://www.openpolicyagent.org/docs/latest/policy-testing/)
 
 ### Docker Security
 
