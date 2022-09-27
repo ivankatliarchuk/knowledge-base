@@ -4,6 +4,9 @@ summary: awesome pages
 author: "ik"
 tags: ["main", "awesome pages"]
 date: 2021-04-25
+links:
+  - setup/setting-up-site-search.md#built-in-search-plugin
+  - insiders/index.md#how-to-become-a-sponsor
 ---
 
 # Awesome pages

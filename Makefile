@@ -4,6 +4,8 @@ SHELL := /bin/bash
 MAKEFLAGS += --warn-undefined-variables
 MAKEFLAGS += --no-builtin-rules
 
+DOCKER_IMAGE := mkdocs
+
 help:
 	@printf "Usage: make [target] [VARIABLE=value]\nTargets:\n"
 	@grep -E '^[a-zA-Z0-9_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
@@ -27,13 +29,19 @@ start: ## Start it
 	@mkdocs serve
 	# @open "http://127.0.0.1:8000"
 
+docker-build: ## Build docker image
+	@docker build -t $(DOCKER_IMAGE) .
+
+docker-run: ## Run docker locally
+	@docker run --rm -it -p 8000:8000 -v ${PWD}:/docs $(DOCKER_IMAGE)
+
 requirements: ## Generate requirements.txt
 	@pipenv run pip freeze > requirements.txt
 
 deps: ## Install dependencies
 	@pip install -r requirements.txt
 
-run-on-container: ## Run on container
+run-link-checker: ## Run on container
 	@docker run --rm -it \
 	-v ${PWD}:/tmp -w /tmp \
 	lycheeverse/lychee \

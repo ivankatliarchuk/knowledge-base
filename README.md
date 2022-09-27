@@ -1,5 +1,7 @@
 # Public Knowledge Base
 
+[Personal](https://ivankatliarchuk.github.io/) public Knowledge repository.
+
 [![](https://img.shields.io/github/workflow/status/ivankatliarchuk/knowledge-base/github-pages-deploy/master)][completed-actions-deploy]
 [![](https://github.com/ivankatliarchuk/knowledge-base/workflows/changelog/badge.svg)][completed-actions-changelog]
 [![check markdown links][md-links-badge]][md-links-status]
@@ -17,7 +19,6 @@
 
 [MkDocs url for the repository][base-url]
 
-My public Knowledge repository.
 
 ## Markdown Documentation
 
@@ -31,6 +32,8 @@ My public Knowledge repository.
 
 - ⚠️ [Insiders](https://squidfunk.github.io/mkdocs-material/insiders/)
 - [ ] Enrich pages with Tags
+- [X] BUILD|RUN locally with Docker container
+- [ ] Push docker image to docker hub
 
 [base-url]: https://ivankatliarchuk.github.io/knowledge-base
 [completed-actions-deploy]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/gh-pages.yml?query=is%3Acompleted

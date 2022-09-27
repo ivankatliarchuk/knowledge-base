@@ -1,0 +1,6 @@
+version: "3"
+services:
+  webdoc:
+    image: mkdocs
+    volumes:
+      - ${PWD}:/docs
