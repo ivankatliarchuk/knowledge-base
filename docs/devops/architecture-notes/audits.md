@@ -2,7 +2,7 @@
 title: audits documentation
 summary: technical audits
 authors: ["Ivan K"]
-tags: ["architecture", "audit", "system", "cis", "soc", "aws", "cloud", "platform"]
+tags: ["architecture", "audit", "system", "cis", "soc", "aws", "cloud", "platform", "security", "cyber-sec"]
 date: 2021-03-8
 source:
 published: true

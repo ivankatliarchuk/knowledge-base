@@ -2,7 +2,7 @@
 title: audit tooling
 summary: Tools related to audit
 authors: ["Ivan K"]
-tags: ["tools", "audit", "hardening", "forensic", "python"]
+tags: ["tools", "audit", "hardening", "forensic", "python", "security", "cyber-sec"]
 date: 2021-03-08
 published: true
 ---
@@ -41,7 +41,7 @@ published: true
         : clouds **aws**
 
 ??? summary "SkyArk cloud security"
-    [SkyArk][pmapper]
+    [SkyArk][skyark]
     currently focuses on mitigating the new threat of Cloud Shadow Admins, and helps organizations to discover, assess and protect cloud privileged entities. Stealthy and undercover cloud admins may reside in every public cloud platform and SkyArk helps mitigating the risk in AWS and Azure.
     ???+ warning "meta"
         : lanugage **.Net**

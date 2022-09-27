@@ -2,7 +2,7 @@
 title: offsec tooling
 summary: Offensive security tooling
 authors: ["Ivan K"]
-tags: ["tools", "offsec", "hardening", "forensic", "kubernetes"]
+tags: ["tools", "offsec", "hardening", "forensic", "kubernetes", "cyber-sec", "security"]
 date: 2021-04-18
 ---
 
@@ -41,9 +41,13 @@ date: 2021-04-18
 ## Cloud Vulnerabilities and Audit
 
 - [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)
+- [PacBot](https://github.com/ik-security/pacbot)
 - [Scout suite](https://github.com/nccgroup/ScoutSuite)
+- [CS suite](https://github.com/SecurityFTW/cs-suite)
+- [Prowler](https://github.com/ik-security/prowler)
 - [AWS Inventory](https://github.com/nccgroup/aws-inventory)
 - [AWS Iam: clouds planning](https://github.com/salesforce/cloudsplaining)
+- [Audit page](./audit.md)
 
 ## Tools
 
