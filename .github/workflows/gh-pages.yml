@@ -4,6 +4,8 @@ on:
   push:
     branches:
     - master
+    paths:
+    - requirements.txt
     paths-ignore:
     - "README.md"
     - "CHANGELOG.md"
@@ -19,7 +21,7 @@ env:
 
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     if: "!contains(github.event.head_commit.message, 'skip')"
     steps:
       - uses: actions/checkout@v3
@@ -57,3 +59,28 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
           publish_branch: gh-pages
+
+  build-on-merge-request:
+    name: build-on-merge-request
+    runs-on: ubuntu-latest
+    if: >-
+      github.event_name == 'workflow_dispatch' && github.event.inputs.push == 'false'
+      || github.event_name == 'push' && (github.event.created == true || github.event.forced == true)
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4.2.0
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Upgrade pip
+        run: |
+          # install pip=>20.1 to use "pip cache dir"
+          python3 -m pip install --upgrade pip
+          python3 -m pip -V
+
+      - name: Install dependencies
+        run: python3 -m pip install -r ./requirements.txt
+
+      - run: mkdocs build --config-file ./mkdocs.yml
