@@ -16,6 +16,7 @@ on:
       tags:
         description: 'manual trigger'
 
+# todo: do matrix builds on merge
 env:
   PYTHON_VERSION: 3.9
 
