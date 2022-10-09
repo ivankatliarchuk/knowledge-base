@@ -177,11 +177,17 @@ You should protect from a scenario where all of your Pods are made unavailable, 
 
 -   ### Avoid Pods being placed into a single node
 
-    ### Avoid Pods being placed into a single node
+**Even if you run several copies of your Pods, there are no guarantees that losing a node won't take down your service.**
+
+Consider the following scenario: you have 11 replicas on a single cluster node.
+
+If the node is made unavailable, the 11 replicas are lost, and you have downtime.
+
+[You should apply anti-affinity rules to your Deployments so that Pods are spread in all the nodes of your cluster](https://cloudmark.github.io/Node-Management-In-GKE/#pod-anti-affinity-rules).
+
+The [inter-pod affinity and anti-affinity](https://kubernetes.io/docs/concepts/configuration/assign-pod-node/#inter-pod-affinity-and-anti-affinity) documentation describe how you can you could change your Pod to be located (or not) in the same node.
 
 -   ### Set Pod disruption budgets
-
-    ### Set Pod disruption budgets
 
     When a node is drained, all the Pods on that node are deleted and rescheduled.
 
@@ -197,6 +203,7 @@ You should protect from a scenario where all of your Pods are made unavailable, 
 
     The official documentation is an excellent place to start to understand [Pod Disruption Budgets](https://kubernetes.io/docs/concepts/workloads/pods/disruptions/).
 
+- ## Resource Utilization
 
 Docker containers are the blocks; servers are the boards, and the scheduler is the player.
 
@@ -204,9 +211,7 @@ Docker containers are the blocks; servers are the boards, and the scheduler is t
 
 To maximise the efficiency of the scheduler, you should share with Kubernetes details such as resource utilisation, workload priorities and overheads.
 
--   ### Set memory limits and requests for all containers
-
-    ### Set memory limits and requests for all containers
+- ### Set memory limits and requests for all containers
 
     Resource limits are used to constrain how much CPU and memory your containers can utilise and are set using the resources property of a `containerSpec`.
 
@@ -239,11 +244,9 @@ To maximise the efficiency of the scheduler, you should share with Kubernetes de
 
 -   ### Set CPU request to 1 CPU or below
 
-    ### Set CPU request to 1 CPU or below
+Unless you have computational intensive jobs, [it is recommended to set the request to 1 CPU or below](https://www.youtube.com/watch?v=xjpHggHKm78).
 
 -   ### Disable CPU limits — unless you have a good use case
-
-    ### Disable CPU limits — unless you have a good use case
 
     CPU is measured as CPU timeunits per timeunit.
 
@@ -263,15 +266,11 @@ To maximise the efficiency of the scheduler, you should share with Kubernetes de
 
 -   ### The namespace has a LimitRange
 
-    ### The namespace has a LimitRange
-
     If you think you might forget to set memory and CPU limits, you should consider using a LimitRange object to define the standard size for a container deployed in the current namespace.
 
     [The official documentation about LimitRange](https://kubernetes.io/docs/concepts/policy/limit-range/) is an excellent place to start.
 
 -   ### Set an appropriate Quality of Service (QoS) for Pods
-
-    ### Set an appropriate Quality of Service (QoS) for Pods
 
     When a node goes into an overcommitted state (i.e. using too many resources) Kubernetes tries to evict some of the Pod in that Node.
 
@@ -279,6 +278,7 @@ To maximise the efficiency of the scheduler, you should share with Kubernetes de
 
     You can find more about [configuring the quality of service for your Pods](https://kubernetes.io/docs/tasks/configure-pod-container/quality-service-pod/) on the official documentation.
 
+- ## Tagging Resources
 
 A label is a key-value pair without any pre-defined meaning.
 
@@ -298,8 +298,6 @@ However, you might want to consider using labels to cover the following categori
 -   label related to security such as compliance requirements
 
 -   ### Resources have technical labels defined
-
-    ### Resources have technical labels defined
 
     You could tag your Pods with:
 

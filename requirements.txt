@@ -15,7 +15,6 @@ joblib==1.2.0
 jsmin==3.0.1
 livereload==2.6.3
 lunr
-Markdown==3.4.1
 MarkupSafe==2.1.1
 mkdocs==1.4.0
 mkdocs-autolinks-plugin==0.6.0

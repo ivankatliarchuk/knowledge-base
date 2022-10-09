@@ -32,6 +32,9 @@ start: ## Start it
 docker-build: ## Build docker image
 	@docker build -t $(DOCKER_IMAGE) .
 
+docker-exec: ## Run docker locally
+	@docker run --rm -it -p 8000:8000 -v ${PWD}:/docs $(DOCKER_IMAGE) /bin/bash
+
 docker-run: ## Run docker locally
 	@docker run --rm -it -p 8000:8000 -v ${PWD}:/docs $(DOCKER_IMAGE)
 

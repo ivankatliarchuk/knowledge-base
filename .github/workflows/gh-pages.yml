@@ -28,12 +28,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Setup Python
+      - name: setup python
         uses: actions/setup-python@v4.2.0
         with:
           python-version: ${{ env.PYTHON_VERSION }}
+          check-latest: true
 
-      - name: Upgrade pip
+      - name: upgrade pip
         run: |
           # install pip=>20.1 to use "pip cache dir"
           python3 -m pip install --upgrade pip
