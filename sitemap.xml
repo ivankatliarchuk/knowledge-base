@@ -206,6 +206,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ivankatliarchuk.github.io/devops/check-lists/vault-checklist/</loc>
+         <lastmod>2022-10-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ivankatliarchuk.github.io/devops/check-lists/vulnerability.list/</loc>
          <lastmod>2022-10-09</lastmod>
          <changefreq>daily</changefreq>
