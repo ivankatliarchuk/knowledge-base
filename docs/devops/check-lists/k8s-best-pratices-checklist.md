@@ -1,10 +1,12 @@
 ---
-title: Kubernetes best practices check list
+title: kubernetes best practices checklist
 created: 2021-03-26
-tags: ["k8s", "kubernetes", "best practices", "checklist", "production"]
+tags: ["checklist", "k8s", "kubernetes", "best practices", "production"]
 source: https://learnk8s.io/production-best-practices
 author: learnk8s.io
 ---
+
+# kubernetes best practices checklist
 
 ## 1\. Application development
 
@@ -23,8 +25,6 @@ The kubelet executes the check and decides if the container should be restarted.
 
 -   ### Containers have Readiness probes
 
-    ### Containers have Readiness probes
-
     > Please note that there's no default value for readiness and liveness.
 
     If you don't set the readiness probe, the kubelet assumes that the app is ready to receive traffic as soon as the container starts.
@@ -32,8 +32,6 @@ The kubelet executes the check and decides if the container should be restarted.
     If the container takes 2 minutes to start, all the requests to it will fail for those 2 minutes.
 
 -   ### Containers crash when there's a fatal error
-
-    ### Containers crash when there's a fatal error
 
     If the application reaches an unrecoverable error, [you should let it crash](https://blog.colinbreck.com/kubernetes-liveness-and-readiness-probes-revisited-how-to-avoid-shooting-yourself-in-the-other-foot/#letitcrash).
 
@@ -48,8 +46,6 @@ The kubelet executes the check and decides if the container should be restarted.
     Instead, you should immediately exit the process and let the kubelet restart the container.
 
 -   ### Configure a passive Liveness probe
-
-    ### Configure a passive Liveness probe
 
     The Liveness probe is designed to restart your container when it's stuck.
 
@@ -77,8 +73,6 @@ The kubelet executes the check and decides if the container should be restarted.
 
 -   ### Liveness probes values aren't the same as the Readiness
 
-    ### Liveness probes values aren't the same as the Readiness
-
     When Liveness and Readiness probes are pointing to the same endpoint, the effects of the probes are combined.
 
     When the app signals that it's not ready or live, the kubelet detaches the container from the Service and delete it **at the same time**.
@@ -100,11 +94,8 @@ More in general, **a failure in a dependency downstream could propagate to all a
 
 -   ### The Readiness probes are independent
 
-    ### The Readiness probes are independent
 
 -   ### The app retries connecting to dependent services
-
-    ### The app retries connecting to dependent services
 
     When the app starts, it shouldn't crash because a dependency such as a database isn't ready.
 
@@ -135,8 +126,6 @@ You can [test that your app gracefully shuts down with this tool: kube-sigterm-t
 
 -   ### The app doesn't shut down on SIGTERM, but it gracefully terminates connections
 
-    ### The app doesn't shut down on SIGTERM, but it gracefully terminates connections
-
     It might take some time before a component such as kube-proxy or the Ingress controller is notified of the endpoint changes.
 
     Hence, traffic might still flow to the Pod despite it being marked as terminated.
@@ -147,17 +136,11 @@ You can [test that your app gracefully shuts down with this tool: kube-sigterm-t
 
 -   ### The app still processes incoming requests in the grace period
 
-    ### The app still processes incoming requests in the grace period
-
     You might want to consider using the container lifecycle events such as [the preStop handler](https://kubernetes.io/docs/tasks/configure-pod-container/attach-handler-lifecycle-event/#define-poststart-and-prestop-handlers) to customize what happened before a Pod is deleted.
 
 -   ### The CMD in the `Dockerfile` forwards the SIGTERM to the process
 
-    ### The CMD in the `Dockerfile` forwards the SIGTERM to the process
-
 -   ### Close all idle keep-alive sockets
-
-    ### Close all idle keep-alive sockets
 
     If the calling app is not closing the TCP connection (e.g. using TCP keep-alive or a connection pool) it will connect to one Pod and not use the other Pods in that Service.
 
@@ -191,8 +174,6 @@ Any of the above scenarios could affect the availability of your app and potenti
 You should protect from a scenario where all of your Pods are made unavailable, and you aren't able to serve live traffic.
 
 -   ### Run more than one replica for your Deployment
-
-    ### Run more than one replica for your Deployment
 
 -   ### Avoid Pods being placed into a single node
 

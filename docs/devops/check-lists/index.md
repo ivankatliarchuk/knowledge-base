@@ -2,8 +2,8 @@
 title: Product Readiness lists
 summary: check list of areas to follow
 authors: ["Ivan K"]
-tags: ["architecture", "best practices", "checkbox", "production", "todo"]
-date: 2021-03-8
+tags: ["architecture", "best practices", "checkbox", "production", "checklist", "readiness"]
+date: 8-Oct-2022
 source:
 published: true
 ---
@@ -11,18 +11,16 @@ published: true
 !!! note "Lists with Best Practices to Follow"
     A curated checklist of best practices designed to help you release to production
 
-!!! danger "should replicate them on single place"
-
-- [Gruntwork Release Readiness checklist](https://www.gruntwork.io/devops-checklist/){:target=_blank}
+- [checklist: Gruntwork Release Readiness](https://www.gruntwork.io/devops-checklist/){:target=_blank}
 - [Oreily Readiness](https://learning.oreilly.com/library/view/production-ready-microservices/9781491965962/app01.html){:target=_blank}
-- [Sysadmins/DevOps Launch Checklist](https://sysadmincasts.com/episodes/70-devops-launch-checklist){:target=_blank}
-- [Kubernets Production best practices](https://learnk8s.io/production-best-practices){:target=_blank}
-- [DevOps security checklist](https://www.xenonstack.com/insights/devsecops-security){:target=_blank}
+- [Sysadmins/DevOps Launch checklist](https://sysadmincasts.com/episodes/70-devops-launch-checklist){:target=_blank}
+- [checklist: Kubernets Production best practices](https://learnk8s.io/production-best-practices){:target=_blank}
+- [checklist: DevOps security](https://www.xenonstack.com/insights/devsecops-security){:target=_blank}
 - [Logging Readiness](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html){:target=_blank}
 - [Docker: owasp hardening](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)
-- [Google Lunch Checklist](https://cloud.google.com/docs/platform-launch-checklist){:target=_blank}
+- [checklist: Google Lunch](https://cloud.google.com/docs/platform-launch-checklist){:target=_blank}
 - [Google Peak Season Readiness](https://cloud.google.com/solutions/black-friday-production-readiness){:target=_blank}
-- [Website Launch Checklist](https://www.process.st/checklist/website-launch-checklist){:target=_blank}
+- [checklist: Website Launch](https://www.process.st/checklist/website-launch-checklist){:target=_blank}
 
 ## Reports
 

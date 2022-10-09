@@ -1,7 +1,7 @@
 ---
-title: Application Readiness checklist
+title: aws cloud readiness checklist
 created: 2021-07-29
-tags: ["application readiness", "infrastructure", "readiness", 'forensic', 'platform', 'containers security']
+tags: ["checklist", "aws", "cloud readiness", "infrastructure", "readiness", 'forensic', 'platform', 'containers security']
 source:
 - https://cloudsecurityalliance.org/blog/2017/12/11/aws-cloud-proactive-security-forensic-readiness-part-1/
 - https://cloudsecurityalliance.org/blog/2018/03/13/aws-cloud-proactive-security-part-2/

@@ -25,7 +25,9 @@ author: mmicrosoft
     - [ ] Call out any `Breaking Changes` or `Notable Bug Fixes` based on the "Breaking Changes" etc label filters on the bugs
     - [ ] Include a Smoke Testing Results section here with a pointer to our samples locations used for testing
     - [ ] Repeat this process for servicing release/1.2 series. We'll need to create a separate release draft for the servicing release to release/1.2 at this point in time
+    
 # Create, & publish new Packages
   - [ ] Kick off the respective release pipelines for .NET/UWP/iOS/Android renderer packages; Before publishing these please ensure that we smoke test our basic scenarios samples
   - [ ] Publish new packages for the JS renderer and website (*if needed*); Deploy website changes to a test endpoint ahead of the final publish to adaptivecards.io
+
 # Publish the release
