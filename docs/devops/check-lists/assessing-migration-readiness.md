@@ -1,8 +1,8 @@
 ---
-title: Assessing Migration Readiness
+title: assessing migration readiness
 summary: product readiness coordination checklist
-authors: ["Ivan K"]
-tags: ["architecture", "readiness", "checklist", "migration", "heatmap", "example"]
+authors: ["ivan k"]
+tags: ["checklist", "architecture", "checklist", "migration", "heatmap", "example"]
 date: 2021-03-21
 source: https://docs.aws.amazon.com/whitepapers/latest/aws-migration-whitepaper/assessing-migration-readiness.html
 published: true

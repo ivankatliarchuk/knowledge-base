@@ -1,7 +1,7 @@
 ---
 title: system data design
 summary: Design Data of the System
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["architecture", "design", "system", "data"]
 date: 2021-03-8
 source:

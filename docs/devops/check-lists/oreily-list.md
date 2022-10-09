@@ -1,8 +1,8 @@
 ---
 title: oreilly readiness checklist
 summary: https://www.oreilly.com/library/view/production-ready-microservices/9781491965962/app01.html
-authors: ["Ivan K", "oreilly"]
-tags: ["best practices", "production", "checklist", "readiness"]
+authors: ["ivan k", "oreilly"]
+tags: ["checklist", "best practices", "production", "readiness"]
 date: 8-Oct-2022
 source:
 published: true

@@ -1,7 +1,7 @@
 ---
 title: markdown tricks
 summary: markdown
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["markdown", "md"]
 date: 2021-03-08
 source:

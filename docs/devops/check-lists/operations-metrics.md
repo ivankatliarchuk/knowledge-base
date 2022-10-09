@@ -1,8 +1,8 @@
 ---
-title: Operations Readiness Metrics lists
+title: operations readiness metrics lists
 summary: metrics to monitor
-authors: ["Ivan K"]
-tags: ["architecture", "metrics", "ops", "operations"]
+authors: ["ivan k"]
+tags: ["checklist", "architecture", "metrics", "ops", "operations"]
 date: 2021-03-8
 source: https://stackify.com/15-metrics-for-devops-success
 published: true

@@ -1,6 +1,7 @@
 ---
-created: 2021-06-28T08:49:56 (UTC +01:00)
-tags: []
+title: post-incident review checklist
+created: 2021-06-28
+tags: ["checklist", "incident"]
 source: https://itrevolution.com/post-incident-review/
 author:
 ---

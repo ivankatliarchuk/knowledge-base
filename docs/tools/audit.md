@@ -1,7 +1,7 @@
 ---
 title: audit tooling
 summary: Tools related to audit
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "audit", "hardening", "forensic", "python", "security", "cyber-sec"]
 date: 2021-03-08
 published: true

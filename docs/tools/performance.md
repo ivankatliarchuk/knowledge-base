@@ -1,7 +1,7 @@
 ---
 title: performance tooling
 summary: Performance tooling
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "performance"]
 date: 2021-03-8
 source:

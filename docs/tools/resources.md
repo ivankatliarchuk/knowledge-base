@@ -1,7 +1,7 @@
 ---
 title: blogging resources
 summary: wallpapers, icons, emoji, images and pictures
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["resources", "images", "icons", "tools"]
 date: 2021-03-08
 published: true

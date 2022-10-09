@@ -1,7 +1,7 @@
 ---
 title: agile practices
 summary: agile practices
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["management", "agile", "practices", "value stream", "worley mapping"]
 date: 2021-03-08
 published: true

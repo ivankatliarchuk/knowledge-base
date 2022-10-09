@@ -1,8 +1,8 @@
 ---
-title: Monitorin Readiness lists
+title: monitorin readiness lists
 summary: monitoringt guidance to follow
-authors: ["Ivan K"]
-tags: ["architecture", "monitoring", "readiness", "list", "alerting"]
+authors: ["ivan k"]
+tags: ["checklist", "architecture", "monitoring", "readiness", "alerting"]
 date: 2021-03-8
 source:
 published: true

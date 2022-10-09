@@ -2,7 +2,7 @@
 title: ops tooling
 summary: Operations tooling
 authors:
-    - Ivan K
+    - ivan k
 tags: ["tools", "ops", "monitoring"]
 date: 2021-03-8
 source:

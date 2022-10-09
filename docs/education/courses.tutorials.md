@@ -1,7 +1,7 @@
 ---
 title: courses and tutorials
 summary: courses and tutorials
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["education", "courses", "tutorials", "security", "pentest", "coding"]
 date: 2021-03-14
 published: true

@@ -1,9 +1,9 @@
 ---
-title: Launch Coordination Checklist
+title: launch coordination checklist
 summary: product readiness coordination check list
-authors: ["Ivan K"]
-tags: ["architecture", "monitoring", "readiness", "list"]
-date: 2021-03-8
+authors: ["ivan k"]
+tags: ["checklist", "architecture", "monitoring", "readiness"]
+date: 08-03-2021
 source:
 published: true
 ---

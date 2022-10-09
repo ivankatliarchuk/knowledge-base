@@ -1,7 +1,7 @@
 ---
 title: agile&diagrams
 summary: agile,diagrams and management tooling
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "agile", "management", "wordly mapping", "graphs", "diagrams", "arthicteture"]
 date: 2021-03-08
 published: true

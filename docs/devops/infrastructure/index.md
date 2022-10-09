@@ -1,7 +1,7 @@
 ---
 title: Infrastructure
 summary: Infrastructure related stuff is here.
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["infrastructure", "host", "hosting", "website", "free hosting"]
 date: 2021-03-14
 source:

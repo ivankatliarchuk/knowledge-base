@@ -1,7 +1,7 @@
 ---
 title: DevOps
 summary: summary of devops documentation
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["devops"]
 date: 2021-03-8
 source:

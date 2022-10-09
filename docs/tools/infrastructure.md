@@ -1,7 +1,7 @@
 ---
 title: infrastructure tooling
 summary: infrastructure tooling
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "infrastructure", "docker", "k8s", "ecs", "fargate"]
 date: 2021-03-8
 published: true

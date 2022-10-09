@@ -1,7 +1,7 @@
 ---
 title: offsec tooling
 summary: Offensive security tooling
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "offsec", "hardening", "forensic", "kubernetes", "cyber-sec", "security"]
 date: 2021-04-18
 ---

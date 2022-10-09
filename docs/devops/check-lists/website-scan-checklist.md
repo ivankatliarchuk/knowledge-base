@@ -1,9 +1,9 @@
 ---
-title: WebSite Scan Checlist
+title: website scan checlist
 created: 2021-03-26
-tags: ["website", "site", "checklist"]
+tags: ["checklist", "website", "site", "scan"]
 source:
-author: IvanKa
+author: ik
 ---
 
 # The Complete Security Vulnerability Assessment Checklist

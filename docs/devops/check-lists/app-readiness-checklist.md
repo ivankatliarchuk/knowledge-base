@@ -1,7 +1,7 @@
 ---
-title: Application Readiness checklist
+title: application readiness checklist
 created: 2021-03-21
-tags: ["application readiness", "application", "readiness"]
+tags: ["checklist", "application readiness", "application", "readiness"]
 source: https://www.brighthubpm.com/project-planning/24286-application-readiness-checklist/
 author: david ellis
 ---

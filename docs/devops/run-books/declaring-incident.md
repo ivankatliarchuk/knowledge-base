@@ -1,7 +1,7 @@
 ---
 title: declaring incident (CMOC)
 summary:  declaring incident on call
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["run book", "ops", "operations", "cmoc", "declaring incident"]
 date: 2021-03-14
 published: true

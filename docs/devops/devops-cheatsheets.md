@@ -1,7 +1,7 @@
 ---
 title: cheat sheets
 summary: check list of areas to follow
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["devops", "best practices", "cheet sheets", "cheetsheets", "owasp", "docker"]
 date: 2021-03-14
 source:

@@ -1,7 +1,7 @@
 ---
 title: pentest certifications
 summary: how to blogs
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["education", "pentest certification"]
 date: 2021-03-24
 ---

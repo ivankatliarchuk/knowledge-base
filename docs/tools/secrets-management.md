@@ -1,7 +1,7 @@
 ---
 title: secrets management
 summary: Tools related to secrets management
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "secrets", "secrets management", "python", "go"]
 date: 2021-03-08
 published: true

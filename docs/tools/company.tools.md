@@ -1,7 +1,7 @@
 ---
 title: company tooling
 summary: company tooling
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "company", "comapany name", "company logo", "business"]
 date: 2021-03-08
 published: true

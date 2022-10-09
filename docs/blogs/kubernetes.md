@@ -1,7 +1,7 @@
 ---
 title: kubernetes
 summary: kubernetes blogs
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["blog", "blogs", "kubernetes", "k8s", "security", "cyber-sec"]
 date: 2021-03-08
 published: true

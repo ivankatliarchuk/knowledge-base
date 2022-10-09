@@ -1,7 +1,7 @@
 ---
 title: documentation architecture
 summary: good examples on how the documentation for a product should look like
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["education", "doc", "documenations"]
 date: 2021-03-14
 published: true

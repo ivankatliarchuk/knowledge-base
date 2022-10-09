@@ -1,7 +1,7 @@
 ---
 title: sre
 summary: Tools related sre
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "sre"]
 date: 2021-06-08
 published: true

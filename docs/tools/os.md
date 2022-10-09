@@ -2,7 +2,7 @@
 title: install os
 summary: os tooling
 authors:
-- Ivan K
+- ivan k
 tags: ["tools", "os", "windows", "linux", "macos"]
 date: 2021-03-8
 published: true

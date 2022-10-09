@@ -1,7 +1,7 @@
 ---
 title: authentication
 summary: SSO and 2FA
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "sso", "2fa", "auth", "security"]
 date: 2022-06-15
 published: true

@@ -1,7 +1,7 @@
 ---
 title: terraform
 summary: infrastructure tooling
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "terraform", "terragrunt", "ioc"]
 date: 2021-03-08
 published: true

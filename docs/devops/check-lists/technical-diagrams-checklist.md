@@ -1,7 +1,7 @@
 ---
-title: Application Readiness checklist
+title: application documentation checklist
 created: 2021-03-22
-tags: ["technical diagram", "diagrams", "checklist"]
+tags: ["checklist", "technical diagram", "diagrams", "docs"]
 source:
 - https://cofounderstown.com/draw-useful-technical-architecture-diagrams-cc5d5
 - http://www.it20.info/2018/06/compute-abstractions-on-aws

@@ -1,7 +1,7 @@
 ---
 title: k8s operators
 summary: Kubernetes operators
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "k8s", "kubernetes", "operators"]
 date: 2021-03-08
 published: true

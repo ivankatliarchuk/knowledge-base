@@ -1,7 +1,7 @@
 ---
 title: how to
 summary: how to blogs
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["blog", "how to"]
 date: 2021-03-24
 ---

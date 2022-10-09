@@ -1,7 +1,7 @@
 ---
 title: metrics tooling
 summary: Automation&Product metrics
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "metrics", "automation"]
 date: 2021-03-08
 published: true

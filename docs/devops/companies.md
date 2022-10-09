@@ -1,7 +1,7 @@
 ---
 title: devops companies
 summary: devops companies to have a look how they operate
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["devops", "companies"]
 date: 2021-03-08
 published: true

@@ -1,7 +1,7 @@
 ---
 title: google's design document template
 summary: desing document template
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["architecture", "design", "template"]
 date: 2021-06-27
 source:

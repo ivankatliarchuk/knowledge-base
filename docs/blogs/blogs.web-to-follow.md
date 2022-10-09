@@ -1,7 +1,7 @@
 ---
 title: blogs to follow
 summary: web resources worth to follow
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["blog"]
 date: 2021-03-08
 published: true

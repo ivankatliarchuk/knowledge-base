@@ -1,7 +1,7 @@
 ---
-title: Release checklist
-created: 2021-04-11
-tags: ["release checklist"]
+title: release checklist
+created: 11-04-2021
+tags: ["checklist", "release checklist"]
 source: https://github.com/microsoft/AdaptiveCards/blob/0ceb34c39647f0fe811e51554466a7d417855a27/.github/ReleaseChecklist.md
 author: mmicrosoft
 ---
@@ -25,7 +25,7 @@ author: mmicrosoft
     - [ ] Call out any `Breaking Changes` or `Notable Bug Fixes` based on the "Breaking Changes" etc label filters on the bugs
     - [ ] Include a Smoke Testing Results section here with a pointer to our samples locations used for testing
     - [ ] Repeat this process for servicing release/1.2 series. We'll need to create a separate release draft for the servicing release to release/1.2 at this point in time
-    
+
 # Create, & publish new Packages
   - [ ] Kick off the respective release pipelines for .NET/UWP/iOS/Android renderer packages; Before publishing these please ensure that we smoke test our basic scenarios samples
   - [ ] Publish new packages for the JS renderer and website (*if needed*); Deploy website changes to a test endpoint ahead of the final publish to adaptivecards.io

@@ -1,7 +1,7 @@
 ---
-title: Application Migration process
+title: application migration process
 created: 2021-03-21
-tags: ["application migration", "process"]
+tags: ["checklist", "application migration", "process"]
 source: https://docs.aws.amazon.com/whitepapers/latest/aws-migration-whitepaper/application-migration-process.html
 author: aws whitepapers
 ---

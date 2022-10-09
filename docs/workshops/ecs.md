@@ -1,7 +1,7 @@
 ---
 title: cloud general
 summary: aws ecs workshops
-author: "Ivan K"
+author: "ivan k"
 tags: ["workshop", "ecs", "aws", "gcp"]
 date: 2021-03-08
 source:

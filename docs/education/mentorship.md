@@ -1,7 +1,7 @@
 ---
 title: mentorship
 summary: Where to find mentors
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["education", "mentor", "mentorship"]
 date: 2022-02-27
 published: true

@@ -1,7 +1,7 @@
 ---
 title: awesome pages
 summary: GitHub awesome pages
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["eduction", "awesome pages", "production", "awesome", "pentest", "security", "cyber-sec"]
 date: 2021-03-8
 source:

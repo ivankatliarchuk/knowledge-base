@@ -1,12 +1,13 @@
 ---
-title: Product Readiness lists
+title: readiness checkllists
 summary: check list of areas to follow
-authors: ["Ivan K"]
-tags: ["architecture", "best practices", "checkbox", "production", "checklist", "readiness"]
+authors: ["ivan k"]
+tags: ["checklist", "architecture", "best practices", "checkbox", "production", "readiness"]
 date: 8-Oct-2022
-source:
 published: true
 ---
+
+# Readiness checklists
 
 !!! note "Lists with Best Practices to Follow"
     A curated checklist of best practices designed to help you release to production

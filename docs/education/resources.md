@@ -1,7 +1,7 @@
 ---
 title: education resources & lists
 summary: My education resources
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["github", "education", "resources"]
 date: 2021-03-08
 published: true

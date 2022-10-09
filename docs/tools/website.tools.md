@@ -1,7 +1,7 @@
 ---
 title: website tooling
 summary: Tools related to website creation
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "website", "test", "platform"]
 date: 2021-03-08
 published: true

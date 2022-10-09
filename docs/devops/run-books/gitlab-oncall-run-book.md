@@ -1,7 +1,7 @@
 ---
 title: gitlab on call run book
 summary: gitlab run book
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["run book", "ops", "operations", "gitlab"]
 date: 2021-03-14
 published: true

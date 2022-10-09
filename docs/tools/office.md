@@ -2,7 +2,7 @@
 title: day&office planners
 summary: planners
 authors:
-- Ivan K
+- ivan k
 tags: ["tools", "office", "planner"]
 date: 2021-03-8
 published: true

@@ -1,7 +1,7 @@
 ---
 title: travel-and-properties
 summary: Travel and Properties
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["travel", "properties", "buy"]
 date: 2021-08-30
 published: true

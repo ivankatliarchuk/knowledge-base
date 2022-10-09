@@ -1,7 +1,7 @@
 ---
 title: Tooling
 summary: Any tooling
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "home automation", "api", "fixtures"]
 date: 2021-03-24
 ---
@@ -69,4 +69,3 @@ date: 2021-03-24
 - [Mock API: json server](https://github.com/typicode/json-server)
 - [Mock API: json place holder](https://jsonplaceholder.typicode.com)
 - [Random Data](https://random-data-api.com/documentation)
-  

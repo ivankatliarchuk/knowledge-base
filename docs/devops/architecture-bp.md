@@ -1,7 +1,7 @@
 ---
 title: arcthitecture & best practices
 summary: architecture and best practices
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["architecture", "best practices"]
 date: 2021-03-8
 published: true

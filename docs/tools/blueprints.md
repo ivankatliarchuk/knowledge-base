@@ -1,7 +1,7 @@
 ---
 title: project blueprints
 summary: project blueprints and bootstraps
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "blueprint"]
 date: 2021-03-08
 published: true

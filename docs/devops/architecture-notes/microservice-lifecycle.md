@@ -2,7 +2,7 @@
 title: high level system design
 summary: Design System
 authors:
-- Ivan K
+- ivan k
 tags: ["architecture", "design", "system"]
 date: 2021-03-8
 source:

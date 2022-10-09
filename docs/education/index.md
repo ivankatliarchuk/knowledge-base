@@ -1,7 +1,7 @@
 ---
 title: books & resources
 summary: My books
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["education", "books", "reading"]
 date: 2021-03-08
 published: true

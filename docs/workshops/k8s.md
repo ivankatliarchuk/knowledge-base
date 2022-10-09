@@ -1,7 +1,7 @@
 ---
 title: k8s general
 summary: kubernetes workshops
-author: "Ivan K"
+author: "ivan k"
 tags: ["workshop", "k8s"]
 date: 2021-03-08
 source:

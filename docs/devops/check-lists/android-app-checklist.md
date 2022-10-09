@@ -1,7 +1,7 @@
 ---
-title: Android App Launch Checlist
+title: android app launch checlist
 created: 2021-03-26
-tags: ["android", "app", "checklist", "lunch"]
+tags: ["checklist", "android", "app"]
 source: https://developer.android.com/distribute/best-practices/launch/launch-checklist
 author: developer.android.com
 ---

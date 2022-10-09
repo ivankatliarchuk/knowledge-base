@@ -2,7 +2,7 @@
 title: database tooling
 summary: Database tooling
 authors:
-- Ivan K
+- ivan k
 tags: ["tools", "database", "db", "data migration"]
 date: 2021-03-8
 published: true

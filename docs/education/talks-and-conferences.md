@@ -1,7 +1,7 @@
 ---
 title: talks and conferences
 summary: talks and conferences
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["education", "talk", "conference", "speaker", "deck"]
 date: 2021-03-14
 published: true

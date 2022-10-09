@@ -1,7 +1,7 @@
 ---
 title: cicd tooling
 summary: Tools related to
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "cicd", "serverless", "k8s", "operator"]
 date: 2021-03-08
 source:

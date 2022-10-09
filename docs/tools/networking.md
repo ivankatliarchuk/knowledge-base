@@ -1,7 +1,7 @@
 ---
 title: networking
 summary: network tooling
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "network", "tcp", "dns", "lookup", "performance"]
 date: 2021-03-8
 published: true

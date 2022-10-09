@@ -1,7 +1,7 @@
 ---
 title: github
 summary: Github
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["tools", "github", "actions", "github actions"]
 date: 2021-03-08
 published: true

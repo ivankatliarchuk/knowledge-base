@@ -1,7 +1,7 @@
 ---
 title: clouds
 summary: cloud setup
-authors: ["Ivan K"]
+authors: ["ivan k"]
 tags: ["clouds", "aws", "iam"]
 date: 2021-03-08
 published: true
