@@ -1,11 +1,9 @@
 ---
-title: ops tooling
-summary: Operations tooling
-authors:
-    - ivan k
-tags: ["tools", "ops", "monitoring"]
-date: 2021-03-8
-source:
+title: monitoring tools
+summary: ops tools
+authors: ["ivan k"]
+tags: ["tools", "ops", "monitoring", "grafana", "prometheus", "alertmanager"]
+date: 08-10-2022
 published: true
 ---
 
@@ -29,3 +27,7 @@ published: true
 - [Alertmanager dashboard](https://github.com/prymitive/karma)
 - [Swagger statistics](https://swaggerstats.io)
 - [SLO: prometheus service level objectives](https://github.com/slok/sloth)
+
+## Prometheus
+
+- [Prometheus example alerts](https://github.com/samber/awesome-prometheus-alerts)
