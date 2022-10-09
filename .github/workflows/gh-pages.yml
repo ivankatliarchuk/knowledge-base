@@ -6,6 +6,7 @@ on:
     - master
     paths:
     - requirements.txt
+    - ".github/workflows/gh-pages.yml"
     - "docs/**"
     - "!README.md"
     - "!CHANGELOG.md"
@@ -18,7 +19,7 @@ on:
 
 # todo: do matrix builds on merge
 env:
-  PYTHON_VERSION: 3.9
+  PYTHON_VERSION: 3.10
 
 jobs:
   deploy:
