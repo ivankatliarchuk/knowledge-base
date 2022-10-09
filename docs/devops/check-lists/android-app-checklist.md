@@ -1,12 +1,12 @@
 ---
-title: android app launch checlist
+title: android app launch checklist
 created: 2021-03-26
 tags: ["checklist", "android", "app"]
 source: https://developer.android.com/distribute/best-practices/launch/launch-checklist
 author: developer.android.com
 ---
 
-# Google Play  |  Android Developers Launch Checlist
+# Google Play  |  Android Developers Launch checklist
 
 > ## Excerpt
 > Follow this checklist to ensure that you take all the steps necessary to launch your app or game successfully.

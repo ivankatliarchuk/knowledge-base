@@ -1,8 +1,8 @@
 ---
-title: readiness checkllists
+title: readiness checklist
 summary: check list of areas to follow
 authors: ["ivan k"]
-tags: ["checklist", "architecture", "best practices", "checkbox", "production", "readiness"]
+tags: ["checklist", "architecture", "best practices",  "production", "readiness"]
 date: 8-Oct-2022
 published: true
 ---

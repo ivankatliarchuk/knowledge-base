@@ -1,5 +1,5 @@
 ---
-title: website scan checlist
+title: website scan checklist
 created: 2021-03-26
 tags: ["checklist", "website", "site", "scan"]
 source:
