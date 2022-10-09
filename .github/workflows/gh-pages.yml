@@ -6,10 +6,10 @@ on:
     - master
     paths:
     - requirements.txt
-    paths-ignore:
-    - "README.md"
-    - "CHANGELOG.md"
-    - "renovate.json"
+    - "docs/**"
+    - "!README.md"
+    - "!CHANGELOG.md"
+    - "!renovate.json"
 
   workflow_dispatch:
     inputs:
