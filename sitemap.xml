@@ -411,6 +411,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ivankatliarchuk.github.io/tools/monitoring/</loc>
+         <lastmod>2022-10-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ivankatliarchuk.github.io/tools/networking/</loc>
          <lastmod>2022-10-09</lastmod>
          <changefreq>daily</changefreq>
@@ -422,11 +427,6 @@
     </url>
     <url>
          <loc>https://ivankatliarchuk.github.io/tools/offsec/</loc>
-         <lastmod>2022-10-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ivankatliarchuk.github.io/tools/ops/</loc>
          <lastmod>2022-10-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
