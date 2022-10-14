@@ -42,7 +42,6 @@ helm repo add {NAME} {CHART_URL}
 - [External Secrets](https://godaddy.github.io/kubernetes-external-secrets)
 - [Velero (vmware-tanzu)](https://vmware-tanzu.github.io/helm-charts)
 - [Verdacio](https://github.com/verdaccio/charts)
-- [Uswitch](https://uswitch.github.io/kiam-helm-charts/charts)
 - [Kubbernetes Dashboard](https://kubernetes.github.io/dashboard)
 - [Loghouse](https://flant.github.io/loghouse/charts)
 - [CodeCentric](https://codecentric.github.io/helm-charts)
