@@ -1,6 +1,6 @@
 ---
-title: clouds
-summary: cloud setup
+title: resource management
+summary: resource management
 authors: ["ivan k"]
 tags: ["clouds", "aws", "iam"]
 date: 2021-03-08
@@ -11,7 +11,8 @@ published: true
 
 ## Resource Management
 
-- [PackBot](https://github.com/ik-security/pacbot)
+- [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)
+- [PacBot](https://github.com/ik-security/pacbot)
 
 ##  IAM access management
 

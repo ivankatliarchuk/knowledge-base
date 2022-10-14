@@ -130,5 +130,11 @@ nav:
   - Tools:
     - tools/index.md
     - ... | tools/*.md
+    - AWS:
+    - ... | tools/aws/*.md
+    - Cyber-Sec:
+    - ... | tools/cyber-sec/*.md
+    - Kubernetes:
+    - ... | tools/kubernetes/*.md
   - Properties&Travel:
     - ... | travel/*.md
