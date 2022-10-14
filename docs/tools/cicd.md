@@ -39,7 +39,7 @@ published: true
 <!-- resources -->
 
 [gke-cloud-build]: https://github.com/GoogleCloudPlatform/gke-gitops-tutorial-cloudbuild
-[brigate]: https://github.com/brigadecore/brigade
+[brigade]: https://github.com/brigadecore/brigade
 [gitkube]: https://github.com/hasura/gitkube
 [snipper]: https://github.com/bookingcom/shipper
 [cloudposse-harness]: https://github.com/cloudposse/build-harness
