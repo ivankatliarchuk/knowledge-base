@@ -2,7 +2,7 @@
 title: monitoring tools
 summary: ops tools
 authors: ["ivan k"]
-tags: ["tools", "ops", "monitoring", "grafana", "prometheus", "alertmanager"]
+tags: ["tools", "ops", "monitoring", "grafana", "prometheus", "alertmanager", "alerts"]
 date: 08-10-2022
 published: true
 ---
