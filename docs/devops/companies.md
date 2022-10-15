@@ -36,9 +36,19 @@ published: true
     [CloudOps][cloudops]{:target="_blank"}
     is a company at the leading edge of the ever-changing cloud industry.
 
+???+ summary "Infra Cloud"
+    [InfraCloud][infracloud]{:target="_blank"}
+    Get your Kubernetes Adoption Right.
+
+???+ summary "Evil Martins"
+    [Evil Martins][evilmartins]{:target="_blank"}
+    Get your Kubernetes Adoption Right.
+
 [nearform]: https://www.nearform.com/
 [armakuni]: https://www.armakuni.com/
 [cycloid]: https://www.cycloid.io
 [devopsgroup]: https://www.devopsgroup.com/
 [cloudposse]: https://cloudposse.com/
 [cloudops]: https://www.cloudops.com/
+[infracloud]: https://www.infracloud.io/
+[evilmartins]: https://evilmartians.com/
