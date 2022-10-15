@@ -28,6 +28,7 @@ published: true
 - [Swagger statistics](https://swaggerstats.io)
 - [SLO: prometheus service level objectives](https://github.com/slok/sloth)
 
-## Prometheus
+## Prometheus & Grafana Alerts & Automation
 
 - [Prometheus example alerts](https://github.com/samber/awesome-prometheus-alerts)
+- [Gitlab Runbooks](https://ops.gitlab.net/gitlab-com/runbooks)
