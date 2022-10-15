@@ -27,3 +27,4 @@ published: true
 - [Sandbox Setup](https://github.com/plexsystems/sandbox-operator)
 - [Harbor operator](https://github.com/goharbor/harbor-operator)
 - [Banzaicloud: logging exporter](https://github.com/banzaicloud/logging-operator)
+- [Banzaicloud(Hashicorp Vault): bank-vaults](https://github.com/banzaicloud/bank-vaults)
