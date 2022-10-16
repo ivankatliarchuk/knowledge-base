@@ -115,7 +115,7 @@ nav:
       - ... | management/product/*.md
     - People:
       - ... | management/people/*.md
-  - SRE - Platform - DevOps:
+  - SRE-Platform-DevOps:
     - ... | sre-platform-devops/*.md
     - Notes:
       - ... | sre-platform-devops/notes/*.md
@@ -130,13 +130,12 @@ nav:
     - Docs Examples:
       - ... | sre-platform-devops/examples/*.md
   - Tools:
-    - tools/index.md
     - ... | tools/*.md
     - AWS:
-    - ... | tools/aws/*.md
+      - ... | tools/aws/*.md
     - Cyber-Sec:
-    - ... | tools/cyber-sec/*.md
+      - ... | tools/cyber-sec/*.md
     - Kubernetes:
-    - ... | tools/kubernetes/*.md
+      - ... | tools/kubernetes/*.md
   - Properties&Travel:
     - ... | travel/*.md
