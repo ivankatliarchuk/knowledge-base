@@ -115,8 +115,8 @@ nav:
       - ... | management/product/*.md
     - People:
       - ... | management/people/*.md
-  - Devops & SRE:
-    - ... | devops/*.md
+  - SRE - Platform - DevOps:
+    - ... | sre-platform-devops/*.md
     - Run Books:
       - ... | devops/run-books/*.md
     - Readiness Lists:

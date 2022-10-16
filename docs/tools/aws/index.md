@@ -2,11 +2,13 @@
 title: aws
 summary: aws tooling
 authors: ["ivan k"]
-tags: ["aws", "eks", "cloud", "bootstrap", "argocd", "crossplane", "blueprints"]
+tags: ["aws", "eks", "cloud", "bootstrap", "argocd", "crossplane", "blueprints", "security"]
 date: 14-10-2022
 ---
 
 # AWS
+
+- [AWS Security tools](https://github.com/ik-security/my-arsenal-of-aws-security-tools)
 
 ## EKS bootstrap
 

@@ -23,7 +23,7 @@ links:
 
 ### Security
 
-- [pentest](https://github.com/enaqx/awesome-pentest)
+- [Pentest](https://github.com/enaqx/awesome-pentest)
 - [web hacking](https://github.com/infoslack/awesome-web-hacking)
 - [web security](https://github.com/qazbnm456/awesome-web-security)
 
@@ -38,7 +38,7 @@ links:
 - [network automation](https://github.com/networktocode/awesome-network-automation)
 - [keycloak](https://github.com/thomasdarimont/awesome-keycloak)
 - [ecs](https://github.com/nathanpeck/awesome-ecs)
-- [devsecops](https://github.com/devsecops/awesome-devsecops)
+- [DevSecOps](https://github.com/devsecops/awesome-devsecops)
 - [serverless](https://github.com/anaibol/awesome-serverless)
 - [status pages](https://github.com/ivbeg/awesome-status-pages)
 - [terraform](https://github.com/shuaibiyy/awesome-terraform)
@@ -46,6 +46,7 @@ links:
 #### SRE
 
 - [incident response](https://github.com/meirwah/awesome-incident-response)
+- [Awesome SRE&Platform](docs/sre-platform-devops/awesome.md)
 
 #### CI and Automation
 

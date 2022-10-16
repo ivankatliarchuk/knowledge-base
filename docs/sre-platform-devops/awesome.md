@@ -2,7 +2,7 @@
 title: awesome pages
 summary: GitHub awesome pages
 authors: ["ivan k"]
-tags: ["eduction", "awesome pages", "production", "awesome", "pentest", "security", "cyber-sec"]
+tags: ["eduction", "awesome pages", "production", "awesome", "security", "cyber-sec"]
 date: 2021-03-8
 source:
 published: true
@@ -27,9 +27,13 @@ published: true
 - [Pythons: a curated list of awesome Python frameworks, libraries, software and resources][aw-python]{:target="_blank"}
 - [Network Automation: awesome list about Network Automation][aw-networkautomation]{:target="_blank"}
 - [Github Actions: a curated list of awesome actions to use on GitHub][aw-actions]{:target="_blank"}
-- [Static Anaylisys: static analysis tools for all programming languages][aw-static-analysis]{:target="_blank"}
+- [Static Analysis: static analysis tools for all programming languages][aw-static-analysis]{:target="_blank"}
 - [Scalability: the Patterns of Scalable, Reliable, and Performant Large-Scale Systems][aw-scalability]{:target="_blank"}
 - [Monorepo: curated list of awesome Monorepo tools, software and architectures.][aw-monorepo]{:target="_blank"}
+
+### DevOps & SRE
+
+- [Awesome SRE](https://github.com/ivankatliarchuk/awesome-sre)
 
 ### Clouds
 
@@ -45,20 +49,18 @@ published: true
 [awesome-sysadmin]: https://github.com/kahun/awesome-sysadmin
 [jsut-awesome]: https://github.com/sindresorhus/awesome
 [awesome-ecs]: https://github.com/nathanpeck/awesome-ecs
-[status-pages]: https://github.com/ivankatliarchuk/awesome-status-pages
-[github-profiles]: https://github.com/ivankatliarchuk/awesome-github-profile-readme
-[keyboards]: https://github.com/ivankatliarchuk/awesome-split-keyboards
+[status-pages]: https://github.com/ivbeg/awesome-status-pages/blob/master/README.md
+[github-profiles]: https://github.com/abhisheknaiidu/awesome-github-profile-readme
+[keyboards]: https://github.com/diimdeep/awesome-split-keyboards
 [autpipelines]: https://github.com/ivankatliarchuk/awesome-pipeline
-[aw-python]: https://github.com/ivankatliarchuk/awesome-python
-[aw-networkautomation]: https://github.com/ivankatliarchuk/awesome-network-automation
+[aw-python]: https://github.com/vinta/awesome-python
+[aw-networkautomation]: https://github.com/networktocode/awesome-network-automation
 [aw-actions]: https://github.com/sdras/awesome-actions
 [aw-pentest-web]: https://github.com/infoslack/awesome-web-hacking
 [aw-static-analysis]: https://github.com/analysis-tools-dev/static-analysis
-[aw-keycloak]: https://github.com/ivankatliarchuk/awesome-keycloak
-[aw-aws]: https://github.com/ivankatliarchuk/awesome-aws
-[aw-scalability]: https://github.com/ivankatliarchuk/awesome-scalability
-[aw-monorepo]: https://github.com/ivankatliarchuk/awesome-monorepo
-[aw-googlecloud]: https://github.com/ivankatliarchuk/awesome-google-cloud
-[aw-terraform]: https://github.com/ivankatliarchuk/awesome-terraform
-[aw-website-build-v1]: https://github.com/ivankatliarchuk/awesome-websitebuild
-[aw-openuni]: https://github.com/ivankatliarchuk/awesome-ou-projects
+[aw-keycloak]: https://github.com/thomasdarimont/awesome-keycloak
+[aw-aws]: https://github.com/donnemartin/awesome-aws
+[aw-scalability]: https://github.com/binhnguyennus/awesome-scalability
+[aw-monorepo]: https://github.com/korfuri/awesome-monorepo
+[aw-googlecloud]: https://github.com/GoogleCloudPlatform/awesome-google-cloud
+[aw-terraform]: https://github.com/shuaibiyy/awesome-terraform
