@@ -2,7 +2,7 @@
 title: DevOps
 summary: summary of devops documentation
 authors: ["ivan k"]
-tags: ["devops"]
+tags: ["devops", "sre", "platform"]
 date: 2021-03-8
 source:
 published: true

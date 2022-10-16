@@ -1,0 +1,27 @@
+name: pull-request-test
+on: pull_request
+
+env:
+  PYTHON_VERSION: "3.10"
+
+jobs:
+  build-on-merge-request:
+    name: build-on-merge-request
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4.3.0
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Upgrade pip
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip -V
+
+      - name: Install dependencies
+        run: python3 -m pip install -r ./requirements.txt
+
+      - run: mkdocs build --config-file ./mkdocs.yml
