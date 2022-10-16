@@ -2,12 +2,12 @@
 title: courses and tutorials
 summary: courses and tutorials
 authors: ["ivan k"]
-tags: ["education", "courses", "tutorials", "security", "pentest", "coding"]
+tags: ["education", "courses", "tutorials", "security", "pentest", "coding", "completed"]
 date: 2021-03-14
 published: true
 ---
 
-## Pentesting
+## Pentest
 
 - [Beginner Network Penetration Testing](https://www.youtube.com/watch?v=WnN6dbos5u8)
 - [Zero-to-Hero](https://www.thecybermentor.com/zero-to-hero-pentesting)
@@ -30,6 +30,9 @@ published: true
 - [Habr MIT Security](https://habr.com/ru/company/ua-hosting/blog/427763/)
 - [Secure Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)
 - [Opa](https://academy.styra.com/courses/opa-rego)
+- [X] [Udemy: The Complete Cyber Security Course : Network Security](https://www.udemy.com/course/network-security-course/)
+- [X] [Udemy: The Complete Cyber Security Course : Hackers Exposed](https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1)
+- [X] [Udemy: Secure Product Lifecycle 101](https://www.udemy.com/course/secure-product-lifecycle-101/)
 
 ## University
 
@@ -42,12 +45,13 @@ published: true
 ## Writing
 
 - [Business Writing](https://www.udemy.com/course/business-writing-immersion/)
-- [Ninja Wriring](https://www.udemy.com/course/ninja-writing-the-four-levels-of-writing-mastery/)
-- [Wriring with Confidence](https://www.udemy.com/course/writing-for-business/)
+- [Ninja Writing](https://www.udemy.com/course/ninja-writing-the-four-levels-of-writing-mastery/)
+- [Writing with Confidence](https://www.udemy.com/course/writing-for-business/)
 
 ## Kubernetes
 
 - [Kubernetes course](https://learnk8s.io/)
+- [X] [Udemy: Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
 
 ## UI
 
@@ -56,7 +60,7 @@ published: true
 ## General
 
 - [Talk the Talk](https://www.open.edu/openlearn/education-development/talk-the-talk/content-section-overview)
-- [Infastructure tooling courses](https://play.instruqt.com/public)
+- [Infrastructure tooling courses](https://play.instruqt.com/public)
 - [Technology: courses free](https://hackr.io/)
 
 ## Coding
@@ -66,3 +70,11 @@ published: true
 ### NodeJS
 
 - [NodeJS & JS tutorials](https://learn.javascript.ru)
+- [X] [Udemy: Introduction to Typescript](https://www.udemy.com/course/typescript/)
+- [X] [Udemy: Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/)
+- [X] [Udemy: Javascript Essentials](https://www.udemy.com/course/javascript-essentials/)
+
+### SRE
+
+- [X] [Coursera: Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos/)
+- [X] [Coursera: Developing a Google SRE Culture](https://www.coursera.org/learn/developing-a-google-sre-culture)
