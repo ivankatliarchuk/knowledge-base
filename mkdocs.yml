@@ -117,16 +117,18 @@ nav:
       - ... | management/people/*.md
   - SRE - Platform - DevOps:
     - ... | sre-platform-devops/*.md
+    - Notes:
+      - ... | sre-platform-devops/notes/*.md
     - Run Books:
-      - ... | devops/run-books/*.md
+      - ... | sre-platform-devops/run-books/*.md
     - Readiness Lists:
-      - ... | devops/check-lists/*.md
+      - ... | sre-platform-devops/check-lists/*.md
     - Architecture Notes:
-      - ... | devops/architecture-notes/*.md
+      - ... | sre-platform-devops/architecture-notes/*.md
     - Infrastructure:
-      - ... | devops/infrastructure/*.md
+      - ... | sre-platform-devops/infrastructure/*.md
     - Docs Examples:
-      - ... | devops/examples/*.md
+      - ... | sre-platform-devops/examples/*.md
   - Tools:
     - tools/index.md
     - ... | tools/*.md

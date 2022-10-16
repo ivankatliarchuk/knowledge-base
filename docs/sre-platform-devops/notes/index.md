@@ -2,7 +2,7 @@
 title: sre notes
 summary: sre notes
 authors: ["ivan k"]
-tags: ["sre", "notes", "google", "courses"]
+tags: ["sre", "notes", "google", "courses", "sre:notes"]
 date: 16-Oct-2022
 published: true
 ---
@@ -13,7 +13,7 @@ published: true
 
 ## DevOps Vs SRE
 
-**DevOps (is a filosofy)**
+**DevOps (is a philosophy)**
 
 - Reduce organization silos. Breaking down barriers across teams
 - Accept failure as normal.
@@ -61,10 +61,19 @@ published: true
 
 > One that enables Google to quickly determine when product changes have impacted its customers, and one that allows customers to reason about the expected availability of those products.
 
-### SLO process overview
+> 100% reliability is almost always the wrong target. It becomes much, much more expensive to make systems even more reliable, so there’s some point where the marginal cost of reliability exceeds the marginal value of reliability.
+
+### SLO
+
+**Process Overview**
 
 1. List out critical user journeys and order them by business impact.
 1. Determine which metrics to use as service-level indicators (SLIs) to most accurately track the user experience.
 1. Determine SLO target goals and the SLO measurement period.
 1. Create SLI, SLO, and error budget consoles.
 1. Create SLO alerts.
+
+**Characteristics**
+
+- Just high enough to keep customers happy
+- Ambitious but achievable

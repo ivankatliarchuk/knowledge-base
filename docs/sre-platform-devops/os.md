@@ -1,6 +1,6 @@
 ---
 title: os
-summary: opearation systems
+summary: operation systems
 authors: ["ivan k"]
 tags: ["os", "devops", "operation system", "system"]
 date: 2021-03-25
