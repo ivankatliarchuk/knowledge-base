@@ -82,6 +82,65 @@ published: true
 
 > But how do you know how much headroom you have left before you violate your SLOs, and what can you do about it? Well, we use something known as an error budget to figure this out. An error budget is basically the inverse of availability, and it tells us how unreliable your service is allowed to be. If your SLO says that 99.9 percent of requests should be successful in a given quarter, your error budget allows 0.1 percent of requests to fail. This unavailability can be generated as a result of bad pushes by the product teams, planned maintenance, hardware failures, et cetera. Let's look at error budgets in terms of time. 0.1 percent unavailability times 28 days in the four-week window, times 24 hours in a day, times 60 minutes in an hour is equal to 40.32 minutes of downtime per month. This is just about enough time for your monitoring systems to surface an issue, and for a human to investigate and fix it. And that only allows for one incident per month. As you can see, that's not a lot of time at all. When you come up with your SLOs, you and your product teams, and ideally your leadership are also agreeing not to spend all of this error budget. You want to find a happy medium where you can still have development velocity and user happiness without burning through your error budget. Think of the budget as a household budget. It's there to be spent on things you want, such as rolling out new software versions, which might break, releasing new features, plan downtime, inevitable failure in hardware, networks, power, et cetera. You shouldn't overspend it, but that's not to say you can't spend it at all. If you look at your error budget for your SLOs over standard time period like 28 days, you may see that you've used 90 percent of your error budget. In this case, 36.28 minutes of unavailability a month. No need to panic. In general, you shouldn't care whether you've used 10 percent, 25 percent, or 70 percent of your error budget in the past 28 days. But you should care if you've used 110 percent. If you don't have the budget, you need to take action to make your service more reliable, and protect users from additional unavailability. There are many benefits to using error budgets. Because you and your product teams have to maintain their budget, it is a common incentive for your developers and your reliability engineers. It's shared between the two teams and helps strike a balance between innovation and reliability. It allows your Dev team to manage the risks themselves, and self-regulate by figuring out what to spend the error budget on such as more changes, faster pushes, or riskier features. And unrealistic reliability goals become unattractive because they dampen the velocity of innovation without providing benefit.
 
+**Characteristics**
+
+- The inverse of an SLO. Error budgets are the amount of time your system can be down. So if your service has an availability SLO of 99.9% in 28 days, then you have an error bud
+- A quantitative metric for service unreliability
+
 **Benefits**
 
-- Common incentives for Dev and SREs
+- Common incentives for Dev and SREs. Error budgets are a great common incentive for your development and SRE teams to help strike a balance between reliability and development velocity.  They also allow teams to self-regulate and manage the risks they take with new features.
+- Dev teams can self-manage risk
+- Unrealistic goals become unattractive
+- Error budgets help to balance development velocity and reliability.
+
+**Align Incentives**
+
+- Devs can take risks and push more quickly
+- SRE team can work more proactively
+
+**Advanced Techniques**
+
+- Dynamic release cadence. `Based on remaining error budget`
+- "Rainy Day" fund. `Covers unexpected events
+- Error budget-based alerts. `Exhaustion rate drives alerting`
+- "Silver bullets". `For critical new features`
+
+**Improve Reliability**
+
+- Reducing detection time (TTD time to detect)
+- Reducing repair time (time to resolution )
+  * Develop a playbook
+  * Parse and collate server debug logs
+- Reducing impact % users/functionality (canary releases)
+- Reducing frequency (time to failure TTF)
+
+> By canarying changes and incrementing the percentage of effected regions, you release change into production gradually. This allows you to detect and respond to failures before your entire service has been impacted.
+
+> SLO violations can be bugs in the product, in the code, or even in the SLO itself, but it is always a bug somewhere. Postmortems can highlight what those bugs are, and create action items to get them fixed.
+
+## Choosing a Good SLI
+
+- It is close approximation of the user experience. We want to measure the user experience as directly as possible. We assume that when that experience is poor enough, we are not meeting our users' expectations of service reliability and they are therefore unhappy with our service.
+- It shows long-term trends clearly. A smoothed-out signal over a long time horizon is more valuable for an SLI, because these metrics tend to have lower variance and higher signal-to-noise ratio.
+- System metrics, correlations in between things like thread pool fulness, or request queue length and outages.
+- Has predictable relationships with user happiness.
+- Shows service is working as users expecting it to.
+- SLI expressed as `Good Events/Valid Events`
+- Aggregated over a long time horizon.
+
+### Why do you think the lower metric is better for use as an SLI than the upper one?
+
+- makes the relationship with user happiness unpredictable
+- makes it hard to measure the user experience accurately
+- makes it hard to set a meaningful static SLO target
+- metric deterioration correlates with outage
+- it can set as a thresholds
+
+## Ways of measuring SLI
+
+- Requests Logs
+- Application metrics
+- Frond-end infra metrics
+- Synthetic clients
+- Client-side instrumentation
