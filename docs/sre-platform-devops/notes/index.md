@@ -63,6 +63,8 @@ published: true
 
 > 100% reliability is almost always the wrong target. It becomes much, much more expensive to make systems even more reliable, so there’s some point where the marginal cost of reliability exceeds the marginal value of reliability.
 
+> The application cannot surpass the SLA of its runtime (eg. EC2, Lambda, Google Compute Engine, etc).
+
 ### SLO
 
 **Process Overview**
@@ -79,6 +81,8 @@ published: true
 - Ambitious but achievable
 
 ### Error Budgets
+
+While the Service Level Agreement (SLA) is the commitment toward the end users, the Service Level Objective (SLO) is more of a guide for the team behind a service and serves as a guardrail for their deployment using Error Budgets.
 
 > But how do you know how much headroom you have left before you violate your SLOs, and what can you do about it? Well, we use something known as an error budget to figure this out. An error budget is basically the inverse of availability, and it tells us how unreliable your service is allowed to be. If your SLO says that 99.9 percent of requests should be successful in a given quarter, your error budget allows 0.1 percent of requests to fail. This unavailability can be generated as a result of bad pushes by the product teams, planned maintenance, hardware failures, et cetera. Let's look at error budgets in terms of time. 0.1 percent unavailability times 28 days in the four-week window, times 24 hours in a day, times 60 minutes in an hour is equal to 40.32 minutes of downtime per month. This is just about enough time for your monitoring systems to surface an issue, and for a human to investigate and fix it. And that only allows for one incident per month. As you can see, that's not a lot of time at all. When you come up with your SLOs, you and your product teams, and ideally your leadership are also agreeing not to spend all of this error budget. You want to find a happy medium where you can still have development velocity and user happiness without burning through your error budget. Think of the budget as a household budget. It's there to be spent on things you want, such as rolling out new software versions, which might break, releasing new features, plan downtime, inevitable failure in hardware, networks, power, et cetera. You shouldn't overspend it, but that's not to say you can't spend it at all. If you look at your error budget for your SLOs over standard time period like 28 days, you may see that you've used 90 percent of your error budget. In this case, 36.28 minutes of unavailability a month. No need to panic. In general, you shouldn't care whether you've used 10 percent, 25 percent, or 70 percent of your error budget in the past 28 days. But you should care if you've used 110 percent. If you don't have the budget, you need to take action to make your service more reliable, and protect users from additional unavailability. There are many benefits to using error budgets. Because you and your product teams have to maintain their budget, it is a common incentive for your developers and your reliability engineers. It's shared between the two teams and helps strike a balance between innovation and reliability. It allows your Dev team to manage the risks themselves, and self-regulate by figuring out what to spend the error budget on such as more changes, faster pushes, or riskier features. And unrealistic reliability goals become unattractive because they dampen the velocity of innovation without providing benefit.
 
@@ -128,6 +132,21 @@ published: true
 - Shows service is working as users expecting it to.
 - SLI expressed as `Good Events/Valid Events`
 - Aggregated over a long time horizon.
+
+### SLI Framework
+
+- SLIs fail between 0 and 100%
+- Consistency makes building common tooling easier
+
+### Request/Response SLI
+
+- Availability
+  * The proportion of minutes a virtual machine was booted and accessible
+- Latency
+  * The proportion of valid requests served faster then a threshold
+  * The proportion of work-queue tasks that are completed faster than a threshold
+- Quality
+  * The proportion of valid requests served without degrading quality
 
 ### Why do you think the lower metric is better for use as an SLI than the upper one?
 
