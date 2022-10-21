@@ -49,3 +49,4 @@ helm repo add {NAME} {CHART_URL}
 - [Mintel](https://mintel.github.io/helm-charts)
 - [Kubernetes at home](https://k8s-at-home.com/charts)
 - [Chaos Mesh](https://charts.chaos-mesh.org)
+- [ArgoCD](https://github.com/argoproj/argo-helm/tree/main/charts/argo-cd)

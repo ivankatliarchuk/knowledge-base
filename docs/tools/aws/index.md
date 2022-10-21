@@ -2,7 +2,7 @@
 title: aws
 summary: aws tooling
 authors: ["ivan k"]
-tags: ["aws", "eks", "cloud", "bootstrap", "argocd", "crossplane", "blueprints", "security"]
+tags: ["aws", "eks", "cloud", "bootstrap", "argocd", "crossplane", "blueprints", "security", "cdk"]
 date: 14-10-2022
 ---
 
@@ -15,6 +15,8 @@ date: 14-10-2022
 - [EKS, ArgoCD, Crossplane & GitOps](https://github.com/ik-kubernetes/eks-gitops-crossplane-argocd)
 - [ESK, ArgoCD & Add-ons](https://github.com/ik-kubernetes/eks-blueprints-add-ons)
 - [EKS, Terraform blueprints](https://github.com/ik-kubernetes/terraform-aws-eks-blueprints)
+- [EKS: cdk blueprints](https://github.com/ik-kubernetes/cdk-eks-blueprints)
+- [EKS: cdk blueprints patterns](https://github.com/aws-samples/cdk-eks-blueprints-patterns)
 
 ## EKS Pods
 
