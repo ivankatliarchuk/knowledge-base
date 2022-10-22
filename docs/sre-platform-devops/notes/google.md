@@ -62,9 +62,7 @@ source:
 
 > An issue that probably should have paged, but didn't. In these cases, you should probably fix the monitoring so that such events do trigger a page. Often you encounter the issue while you're trying to fix something else, or it's related to a metric you're tracking but for which you haven't got an alert.
 
-> An issue that is not pageable but requires attention, such as low-impact data corruption or slowness in some non-user-facing dimension of the system. Tracking reactive operational work is also appropriate here.
-
->  An issue that is not pageable and does not require attention. These alerts should be removed, because they create extra noise that distracts engineers from issues that do merit attention.
+> An issue that is not pageable but requires attention, such as low-impact data corruption or slowness in some non-user-facing dimension of the system. Tracking reactive operational work is also appropriate here. These alerts should be removed, because they create extra noise that distracts engineers from issues that do merit attention.
 
 ** Prioritization **
 
