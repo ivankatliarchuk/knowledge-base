@@ -45,5 +45,6 @@ published: true
 ## VPN Solutions
 
 - [Open VPN](https://openvpn.net/)
-- [Prinutl](https://client.pritunl.com/#install)
+- [Pritunl](https://pritunl.com)
 - [Teleport](https://github.com/gravitational/teleport)
+
