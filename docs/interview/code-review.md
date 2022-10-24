@@ -18,10 +18,10 @@ If I see something wrong?
 ## Steps
 
 - [ ] Read a description of a code under review, description of a pull request
-  + [ ] Clarify requirements
-  + [ ] **Question**: Let's clarify requirements. What the code suppose to be doing?
-  + [ ] **Question**: What are the business requirements?
-  + [ ] **Question**: What are potential inputs, nulls expected, single threaded or multi threaded environment?
+  * [ ] Clarify requirements
+    + [ ] **Question**: Let's clarify requirements. What the code suppose to be doing?
+    + [ ] **Question**: What are the business requirements?
+    + [ ] **Question**: What are potential inputs, nulls expected, single threaded or multi threaded environment?
 - [ ] Walk trough fist time, after that second time
     - [ ] Are there enough/sufficient amount of comments in the code or not?
     - [ ] Methods have docs or not?
@@ -32,18 +32,18 @@ If I see something wrong?
 - [ ] Review unit tests. We will get back to them
   * [ ] Understand where its possible to test or not
 - [ ] Look for Flags
-  * [ ] Lack of comments
-  * [ ] The code follows good [style](https://google.github.io/styleguide/)
-  * [ ] Naming consistent across the code, naming conventions
-  * [ ] Syntax errors, unidiomatic use of the language (is it Python or Python written in Java)
-  * [ ] Library routines
-  * [ ] Are there any logs/debug in the code
-  * [ ] Is a code easy to follow (
+  - [ ] Lack of comments
+  - [ ] The code follows good [style](https://google.github.io/styleguide/)
+  - [ ] Naming consistent across the code, naming conventions
+  - [ ] Syntax errors, unidiomatic use of the language (is it Python or Python written in Java)
+  - [ ] Library routines
+  - [ ] Are there any logs/debug in the code
+  - [ ] Is a code easy to follow (
     + [ ] **Question**: can you explain an interaction?
-  * [ ] If its multithreading, identify use of singletons and shared values
-  * [ ] Complicated code review
+  - [ ] If its multithreading, identify use of singletons and shared values
+  - [ ] Complicated code review
     + I can't really follow it too well. Maybe changes are not going to do what they say are going to do.
-    * Pull down changes
+    + Pull down changes
     + Manually test changes
     + Set breakpoints
 - [ ] Language features
