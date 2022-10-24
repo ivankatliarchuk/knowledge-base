@@ -38,7 +38,8 @@ If I see something wrong?
   * [ ] Syntax errors, unidiomatic use of the language (is it Python or Python written in Java)
   * [ ] Library routines
   * [ ] Are there any logs/debug in the code
-  * [ ] Is a code easy to follow (**Question**: can you explain an interaction)
+  * [ ] Is a code easy to follow (
+    + [ ] **Question**: can you explain an interaction?
   * [ ] If its multithreading, identify use of singletons and shared values
   * [ ] Complicated code review
     + I can't really follow it too well. Maybe changes are not going to do what they say are going to do.
