@@ -18,10 +18,10 @@ If I see something wrong?
 ## Steps
 
 - [ ] Read a description of a code under review, description of a pull request
-  - [ ] Clarify requirements
-    + [ ] **Question**: Let's clarify requirements. What the code suppose to be doing?
-    + [ ] **Question**: What are the business requirements?
-    + [ ] **Question**: What are potential inputs, nulls expected, single threaded or multi threaded environment?
+    - [ ] Clarify requirements
+        + [ ] **Question**: Let's clarify requirements. What the code suppose to be doing?
+        + [ ] **Question**: What are the business requirements?
+        + [ ] **Question**: What are potential inputs, nulls expected, single threaded or multi threaded environment?
 - [ ] Walk trough fist time, after that second time
     - [ ] Are there enough/sufficient amount of comments in the code or not?
     - [ ] Explain code logic
@@ -33,68 +33,68 @@ If I see something wrong?
     - [ ] Walked through the code and wrote comments as I attempted to understand the algo. Checked correctness of the algo
     - [ ] Checked if boundary conditions were handled correctly
 - [ ] Review unit tests. We will get back to them
-  - [ ] Understand where its possible to test or not
+    - [ ] Understand where its possible to test or not
 - [ ] Look for Flags
-  - [ ] Lack of comments
-  - [ ] The code follows good [style](https://google.github.io/styleguide/)
-  - [ ] Naming consistent across the code, naming conventions
-  - [ ] Syntax errors, unidiomatic use of the language (is it Python or Python written in Java)
-  - [ ] Library routines
-  - [ ] Are there any logs/debug in the code
-  - [ ] Is a code easy to follow (
-    + [ ] **Question**: can you explain an interaction?
-  - [ ] If its multithreading, identify use of singletons and shared values
-  - [ ] Complex if statements
-  - [ ] Complicated code review
-    + I can't really follow it too well. Maybe changes are not going to do what they say are going to do.
-    + Pull down changes
-    + Manually test changes
-    + Set breakpoints
+    - [ ] Lack of comments
+    - [ ] The code follows good [style](https://google.github.io/styleguide/)
+    - [ ] Naming consistent across the code, naming conventions
+    - [ ] Syntax errors, unidiomatic use of the language (is it Python or Python written in Java)
+    - [ ] Library routines
+    - [ ] Are there any logs/debug in the code
+    - [ ] Is a code easy to follow
+        + [ ] **Question**: can you explain an interaction?
+    - [ ] If its multithreading, identify use of singletons and shared values
+    - [ ] Complex if statements
+    - [ ] Complicated code review
+        + I can't really follow it too well. Maybe changes are not going to do what they say are going to do.
+        + Pull down changes
+        + Manually test changes
+        + Set breakpoints
 - [ ] Language features
     - [ ] Language features used appropriately
     - [ ] Is this a Python or Python in Java way
 - [ ] Best practices
-  - [ ] Class names
-  - [ ] Variables names
-    + [ ] Suggested better naming of variables
-  - [ ] Function names
-    + [ ] Looked for any method or variable declarations to fix but didn't find any issues
-  - [ ] Do not redefine built ins
+    - [ ] Class names
+    - [ ] Variables names
+        + [ ] Suggested better naming of variables
+    - [ ] Function names
+        + [ ] Looked for any method or variable declarations to fix but didn't find any issues
+    - [ ] Do not redefine built ins
 - [ ] Efficiency and Underlying issues of performance in code
-  - [ ] Can processing be saved e.g. cached or not
-  - [ ] Correct data structures in use
-    + [ ] Fixed some minor errors and suggested better data structures to store data (nothing fancy here, a Set instead of a List)
-  - [ ] Wrote down time and space complexity
-    + [ ] Understand a [code complexity](https://blog.codacy.com/an-in-depth-explanation-of-code-complexity/)
-    + [ ] Understand a time complexity [Big O notation](https://developerinsider.co/big-o-notation-explained-with-examples/)
-      - O(1),O(n),O(n^2) double loop `quadratic time`, O(2^n) `exponential time` fibonacci, drop constants
-  - [ ] [Algorithms](https://www.geeksforgeeks.org/time-complexities-of-all-sorting-algorithms/)
-    + [ ] Finally suggested a algo with better time complexity. Didn't have to implement it though.
-      - Bubble Sort > Best `Ω(n)`, Worts`O(n^2)`. Space complexity `O(1)`
-      - Insertion sort > Best. `O(n)`, Worst `O(n^2)`. Space complexity `O(1)`. Slow sorting algorithm.
-      - Heap Sort > Best `Ω(n log(n))`, Worts`O(n log(n))`. Space complexity `O(1)`
-      - Quick Sort > Best `Ω(n log(n))`, Worts`O(n^2)`. Space complexity `O(n)`. Fast sorting algorithm.
-      - Merge Sort > Best `Ω(n log(n))`, Worts`O(n log(n))`. Space complexity `O(n)`
-      - Binary Search > Best `Ω(1)`, Worts `O(log(n))`.
-      - Breadth First Search (Graphs) > Best `Ω(1)`, Worts `O(vertices + edges)`. Low memory
-      - Depth First Search (Graphs) > Best `Ω(1)`, Worts `O(vertices + edges)`. Low memory
-      - Diskjarta (Graphs shortest path, greedy) > Worts `O(edges + vertical log (vertical))`
-      - Approximation algorithm
-  - [ ] Optimize existing code to prevent memory leaks
+    - [ ] Can processing be saved e.g. cached or not
+    - [ ] Correct data structures in use
+        + [ ] Fixed some minor errors and suggested better data structures to store data (nothing fancy here, a Set instead of a List)
+    - [ ] Wrote down time and space complexity
+        + [ ] Understand a [code complexity](https://blog.codacy.com/an-in-depth-explanation-of-code-complexity/)
+        + [ ] Understand a time complexity [Big O notation](https://developerinsider.co/big-o-notation-explained-with-examples/)
+        - O(1),O(n),O(n^2) double loop `quadratic time`, O(2^n) `exponential time` fibonacci, drop constants
+    - [ ] [Algorithms](https://www.geeksforgeeks.org/time-complexities-of-all-sorting-algorithms/)
+        + [ ] Finally suggested a algo with better time complexity. Didn't have to implement it though.
+        - Bubble Sort > Best `Ω(n)`, Worts`O(n^2)`. Space complexity `O(1)`
+        - Insertion sort > Best. `O(n)`, Worst `O(n^2)`. Space complexity `O(1)`. Slow sorting algorithm.
+        - Heap Sort > Best `Ω(n log(n))`, Worts`O(n log(n))`. Space complexity `O(1)`
+        - Quick Sort > Best `Ω(n log(n))`, Worts`O(n^2)`. Space complexity `O(n)`. Fast sorting algorithm.
+        - Merge Sort > Best `Ω(n log(n))`, Worts`O(n log(n))`. Space complexity `O(n)`
+        - Binary Search > Best `Ω(1)`, Worts `O(log(n))`.
+        - Breadth First Search (Graphs) > Best `Ω(1)`, Worts `O(vertices + edges)`. Low memory
+        - Depth First Search (Graphs) > Best `Ω(1)`, Worts `O(vertices + edges)`. Low memory
+        - Diskjarta (Graphs shortest path, greedy) > Worts `O(edges + vertical log (vertical))`
+        - Approximation algorithm
+    - [ ] Optimize existing code to prevent memory leaks
 
 - [ ] Review unit tests again
-  - [ ] Unit tests are correct. Probably more parametrized tests.
-  - [ ] Mix and max values
-  - [ ] Potential edge cases
-  - [ ] How code behave on huge datasets
-  - [ ] Memory, CPU and performance with `timeit, cProfile`
-  - [ ] Is class under tests is being mocked(should not be)
+    - [ ] Unit tests are correct. Probably more parametrized tests.
+    - [ ] Mix and max values
+    - [ ] Potential edge cases
+    - [ ] How code behave on huge datasets
+    - [ ] Memory, CPU and performance with `timeit, cProfile`
+    - [ ] Is class under tests is being mocked(should not be)
 
 - [ ] At the end -> Compliment Good Code
-  - [ ] Provide suggestions
-  - [ ] Leave comments
-  - [ ] Decide outcome of a code review(Approve or provide suggestions)
-  - [ ] Not feel comfortable right now to approve. If someone else approve it, Ill not hold back a CR.
+    - [ ] Provide suggestions
+    - [ ] Leave comments
+    - [ ] Decide outcome of a code review(Approve or provide suggestions)
+    - [ ] Not feel comfortable right now to approve. If someone else approve it, Ill not hold back a CR.
 
 ## When you're solving coding problems or doing a code review, the interviewer will usually assess
 
