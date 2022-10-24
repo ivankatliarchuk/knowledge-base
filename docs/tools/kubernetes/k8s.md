@@ -8,7 +8,7 @@ source:
 published: true
 ---
 
-## Kubernets Tooling
+## Kubernetes Tooling
 
 - [Kubernetes: essetntials](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)
 
@@ -39,7 +39,7 @@ published: true
 - [Kail](https://github.com/boz/kail)
 - [K8s event exporter](https://github.com/opsgenie/kubernetes-event-exporter)
 
-### Kubernetes Visualisers
+### Kubernetes Visualizers
 
 - [KubeVious](https://github.com/kubevious/kubevious)
 - [KubeView](https://github.com/benc-uk/kubeview)
@@ -53,7 +53,7 @@ published: true
 ## Kubernetes Costs
 
 - [Krossboard: Centralized Multi-Cluster Kubernetes Usage Accounting](https://github.com/rchakode/kube-opex-analytics)
-- [Kubecost: Cross-cloud cost allocation](https://github.com/kubecost/cost-model)
+- [KubeCost: Cross-cloud cost allocation](https://github.com/kubecost/cost-model)
 
 ## AWS Specific K8s Tooling
 
@@ -74,7 +74,7 @@ published: true
 
 - [Security.info: Kubernetes Security](https://kubernetes-security.info/)
 - [K8s cluster sanitizer](https://github.com/ik-kubernetes/popeye)
-- [KubeHunber](https://github.com/aquasecurity/kube-hunter)
+- [KubeHunter](https://github.com/aquasecurity/kube-hunter)
 - [Kube Bench](https://github.com/aquasecurity/kube-bench)
 - [TwistLock](https://www.twistlock.com/2018/06/21/securing-istio-twistlock/)
 - [Kritis Supply Chain Software](https://github.com/grafeas/kritis)
@@ -86,7 +86,7 @@ published: true
 - [Kube Scan](https://github.com/octarinesec/kube-scan)
 - [Polaris](https://github.com/FairwindsOps/polaris)
 - [StarBoard](https://github.com/aquasecurity/starboard)
-- [Kubernets Inspector](https://github.com/kinvolk/inspektor-gadget)
+- [Kubernetes Inspector](https://github.com/kinvolk/inspektor-gadget)
 - [Docker Bench](https://github.com/docker/docker-bench-security)
 - [K8s guard: Kubernetes Authentication & Authorization WebHook Server](https://github.com/appscode/guard)
 - [Falco: runtime security](https://falco.org/docs/)
@@ -157,4 +157,10 @@ published: true
 ## Quality
 
 - [Check Deprecation](https://github.com/FairwindsOps/pluto)
-- [Clister Lint](https://github.com/digitalocean/clusterlint)
+- [Cluster Lint](https://github.com/digitalocean/clusterlint)
+
+## Cluster Chores
+
+- [Kubegrunt](https://github.com/gruntwork-io/kubergrunt#cleanup-security-group)
+- [k8s scripts](https://github.com/ik-scripting/scripts/tree/master/k8s)
+

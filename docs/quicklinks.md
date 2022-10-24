@@ -8,11 +8,11 @@ date: 2021-04-25
 
 # Quick Links
 
-## Cheet Sheets
+## Cheat Sheets
 
 - [CheatSheet](https://cheatsheet.dennyzhang.com/)
 
-## Wallpepers
+## Wallpapers
 
 - [Top Wallpapers][top-wallpapers]{:target="_blank"}
 - [Deviant art][deviant-art]{:target="_blank"}
@@ -22,13 +22,13 @@ date: 2021-04-25
 - [VectorLogoZone: svg icons](https://www.vectorlogo.zone/){:target="_blank"}
 - [Free flaticon icons][flaticon-icons]{:target="_blank"}
 
-## Emojies
+## Emoji's
 
 - [Emoji: cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 - [Emojipedia](https://emojipedia.org/){:target="_blank"}
 - [Emoji: wiki](https://emojis.wiki/warning)
 
-## Images&Pictures
+## Images & Pictures
 
 - [The best free stock photos and images(pexels)][pexels]{:target="_blank"}
 - [Stunning free photos and images(pixabay)][pixabay]{:target="_blank"}
@@ -48,7 +48,7 @@ date: 2021-04-25
 
 - [Generate Resume: mostly for fun](https://thisresumedoesnotexist.com)
 
-<!-- resouce links -->
+<!-- resource links -->
 [top-wallpapers]: https://wallhaven.cc/toplist
 [deviant-art]: https://www.deviantart.com
 [flaticon-icons]: https://www.flaticon.com

@@ -46,7 +46,6 @@ helm repo add {NAME} {CHART_URL}
 - [Loghouse](https://flant.github.io/loghouse/charts)
 - [CodeCentric](https://codecentric.github.io/helm-charts)
 - [Stakater](https://stakater.github.io/stakater-charts)
-- [Mintel](https://mintel.github.io/helm-charts)
 - [Kubernetes at home](https://k8s-at-home.com/charts)
 - [Chaos Mesh](https://charts.chaos-mesh.org)
 - [ArgoCD](https://github.com/argoproj/argo-helm/tree/main/charts/argo-cd)

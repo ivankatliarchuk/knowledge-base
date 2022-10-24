@@ -2,16 +2,17 @@
 title: documentation architecture
 summary: good examples on how the documentation for a product should look like
 authors: ["ivan k"]
-tags: ["education", "doc", "documenations"]
+tags: ["education", "doc", "documentation", "docs"]
 date: 2021-03-14
 published: true
 ---
 
 - [Gruntwork Code of Conduct](https://github.com/gruntwork-io/toc){:target="_blank"}
+- [Gruntwork docs](https://docs.gruntwork.io/){:target="_blank"}
 - [Gruntwork CI/CD][gruntwork_cicd]{:target="_blank"}
 - [Adidas](https://github.com/adidas/adidas-devops-maturity-framework){:target="_blank"}
 - [Azure](https://github.com/azsk/DevOpsKit-docs){:target="_blank"}
-- [DevOps Enterpise](https://github.com/18F/g-devops){:target="_blank"}
+- [DevOps Enterprise](https://github.com/18F/g-devops){:target="_blank"}
 - [Github Security Checklist](https://marcinhoppe.com/securing-your-github-project/){:target="_blank"}
 - [AWS Support Docs](https://developer.rackspace.com/docs/fanatical-support-aws/){:target="_blank"}
 - [Gov USA Docs](https://cloud.gov/docs/ops/runbook/rotating-bosh/){:target="_blank"}
@@ -20,7 +21,7 @@ published: true
 - [Mozilla Architecture Document](https://wiki.mozilla.org/Community_Ops/PaaS){:target="_blank"}
 - [Example Terraform project document](https://github.com/mozilla/partinfra-terraform){:target="_blank"}
 - [ASP Net Docs](https://aspnetcore.readthedocs.io/en/stable/intro.html){:target="_blank"}
-- [EKSCTL Docs](https://eksctl.io/usage/creating-and-managing-clusters/)
+- [EKS ctl Docs](https://eksctl.io/usage/creating-and-managing-clusters/)
 - [Cloud Security Docs](https://cloudsecdocs.com/){:target="_blank"}
 - [Cloud Cannon](https://cloudcannon.com){:target="_blank"}
 - [Cloud Gov Docs](https://cloud.gov/docs){:target="_blank"}

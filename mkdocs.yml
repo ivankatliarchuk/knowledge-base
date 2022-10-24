@@ -110,6 +110,8 @@ nav:
   - Education:
     - ... | education/*.md
     - ... | workshops/*.md
+  - Interview:
+    - ... | interview/*.md
   - Management:
     - Product:
       - ... | management/product/*.md

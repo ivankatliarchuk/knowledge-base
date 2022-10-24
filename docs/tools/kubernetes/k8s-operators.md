@@ -12,7 +12,7 @@ published: true
 - [Flagger](https://docs.flagger.app/install/flagger-install-on-kubernetes)
 - [Unleash](https://github.com/Unleash/unleash)
 
-## Kuberntetes Operators
+## Kubernetes Operators
 
 - [Operator Framework](https://operatorframework.io)
 - [MetaController](https://metacontroller.app)
