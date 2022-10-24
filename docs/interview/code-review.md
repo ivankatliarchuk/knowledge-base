@@ -24,8 +24,11 @@ If I see something wrong?
     + [ ] **Question**: What are potential inputs, nulls expected, single threaded or multi threaded environment?
 - [ ] Walk trough fist time, after that second time
     - [ ] Are there enough/sufficient amount of comments in the code or not?
+    - [ ] Explain code logic
     - [ ] Methods have docs or not?
     - [ ] Understand where formatter was used or not
+    - [ ] Duplicated code, common functions, name constants
+    - [ ] Simplification
     - [ ] Any high level syntax and [style](https://google.github.io/styleguide/) issues
     - [ ] Walked through the code and wrote comments as I attempted to understand the algo. Checked correctness of the algo
     - [ ] Checked if boundary conditions were handled correctly
@@ -41,6 +44,7 @@ If I see something wrong?
   - [ ] Is a code easy to follow (
     + [ ] **Question**: can you explain an interaction?
   - [ ] If its multithreading, identify use of singletons and shared values
+  - [ ] Complex if statements
   - [ ] Complicated code review
     + I can't really follow it too well. Maybe changes are not going to do what they say are going to do.
     + Pull down changes
@@ -61,15 +65,26 @@ If I see something wrong?
   - [ ] Correct data structures in use
     + [ ] Fixed some minor errors and suggested better data structures to store data (nothing fancy here, a Set instead of a List)
   - [ ] Wrote down time and space complexity
-    + [ ] Understand a [code complexity](https://blog.codacy.com/an-in-depth-explanation-of-code-complexity/) TODO
-    + [ ] Understand a [Big O notation](https://developerinsider.co/big-o-notation-explained-with-examples/) TODO
-  - [ ] Algorithms (TODO)
+    + [ ] Understand a [code complexity](https://blog.codacy.com/an-in-depth-explanation-of-code-complexity/)
+    + [ ] Understand a time complexity [Big O notation](https://developerinsider.co/big-o-notation-explained-with-examples/)
+      - O(1),O(n),O(n^2) double loop `quadratic time`, O(2^n) `exponential time` fibonacci, drop constants
+  - [ ] [Algorithms](https://www.geeksforgeeks.org/time-complexities-of-all-sorting-algorithms/)
     + [ ] Finally suggested a algo with better time complexity. Didn't have to implement it though.
-    > TODO different algorithms to suggest
+      - Bubble Sort > Best `Ω(n)`, Worts`O(n^2)`. Space complexity `O(1)`
+      - Insertion sort > Best. `O(n)`, Worst `O(n^2)`. Space complexity `O(1)`. Slow sorting algorithm.
+      - Heap Sort > Best `Ω(n log(n))`, Worts`O(n log(n))`. Space complexity `O(1)`
+      - Quick Sort > Best `Ω(n log(n))`, Worts`O(n^2)`. Space complexity `O(n)`. Fast sorting algorithm.
+      - Merge Sort > Best `Ω(n log(n))`, Worts`O(n log(n))`. Space complexity `O(n)`
+      - Binary Search > Best `Ω(1)`, Worts `O(log(n))`.
+  - [ ] Optimize existing code to prevent memory leaks
 
 - [ ] Review unit tests again
-  * [ ] Unit tests are correct
-  * [ ] Is class under tests is being mocked(should not be)
+  + [ ] Unit tests are correct. Probably more parametrized tests.
+  + [ ] Mix and max values
+  + [ ] Potential edge cases
+  + [ ] How code behave on huge datasets
+  + [ ] Memory, CPU and performance with `timeit, cProfile`
+  + [ ] Is class under tests is being mocked(should not be)
 
 - [ ] At the end -> Compliment Good Code
   * [ ] Provide suggestions
@@ -93,9 +108,45 @@ If I see something wrong?
 
 ## Hints
 
+- Try to understand what the code is doing and what is suppose to be doing
 - When the risk of potential defects is reduced, there are fewer defects to find—and remove. As a result, the maintenance cost also reduces.
 - Given that, by reducing code complexity, you reduce the risk of introducing defects; whether they’re small or large, slightly embarrassing or bankruptcy-inducing.
+
+
+**Time Complexity**: Time Complexity is defined as the number of times a particular instruction set is executed rather than the total time taken. It is because the total time took also depends on some external factors like the compiler used, processor’s speed, etc.
+
+**Space Complexity**: Space Complexity is the total memory space required by the program for its execution.
 
 ## Videos
 
 - [example coding interview](https://www.youtube.com/watch?v=XKu_SEDAykw)
+
+## Mixed stuff
+
+- [Python threading]( https://realpython.com/intro-to-python-threading/)
+
+## Languages
+
+### Python
+
+```py
+"""
+TODO: what the function is doing
+
+:param id: account id
+:param region: aws region
+:type id: str
+:type region: str
+:returns: None
+:raises Exception if a role not found
+"""
+```
+
+```py
+import unittest
+
+class TestStringMethods(unittest.TestCase):
+
+    def test_upper(self):
+        self.assertEqual('foo'.upper(), 'FOO')
+```
