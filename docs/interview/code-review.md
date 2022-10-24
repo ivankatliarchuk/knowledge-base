@@ -19,9 +19,9 @@ If I see something wrong?
 
 - [ ] Read a description of a code under review, description of a pull request
   + [ ] Clarify requirements
-  + [ ]**Question**: Let's clarify requirements. What the code suppose to be doing?
-  + [ ]**Question**: What are the business requirements?
-  + [ ]**Question**: What are potential inputs, nulls expected, single threaded or multi threaded environment?
+  + [ ] **Question**: Let's clarify requirements. What the code suppose to be doing?
+  + [ ] **Question**: What are the business requirements?
+  + [ ] **Question**: What are potential inputs, nulls expected, single threaded or multi threaded environment?
 - [ ] Walk trough fist time, after that second time
     - [ ] Are there enough/sufficient amount of comments in the code or not?
     - [ ] Methods have docs or not?
