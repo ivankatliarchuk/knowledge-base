@@ -50,20 +50,20 @@ If I see something wrong?
     - [ ] Language features used appropriately
     - [ ] Is this a Python or Python in Java way
 - [ ] Best practices
-  * [ ] Class names
-  * [ ] Variables names
-    * [ ] Suggested better naming of variables
-  * [ ] Function names
+  - [ ] Class names
+  - [ ] Variables names
+    + [ ] Suggested better naming of variables
+  - [ ] Function names
     + [ ] Looked for any method or variable declarations to fix but didn't find any issues
-  * [ ] Do not redefine built ins
+  - [ ] Do not redefine built ins
 - [ ] Efficiency and Underlying issues of performance in code
-  * [ ] Can processing be saved e.g. cached or not
-  * [ ] Correct data structures in use
+  - [ ] Can processing be saved e.g. cached or not
+  - [ ] Correct data structures in use
     + [ ] Fixed some minor errors and suggested better data structures to store data (nothing fancy here, a Set instead of a List)
-  * [ ] Wrote down time and space complexity
+  - [ ] Wrote down time and space complexity
     + [ ] Understand a [code complexity](https://blog.codacy.com/an-in-depth-explanation-of-code-complexity/) TODO
     + [ ] Understand a [Big O notation](https://developerinsider.co/big-o-notation-explained-with-examples/) TODO
-  * [ ] Algorithms (TODO)
+  - [ ] Algorithms (TODO)
     + [ ] Finally suggested a algo with better time complexity. Didn't have to implement it though.
     > TODO different algorithms to suggest
 
