@@ -58,7 +58,7 @@ stack = MinMaxStack()
 stack.push(5) # min: 5, max: 5, current value: 5
 stack.push(7) # min: 5, max: 7, current value: 7
 stack.push(2) # min: 2, max: 7, current value: 2
-print(stack.get_min())
-stack.pop()
-print(stack.get_min())
+print("min:",stack.get_min())
+print("pop:",stack.pop())
+print("min:",stack.get_min())
 stack.pop() # min: 5, max: 5, current value: 5

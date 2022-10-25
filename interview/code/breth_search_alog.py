@@ -14,24 +14,24 @@ graph['thom'] = []
 graph['jonny'] = ['tester']
 graph['ivan'] = ['sre']
 
-def person_is_seller(name):
+def validate(name):
     return name == 'sre'
 
 def search(name):
     search_queue = deque()
     search_queue += graph[name]
-    searched = []
+    searched = set()
     while search_queue:
         person = search_queue.popleft() # pop() for deep first search
         print(search_queue, person)
         if not person in searched: # only search this person if you haven't already search them
-            if person_is_seller(person):
+            if validate(person):
                 print(f'{person} is a mango seller')
                 return True
             else:
                 if person in graph:
                     search_queue += graph[person]
-                searched.append(person)
+                searched.add(person)
     return False
 
 sgraph = {
