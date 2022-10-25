@@ -60,6 +60,7 @@ If I see something wrong?
     - [ ] Function names
         + [ ] Looked for any method or variable declarations to fix but didn't find any issues
     - [ ] Do not redefine built ins
+    - [ ] Where something can evaluate as `null`
 - [ ] Efficiency and Underlying issues of performance in code
     - [ ] Can processing be saved e.g. cached or not
     - [ ] Correct data structures in use
