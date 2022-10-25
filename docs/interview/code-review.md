@@ -59,7 +59,8 @@ If I see something wrong?
         + [ ] Suggested better naming of variables
     - [ ] Function names
         + [ ] Looked for any method or variable declarations to fix but didn't find any issues
-    - [ ] Do not redefine built ins
+    - [ ] Do not redefine built-ins
+    - [ ] Unused arguments
     - [ ] Where something can evaluate as `null`
 - [ ] Efficiency and Underlying issues of performance in code
     - [ ] Can processing be saved e.g. cached or not
@@ -135,8 +136,7 @@ If I see something wrong?
 ### Python
 
 ```py
-"""
-TODO: what the function is doing
+"""TODO: what the function is doing
 
 :param id: account id
 :param region: aws region
@@ -144,6 +144,28 @@ TODO: what the function is doing
 :type region: str
 :returns: None
 :raises Exception if a role not found
+"""
+
+"""Summary of class here.
+
+Longer class information...
+Longer class information...
+
+Attributes:
+    likes_spam: A boolean indicating if we like SPAM or not.
+    eggs: An integer count of the eggs we have laid.
+"""
+
+"""Connects to the next available port.
+
+Args:
+    minimum: A port value greater or equal to 1024.
+
+Returns:
+    The new minimum port.
+
+Raises:
+    ConnectionError: If no available port is found.
 """
 ```
 
