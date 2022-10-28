@@ -116,11 +116,6 @@ published: true
 - [TaskFile e.g. Go Make](https://taskfile.dev/#/installation)
 - [Earthly](https://earthly.dev/)
 
-## Improve Deployments
-
-- [Shipa: kubernets (k8s) deploy](https://shipa.io/)
-- [Tilt dev](https://tilt.dev/)
-
 ### Manage Projects(go)
 
 - [Viper](https://github.com/spf13/viper)

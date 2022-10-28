@@ -132,7 +132,12 @@ published: true
 - [GiantSwarm](https://www.giantswarm.io/)
 - [OneInfra](https://github.com/ik-kubernetes/oneinfra)
 - [Krucible](https://usekrucible.com/plans)
-- [Snipa](https://www.shipa.io/)
+- [Digital.ai](https://docs.digital.ai/)
+
+### Improve Deployments
+
+- [Shipa: kubernets (k8s) deploy](https://shipa.io/)
+- [Tilt dev](https://tilt.dev/)
 
 ## Development
 
