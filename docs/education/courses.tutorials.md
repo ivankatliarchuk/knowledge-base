@@ -7,6 +7,8 @@ date: 2021-03-14
 published: true
 ---
 
+# Courses and Tutorials
+
 ## Pentest
 
 - [Beginner Network Penetration Testing](https://www.youtube.com/watch?v=WnN6dbos5u8)
@@ -22,6 +24,7 @@ published: true
 - [eLearnSecurity (not sure)](https://www.elearnsecurity.com/training_paths/)
 - [Hack the WebServer](https://www.guru99.com/how-to-hack-web-server.html)
 - [Cybrary](https://www.cybrary.it/)
+- [ ] [Udemy: Learn Python & Ethical Hacking From Scratch](https://www.udemy.com/course/learn-python-and-ethical-hacking-from-scratch/learn/lecture/10800892?start=0)
 
 ## Security
 
@@ -32,6 +35,8 @@ published: true
 - [Opa](https://academy.styra.com/courses/opa-rego)
 - [X] [Udemy: The Complete Cyber Security Course : Network Security](https://www.udemy.com/course/network-security-course/)
 - [X] [Udemy: The Complete Cyber Security Course : Hackers Exposed](https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1)
+- [ ] [Udemy: The Complete Cyber Security Course : End Point Protection](https://www.udemy.com/course/the-complete-cyber-security-course-end-point-protection/)
+- [X] [Udemy: The Complete Cyber Security Course : Anonymous Browsing!](https://www.udemy.com/course/the-complete-cyber-security-course-anonymous-browsing/)
 - [X] [Udemy: Secure Product Lifecycle 101](https://www.udemy.com/course/secure-product-lifecycle-101/)
 
 ## University
@@ -52,6 +57,7 @@ published: true
 
 - [Kubernetes course](https://learnk8s.io/)
 - [X] [Udemy: Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+- [ ] [Udemy: Certified Kubernetes Security Specialist](https://www.udemy.com/course/certified-kubernetes-security-specialist-certification/)
 
 ## UI
 
@@ -73,6 +79,16 @@ published: true
 - [X] [Udemy: Introduction to Typescript](https://www.udemy.com/course/typescript/)
 - [X] [Udemy: Understanding TypeScript - 2022 Edition](https://www.udemy.com/course/understanding-typescript/)
 - [X] [Udemy: Javascript Essentials](https://www.udemy.com/course/javascript-essentials/)
+- [ ] [Udemy: The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+
+### Golang
+
+- [ ] [Go: The Complete Developer's Guide](https://www.udemy.com/course/go-the-complete-developers-guide/)
+- [ ] [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code/)
+
+### Rust
+
+- [ ] [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/)
 
 ### SRE
 
