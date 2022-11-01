@@ -45,6 +45,11 @@ published: true
 - [Web Security: web application security][aw-pentest-web]{:target="_blank"}
 - [KeyCloak: A curated list of resources for learning about http://www.keycloak.org][aw-keycloak]{:target="_blank"}
 
+## Supply Chain Security
+
+- [Supply chain security toolkit](https://www.jetstack.io/software-supply-chain/#overview)
+- [Secure Pipelines](https://github.com/ik-security/blueprint-securesoftwarepipeline)
+
 <!-- resources -->
 [awesome-sysadmin]: https://github.com/kahun/awesome-sysadmin
 [jsut-awesome]: https://github.com/sindresorhus/awesome
