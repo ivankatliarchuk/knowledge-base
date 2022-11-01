@@ -1,8 +1,8 @@
 ---
-title: kubernetes
-summary: cuber-sec tooling
+title: serverless
+summary: serverless tooling
 authors: ["ivan k"]
-tags: ["kubernetes"]
+tags: ["sls", "serverless"]
 date: 01-11-2022
 ---
 
