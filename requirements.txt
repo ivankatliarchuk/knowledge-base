@@ -16,7 +16,7 @@ jsmin==3.0.1
 livereload==2.6.3
 lunr
 MarkupSafe==2.1.1
-mkdocs==1.4.1
+mkdocs==1.4.2
 mkdocs-autolinks-plugin==0.6.0
 mkdocs-awesome-pages-plugin==2.8.0
 mkdocs-literate-nav==0.5.0
@@ -34,7 +34,7 @@ Pygments==2.13.0
 pymdown-extensions==9.7
 Pyphen==0.13.0
 PyYAML==6.0
-regex==2022.9.13
+regex==2022.10.31
 six==1.16.0
 soupsieve==2.3.2.post1
 tinycss2==1.2.1
