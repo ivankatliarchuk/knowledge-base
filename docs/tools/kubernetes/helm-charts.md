@@ -23,7 +23,6 @@ published: true
 !!! note "helm charts"
     Helm uses a packaging format called charts. A chart is a collection of files that describe a related set of Kubernetes resources.
 
-
 ```sh
 helm repo add {NAME} {CHART_URL}
 ```

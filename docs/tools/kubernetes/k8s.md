@@ -67,7 +67,7 @@ published: true
 ## Diagnostics
 
 - [Sonobuoy](https://github.com/vmware-tanzu/sonobuoy)
-- [Jetstak Preflight](https://github.com/jetstack/preflight)
+- [Jetstack Preflight](https://github.com/jetstack/preflight)
 - [KuberHealthy](https://github.com/Comcast/kuberhealthy)
 
 ## Security
@@ -134,9 +134,10 @@ published: true
 - [Krucible](https://usekrucible.com/plans)
 - [Digital.ai](https://docs.digital.ai/)
 
-### Improve Deployments
+### Improve Deployments (k8s platforms)
 
 - [Shipa: kubernets (k8s) deploy](https://shipa.io/)
+- [Kubevela](https://kubevela.io/)
 - [Tilt dev](https://tilt.dev/)
 
 ## Development
