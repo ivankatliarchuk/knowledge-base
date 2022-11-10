@@ -115,8 +115,10 @@ nav:
   - Management:
     - Product:
       - ... | management/product/*.md
-    - People:
-      - ... | management/people/*.md
+    - Job Descriptions:
+      - ... | management/job-description/*.md
+    - Product:
+      - ... | management/product/*.md
   - SRE-Platform-DevOps:
     - ... | sre-platform-devops/*.md
     - Notes:
