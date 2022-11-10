@@ -2,9 +2,64 @@
 title: Words
 summary: words
 author: "ik"
-tags: ["words"]
+tags: ["words", "quotes", ]
 date: 10-11-2022
 ---
+
+# Words
+
+## Messages
+
+- You cannot be agile (or Agile) in the face of a fixed quarterly plan. Imagining that you can is either ignorance or delusion. #agile
+- You don’t ‘discover’ something if you just give a new name to something already known #discover
+- We don’t want a Feature Factory, it’s not about velocity. Making the wrong thing faster makes us wronger. #velocity It is about soonest time to learning with time to reflect and pivot. The cheapest cost of intelligent failure.
+- Equal potential. One can talk the talk and has nice sounding case studies #equality
+- Hey VP, just loosen up, embrace the complex world of the craft I’m so passionate about. It’s knowledge work! You’ve gotta learn to be more risk tolerant mmmmkay? #risk/tolerant
+- Courage is a core Agile value. I often see orgs where upper management is "onboard," but won’t address the active hostility coming from middle management. That sort of craven failure to do your job on the part of the uppers will guarantee failure. They need to develop a spine. #agile #courage
+- If it’s not possible to throw out your entire backlog because you’ve learned something important, you are neither an agile nor Agile organization. #agile #backlog
+- To get better at leadership must we also get better at followership ? #leadership
+- I just want to say that I do not mind critique or disagreement but I would prefer people to use complete sentences and to spend the time explaining to me why they disagree so that I could actually learn. #learn #critique #discussion
+- Agile is a set of 4 values and 12 principles for developing software (and improving at developing software). It's not a product, principles aren't things to be sold, and agile makes no claim on anything other learning to develop software, together. #agile
+- everyday is an adventure into unknown
+- How you frame a problem can make all the difference in how you solve it.
+- All errors can be solved with software...except bugs in software.
+- I feel like this is where we’re missing a rory-type figure who wasn’t part of either team but was coordinating between the two
+- To sell a product, you need to know a brand
+-  To be comfortable, you need to be uncomfortable
+- A common maxim in the industry states that “There are only two types of companies: those that know they’ve been compromised, and those that don’t know.”
+- there is no silver bullet that guards against the many combinations of failure modes
+-  Defense in depth comprises multiple layers, with each successive layer of defense conferring protection from progressively less common data loss scenarios.
+ - When you find yourself handling an incident, as a rule of thumb, it’s helpful to always be explicit and overcommunicate.
+ - take the heat for whatever the conflict is
+ - slow because of various hiccups
+- in order to create, you’ve got to think.
+- I may be wrong. I frequently am. And if I am wrong, I want to be put right. Let’s examine the facts.
+- you would not believe the day I'm having
+- There are two ways to write code: write code so simple there are obviously no bugs in it, or write code so complex that there are no obvious bugs in it.
+- The only what I'm asking is to be more ambitious
+- If it hearts, lets do it more often
+- Lets change the narrative
+- It's been a wild ride, but I've enjoyed every second of it !
+- First step get them hooked, then take away the product, then heroically bring it back with a “modified formula”, classic
+- Nicely delivered and well engaged
+- Being in a team is a phenomenal
+- Sorry I was talking over you
+- Do not overthink
+- Let's table it
+- There's this problem I'm obsessed with, desperate to solve. Let me find technology to solve it with.
+- I create an environment where other people can solve the problem.
+- We cannot disrupt the business
+- We should treat all issues/errors as incidents
+- I do not want to disappoint you, and I'm not able to disclosure it
+- I will very much appreciate your feedback!!
+- We cannot disrupt the business
+- We should treat all issues/errors as incidents
+- I do not want to dissapoint you, and Im not able to disclosure it
+- I have ZERO tolerance for non required complexity
+- Technical debt comes as a part of unclear mission and vision. You may start building something thinking that you did the right thing, but in reality, it was not, which would lead you to a patch of technical components. As opposed to when you start building something from scratch, you do have an idea where it would lead you. It will be hard to get buy-in from teams to stop working on code, and work on abstract concepts for a day. Make sure you clarify "what's in it for them".
+- You are in charge of providing a vision for the team. You must now tie the business strategy to the execution strategy and plan accordingly. A common mistake for new leaders when they first start off is to come at things from a bottom-up standpoint. They worry about the details and specifics, wanting to design and define everything. This isn't to say that you don't care about those things. Instead, you should be hearing those things from your team. What you need to care about is the business strategy. It's strategically thinking using the lens of the business thus enabling your team with enough context to be able to come up with the architecture and strategy to execute on their own.
+
+## Words
 
 1. Stop the bleeding
 2. Trade on outage for another
@@ -130,60 +185,7 @@ date: 10-11-2022
 15. Get the views on this
 16. let's close this call
 
-[[Video Words]]
-- Over to you
-- Overrun
-
-## [[communication.md]]
-
-- You cannot be agile (or Agile) in the face of a fixed quarterly plan. Imagining that you can is either ignorance or delusion. #agile
-- You don’t ‘discover’ something if you just give a new name to something already known #discover
-- We don’t want a Feature Factory, it’s not about velocity. Making the wrong thing faster makes us wronger. #velocity It is about soonest time to learning with time to reflect and pivot. The cheapest cost of intelligent failure.
-- Equal potential. One can talk the talk and has nice sounding case studies #equality
-- Hey VP, just loosen up, embrace the complex world of the craft I’m so passionate about. It’s knowledge work! You’ve gotta learn to be more risk tolerant mmmmkay? #risk/tolerant
-- Courage is a core Agile value. I often see orgs where upper management is "onboard," but won’t address the active hostility coming from middle management. That sort of craven failure to do your job on the part of the uppers will guarantee failure. They need to develop a spine. #agile #courage
-- If it’s not possible to throw out your entire backlog because you’ve learned something important, you are neither an agile nor Agile organization. #agile #backlog
-- To get better at leadership must we also get better at followership ? #leadership
-- I just want to say that I do not mind critique or disagreement but I would prefer people to use complete sentences and to spend the time explaining to me why they disagree so that I could actually learn. #learn #critique #discussion
-- Agile is a set of 4 values and 12 principles for developing software (and improving at developing software). It's not a product, principles aren't things to be sold, and agile makes no claim on anything other learning to develop software, together. #agile
-- everyday is an adventure into unknown
-- How you frame a problem can make all the difference in how you solve it.
-- All errors can be solved with software...except bugs in software.
-- I feel like this is where we’re missing a rory-type figure who wasn’t part of either team but was coordinating between the two
-- To sell a product, you need to know a brand
--  To be comfortable, you need to be uncomfortable
-- A common maxim in the industry states that “There are only two types of companies: those that know they’ve been compromised, and those that don’t know.”
-- there is no silver bullet that guards against the many combinations of failure modes
--  Defense in depth comprises multiple layers, with each successive layer of defense conferring protection from progressively less common data loss scenarios.
- - When you find yourself handling an incident, as a rule of thumb, it’s helpful to always be explicit and overcommunicate.
- - take the heat for whatever the conflict is
- - slow because of various hiccups
-- in order to create, you’ve got to think.
-- I may be wrong. I frequently am. And if I am wrong, I want to be put right. Let’s examine the facts.
-- you would not believe the day I'm having
-- There are two ways to write code: write code so simple there are obviously no bugs in it, or write code so complex that there are no obvious bugs in it.
-- The only what I'm asking is to be more ambitious
-- If it hearts, lets do it more often
-- Lets change the narrative
-- It's been a wild ride, but I've enjoyed every second of it !
-- First step get them hooked, then take away the product, then heroically bring it back with a “modified formula”, classic
-- Nicely delivered and well engaged
-- Being in a team is a phenomenal
-- Sorry I was talking over you
-- Do not overthink
-- Let's table it
-- There's this problem I'm obsessed with, desperate to solve. Let me find technology to solve it with.
-- I create an environment where other people can solve the problem.
-- We cannot disrupt the business
-- We should treat all issues/errors as incidents
-- I do not want to disappoint you, and I'm not able to disclosure it
-- I will very much appreciate your feedback!!
-- We cannot disrupt the business
-- We should treat all issues/errors as incidents
-- I do not want to dissapoint you, and Im not able to disclosure it
-- I have ZERO tolerance for non required complexity
-
-## [[Quotes]] #quotes
+## Quotes
 
 - You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete. [[Buckminster Fuller]] #transformation #change
 - Once we stop treating organizations and people as machines and move to the paradigm of living systems, organizational change is not a problem. [[Margaret Wheatley]] #transformation #change
