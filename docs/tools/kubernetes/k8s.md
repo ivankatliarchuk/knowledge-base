@@ -10,7 +10,7 @@ published: true
 
 ## Kubernetes Tooling
 
-- [Kubernetes: essetntials](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)
+- [Kubernetes: essentials](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)
 
 ## Workflow and Automation
 
@@ -102,7 +102,7 @@ published: true
 - [Permission Manager](https://github.com/sighupio/permission-manager)
 - [Krane](https://github.com/appvia/krane)
 
-#### Keycloack and Authentic
+#### Keycloak and Authentic
 
 - [Workshop](https://github.com/ibuetler/docker-keycloak-traefik-workshop)
 - [SSO](https://www.slideshare.net/roidelapluie/single-sign-on-with-keycloak)
@@ -136,7 +136,7 @@ published: true
 
 ### Improve Deployments (k8s platforms)
 
-- [Shipa: kubernets (k8s) deploy](https://shipa.io/)
+- [Shipa: kubernetes (k8s) deploy](https://shipa.io/)
 - [Kubevela](https://kubevela.io/)
 - [Tilt dev](https://tilt.dev/)
 
