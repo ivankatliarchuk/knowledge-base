@@ -101,7 +101,7 @@ published: true
 - [Demo App](https://github.com/lgiordani/rentomatic)
 - [Cloudmapper](https://github.com/ik-cloud/cloudmapper)
 
-### Create Documenation(python)
+### Create Documentation(python)
 
 - [DocUtils](https://pypi.org/project/docutils)
 
