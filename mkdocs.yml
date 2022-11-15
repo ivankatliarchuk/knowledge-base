@@ -113,8 +113,6 @@ nav:
   - Interview:
     - ... | interview/*.md
   - Management:
-    - Product:
-      - ... | management/product/*.md
     - Job Descriptions:
       - ... | management/job-description/*.md
     - Product:

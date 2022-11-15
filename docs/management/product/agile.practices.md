@@ -2,7 +2,7 @@
 title: agile practices
 summary: agile practices
 authors: ["ivan k"]
-tags: ["management", "agile", "practices", "value stream", "worley mapping"]
+tags: ["management", "agile", "practices", "value stream", "wardley mapping", "maps"]
 date: 2021-03-08
 published: true
 ---
@@ -16,11 +16,12 @@ published: true
 - [Agile at Scale][agile.scale]{:target="_blank"}
 - [Value Stream Mapping: intro][vsm.intro]{:target="_blank"}
 
-## Wordley Mapping
+## Wardley Mapping
 
 - [Wardley Maps: intro][wm.intro]{:target="_blank"}
 - [Wardley Maps: learn][wm.learn]{:target="_blank"}
 - [Wardley Maps: doctrine][wm.doctrine]{:target="_blank"}
+- [Wardley Maps: learn](https://learnwardleymapping.com/)
 
 **Resources**
 
