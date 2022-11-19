@@ -2,7 +2,7 @@
 title: kubernetes
 summary: cuber-sec tooling
 authors: ["ivan k"]
-tags: ["kubernetes"]
+tags: ["kubernetes", "k8s"]
 date: 14-10-2022
 ---
 
