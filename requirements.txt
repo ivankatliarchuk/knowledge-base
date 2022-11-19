@@ -20,7 +20,7 @@ mkdocs==1.4.2
 mkdocs-autolinks-plugin==0.6.0
 mkdocs-awesome-pages-plugin==2.8.0
 mkdocs-literate-nav==0.5.0
-mkdocs-material==8.5.8
+mkdocs-material==8.5.10
 mkdocs-material-extensions==1.1
 mkdocs-minify-plugin==0.6.1
 mkdocs-monorepo-plugin==1.0.4
@@ -31,8 +31,8 @@ nltk==3.7
 Pillow==9.3.0
 pycparser==2.21
 Pygments==2.13.0
-pymdown-extensions==9.7
-Pyphen==0.13.0
+pymdown-extensions==9.8
+Pyphen==0.13.1
 PyYAML==6.0
 regex==2022.10.31
 six==1.16.0
