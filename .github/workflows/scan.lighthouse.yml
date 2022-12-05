@@ -63,7 +63,7 @@ jobs:
 
       # https://github.com/JasonEtco/actions-toolkit#toolscontext
       - name: create issue from file
-        uses: JasonEtco/create-an-issue@v2.8.0
+        uses: JasonEtco/create-an-issue@v2.8.1
         id: create-issue
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
