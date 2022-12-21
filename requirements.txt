@@ -32,7 +32,7 @@ Pillow==9.3.0
 pycparser==2.21
 Pygments==2.13.0
 pymdown-extensions==9.9
-Pyphen==0.13.1
+Pyphen==0.13.2
 PyYAML==6.0
 regex==2022.10.31
 six==1.16.0
