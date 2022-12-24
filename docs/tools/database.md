@@ -3,7 +3,7 @@ title: database tooling
 summary: Database tooling
 authors:
 - ivan k
-tags: ["tools", "database", "db", "data migration"]
+tags: ["tools", "database", "db", "data migration", "migration"]
 date: 2021-03-8
 published: true
 ---
@@ -13,7 +13,6 @@ published: true
 !!! note "database"
     Robust database schema evolution across all your environments.
 
-- [Flyway](https://flywaydb.org/)
 - [DB Veawer](https://dbeaver.io/download/)
 - [HeldiSQL](https://www.heidisql.com/)
 - [MyWebSQL MySQL, SQLite and PostgreSQL](http://mywebsql.net/)
@@ -21,6 +20,12 @@ published: true
 - [Top 20](https://www.guru99.com/top-20-sql-management-tools.html)
 - [VS Code/Connect](https://github.com/microsoft/azuredatastudio)
 - [SQL Electron](https://sqlectron.github.io/)
+
+## Database Migrations
+
+- [Flyway](https://flywaydb.org/)
+- [Liquibase](https://www.liquibase.org/)
+- [Atlasgo](https://atlasgo.io/)
 
 ## Database Migrations/Synchronizations
 
