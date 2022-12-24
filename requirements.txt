@@ -27,7 +27,7 @@ mkdocs-monorepo-plugin==1.0.4
 mkdocs-pdf-export-plugin==0.5.10
 mkdocs-redirects==1.2.0
 mkdocs-same-dir==0.1.2
-nltk==3.7
+nltk==3.8
 Pillow==9.3.0
 pycparser==2.21
 Pygments==2.13.0
