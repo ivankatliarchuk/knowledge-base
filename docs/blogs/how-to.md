@@ -18,6 +18,7 @@ date: 2021-03-24
 ## Certifications
 
 - [Pentest: hot to get certified](https://habr.com/ru/company/cloud4y/blog/471380/)
+- [CKA how to certify](https://devopscube.com/cka-exam-study-guide/)
 
 ## How to go through different labs
 

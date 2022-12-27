@@ -17,6 +17,7 @@ published: true
 ## Tech
 
 - [Uber](https://eng.uber.com/category/articles/architecture){:target="_blank"}
+- [Lyft](https://eng.lyft.com/){:target="_blank"}
 - [Dropbox](https://dropbox.tech/){:target="_blank"}
 - [PinTerest](https://medium.com/@Pinterest_Engineering){:target="_blank"}
 - [Netflix](https://medium.com/netflix-techblog){:target="_blank"}
@@ -24,25 +25,22 @@ published: true
 - [I-Programmer](https://www.i-programmer.info/){:target="_blank"}
 - [Telerik](https://www.telerik.com/blogs){:target="_blank"}
 - [Dev To](https://dev.to/){:target="_blank"}
-- [Lyft](https://eng.lyft.com/){:target="_blank"}
 - [Evil Martian Consultancy](https://evilmartians.com/chronicles){:target="_blank"}
 
 ### FinTech
 
 - [Monzo](https://monzo.com/blog/){:target="_blank"}
-- [BlackRock](http://rockthecode.io/){:target="_blank"}
 
 ## DevOps
 
 - [DevOps.Com](https://devops.com/){:target="_blank"}
 - [Stelligent](https://stelligent.com/){:target="_blank"}
-- [DevOps Journal](http://devopsjournal.ulitzer.com/){:target="_blank"}
 - [DevOpsCube](https://devopscube.com/){:target="_blank"}
 - [DevOpsGroup](https://www.devopsgroup.com/blog/){:target="_blank"}
 - [EngineerBetter](https://www.engineerbetter.com/blog/){:target="_blank"}
-- [ToughWroks](https://www.thoughtworks.com/personal-blogs){:target="_blank"}
-- [SumoLogic](https://www.sumologic.com/){:target="_blank"}
+- [ToughtWorks](https://www.thoughtworks.com/personal-blogs){:target="_blank"}
 - [RedGate](https://www.red-gate.com/blog/database-devops){:target="_blank"}
+- [SRE Google](https://sre.google/sre-book/table-of-contents/){:target="_blank"}
 
 ## IT Architecture
 
@@ -52,19 +50,18 @@ published: true
 
 - [Aqua](https://www.aquasec.com/){:target="_blank"}
 - [Auth0](https://auth0.com/blog/){:target="_blank"}
-- [HackerOne](hackerone.com){:target="_blank"}
+- [HackerOne](https://hackerone.com){:target="_blank"}
 - [Null Byte](https://null-byte.wonderhowto.com/){:target="_blank"}
 - [Pentest Monkey](pentestmonkey.net){:target="_blank"}
 - [!Hacking Articles](https://www.hackingarticles.in/){:target="_blank"}
 - [Read Team](https://ired.team/){:target="_blank"}
-- [Security Tooling Zero-Day](https://zero-day.io/tag/blog/){:target="_blank"}
 - [Kreb Security](https://krebsonsecurity.com/){:target="_blank"}
 - [ZSecurity](https://zsecurity.org/){:target="_blank"}
 - [Ethical Hacking](https://www.ehacking.net/){:target="_blank"}
 - [TheTinHat](https://thetinhat.com/index.html){:target="_blank"}
-- [Hackos](https://www.hacknos.com/category){:target="_blank"}
+- [Hacknos](https://www.hacknos.com){:target="_blank"}
 - [Security Generation](https://www.securitygeneration.com/){:target="_blank"}
-- [VeteranSec](https://veteransec.com/){:target="_blank"}
+- [Veteran Sec](https://veteransec.com/){:target="_blank"}
 - [Cyber Security For Business](https://www.coursera.org/specializations/cyber-security-business){:target="_blank"}
 - [Edx Cyber](https://www.edx.org/course?search_query=cyber){:target="_blank"}
 - [Habr MIT Security](https://habr.com/ru/company/ua-hosting/blog/427763/){:target="_blank"}

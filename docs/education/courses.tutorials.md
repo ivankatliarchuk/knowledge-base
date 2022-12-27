@@ -25,6 +25,7 @@ published: true
 - [Hack the WebServer](https://www.guru99.com/how-to-hack-web-server.html)
 - [Cybrary](https://www.cybrary.it/)
 - [ ] [Udemy: Learn Python & Ethical Hacking From Scratch](https://www.udemy.com/course/learn-python-and-ethical-hacking-from-scratch/learn/lecture/10800892?start=0)
+- [ ] [EDS](https://www.edx.org/course){:target="_blank"}
 
 ## Security
 
