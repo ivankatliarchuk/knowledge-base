@@ -1,7 +1,7 @@
 ---
 title: 21 people management tips
 summary: 21 people management tips
-tags: ["people management", "tips"]
+tags: ["people management", "tips", "career"]
 date: 2021-03-08
 source: https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf
 author: Sam Gerstenzang

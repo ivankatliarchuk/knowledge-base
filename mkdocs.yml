@@ -118,6 +118,8 @@ nav:
       - ... | leadership/job-description/*.md
     - Product:
       - ... | leadership/product/*.md
+    - Career:
+      - ... | leadership/career/*.md
   - SRE-Platform-DevOps:
     - ... | sre-platform-devops/*.md
     - Notes:

@@ -1,7 +1,7 @@
 ---
 title: Career Frameworks
 summary: career tips
-tags: ["people management", "tips", 'career', 'career development']
+tags: ["people management", "tips", 'career', 'career development', "career"]
 date: 2021-08-19
 published: true
 ---
