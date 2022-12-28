@@ -113,6 +113,7 @@ nav:
   - Interview:
     - ... | interview/*.md
   - Leadership:
+    - ... | leadership/*.md
     - Job Descriptions:
       - ... | leadership/job-description/*.md
     - Product:
