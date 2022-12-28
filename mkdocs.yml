@@ -112,11 +112,11 @@ nav:
     - ... | workshops/*.md
   - Interview:
     - ... | interview/*.md
-  - Management:
+  - Leadership:
     - Job Descriptions:
-      - ... | management/job-description/*.md
+      - ... | leadership/job-description/*.md
     - Product:
-      - ... | management/product/*.md
+      - ... | leadership/product/*.md
   - SRE-Platform-DevOps:
     - ... | sre-platform-devops/*.md
     - Notes:

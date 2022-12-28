@@ -1,7 +1,7 @@
 ---
 title: incident readiness phases
 created: 2021-03-14T14:18:51 (UTC +00:00)
-tags: ["checklist", "incidend response", "plan", "readiness"]
+tags: ["checklist", "incidend response", "plan", "readiness", "questions"]
 source: https://www.securitymetrics.com/blog/6-phases-incident-response-plan
 author: david ellis
 ---
