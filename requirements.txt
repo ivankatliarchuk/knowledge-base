@@ -30,7 +30,7 @@ mkdocs-same-dir==0.1.2
 nltk==3.8
 Pillow==9.3.0
 pycparser==2.21
-Pygments==2.13.0
+Pygments==2.14.0
 pymdown-extensions==9.9
 Pyphen==0.13.2
 PyYAML==6.0
