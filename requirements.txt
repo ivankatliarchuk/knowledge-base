@@ -28,7 +28,7 @@ mkdocs-pdf-export-plugin==0.5.10
 mkdocs-redirects==1.2.0
 mkdocs-same-dir==0.1.2
 nltk==3.8
-Pillow==9.3.0
+Pillow==9.4.0
 pycparser==2.21
 Pygments==2.13.0
 pymdown-extensions==9.9
