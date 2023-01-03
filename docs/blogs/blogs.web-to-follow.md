@@ -12,11 +12,12 @@ published: true
 ## Leadership
 
 - [Staff(principal) engineer](https://staffeng.com/stories){:target="_blank"}
+- [Engineering Strategies (Elegant Puzzle)](https://lethain.com/engineering-strategy/){:target="_blank"}
 - [Google leadership](https://rework.withgoogle.com/)
 
 ## Tech
 
-- [Uber](https://eng.uber.com/category/articles/architecture){:target="_blank"}
+- [Uber](https://eng.uber.com/category/articles/architecture){:target="_blank"} 
 - [Lyft](https://eng.lyft.com/){:target="_blank"}
 - [Dropbox](https://dropbox.tech/){:target="_blank"}
 - [PinTerest](https://medium.com/@Pinterest_Engineering){:target="_blank"}
