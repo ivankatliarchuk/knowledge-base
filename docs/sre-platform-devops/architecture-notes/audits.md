@@ -2,10 +2,12 @@
 title: audits documentation
 summary: technical audits
 authors: ["ivan k"]
-tags: ["architecture", "audit", "system", "cis", "soc", "aws", "cloud", "platform", "security", "cyber-sec"]
-date: 2021-03-8
+tags: ["architecture", "audit", "system", "cis", "soc", "aws", "cloud", "platform", "security", "cyber-sec", "siem"]
+date: 10-01-2023
 source:
 published: true
+sources:
+- https://logz.io/blog/open-source-siem-tools/
 ---
 
 # Cloud and Platform Audit
@@ -16,7 +18,7 @@ published: true
 - [SOC2: staring](https://latacora.micro.blog/2020/03/12/the-soc-starting.html)
 - [OWASP: security verification standard](https://owasp-aasvs.readthedocs.io/en/latest/)
 - [CIS: compliance benchmarks](https://www.cisecurity.org/cis-benchmarks/)
-- [CIS: cisesecryity tooling](https://www.cisecurity.org/cybersecurity-tools/)
+- [CIS: cybersecyrity tooling](https://www.cisecurity.org/cybersecurity-tools/)
 - [CIS: aws compliance][cis-aws-compliance]
 
 ## Audit Certifications
@@ -27,6 +29,15 @@ published: true
 ## Audit Tooling
 
 - [Current Tooling](../../tools/audit.md)
+
+## SIEM Tools
+
+> SIEM tools are an important part of the data security ecosystem: they aggregate data from multiple systems and analyze that data to catch abnormal behavior or potential cyberattacks. SIEM tools provide a central place to collect events and alerts – but can be expensive, resource intensive, and customers report that it is often difficult to resolve problems with SIEM data.
+
+- [Apache Metron](https://metron.apache.org/about/)
+- [Wazuh](https://github.com/wazuh/wazuh)
+- [OSSEC](https://github.com/ossec)
+- [OSSIM](https://github.com/ossimlabs/ossim)
 
 ## Audit Vendors
 
