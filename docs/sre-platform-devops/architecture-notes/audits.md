@@ -38,6 +38,7 @@ sources:
 - [Wazuh](https://github.com/wazuh/wazuh)
 - [OSSEC](https://github.com/ossec)
 - [OSSIM](https://github.com/ossimlabs/ossim)
+- [Suricata](https://github.com/OISF)
 
 ## Audit Vendors
 
