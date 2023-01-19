@@ -27,6 +27,10 @@ links:
 - [web hacking](https://github.com/infoslack/awesome-web-hacking)
 - [web security](https://github.com/qazbnm456/awesome-web-security)
 
+## General Information
+
+- [Visual Capitalist](https://www.visualcapitalist.com/)
+
 ### Coding
 
 - [Python](https://github.com/vinta/awesome-python)
