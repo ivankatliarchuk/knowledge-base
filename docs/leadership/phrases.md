@@ -2,7 +2,7 @@
 title: phrases
 summary: speak business english
 authors: ["ivan k"]
-tags: ["leadership", "management", "phrase", "sentence", "english"]
+tags: ["leadership", "management", "phrase", "sentence", "english", "speak"]
 date: 31-Dec-2022
 published: true
 sources:

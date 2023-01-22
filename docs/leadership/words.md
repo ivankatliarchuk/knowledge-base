@@ -2,8 +2,8 @@
 title: Words
 summary: words
 author: "ik"
-tags: ["words", "quotes", ]
-date: 10-11-2022
+tags: ["words", "quotes", "english", "speak"]
+date: 22-Jan-2023
 ---
 
 # Words
