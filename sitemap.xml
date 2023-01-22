@@ -91,11 +91,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ivankatliarchuk.github.io/education/words/</loc>
-         <lastmod>2023-01-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://ivankatliarchuk.github.io/interview/</loc>
          <lastmod>2023-01-22</lastmod>
          <changefreq>daily</changefreq>
@@ -122,6 +117,11 @@
     </url>
     <url>
          <loc>https://ivankatliarchuk.github.io/leadership/questions/</loc>
+         <lastmod>2023-01-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ivankatliarchuk.github.io/leadership/words/</loc>
          <lastmod>2023-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
