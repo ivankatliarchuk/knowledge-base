@@ -34,3 +34,10 @@ sources:
 * Team, give yourselves a `pat on the back (recognition)`. Our results are in, and we just had our most successful quarter ever!
 * It’s time to `clean house (to fire a log of employees)` and bring some `new blood (new employee)` into this company.
 * `You took the words right out of my mouth (completely agree)`!
+* Or we could `test the waters` by moving 25 percent of our operations there.
+* That would give us `the best of both worlds`: we could reduce our risk, while starting to enjoy some of the cost savings from lower-cost manufacturing.
+* I’ve been `back and forth` on this issue for months. I’m `of two minds (conflicted)`.
+* It’s true that I don’t know him well, but `my gut tells me (strong feeling)` that Joe is the right person for the sales director position.
+* Let’s `stop messing (wasting time)` around.
+* We `pulled out all the stops (to use all one's resources, to try very hard)` to get Chad to accept our job offer.
+

@@ -48,6 +48,12 @@ date: 2021-04-25
 
 - [Generate Resume: mostly for fun](https://thisresumedoesnotexist.com)
 
+## AI (artificial Intelligence)
+
+- [ChapGPT](https://chat.openai.com/chat)
+- [Synthesia (create videos from plain text in minutes)](https://www.synthesia.io/)
+- [Descript (edit video and podcasts with AI)](https://www.descript.com/)
+
 <!-- resource links -->
 [top-wallpapers]: https://wallhaven.cc/toplist
 [deviant-art]: https://www.deviantart.com
