@@ -160,9 +160,12 @@ published: true
 
 - [Crossplane](https://github.com/crossplane/crossplane)
 
-## Quality
+## End of Life and Deprecations
 
-- [Check Deprecation](https://github.com/FairwindsOps/pluto)
+- [End of life products](https://endoflife.date/amazon-eks)
+- [Check Deprecation in k8s](https://github.com/FairwindsOps/pluto)
+- [Kube Deprecations (kubent)](https://github.com/doitintl/kube-no-trouble)
+- [Kube Deprecations (kubepug)](https://github.com/rikatz/kubepug)
 - [Cluster Lint](https://github.com/digitalocean/clusterlint)
 
 ## Cluster Chores
