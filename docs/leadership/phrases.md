@@ -40,4 +40,7 @@ sources:
 * It’s true that I don’t know him well, but `my gut tells me (strong feeling)` that Joe is the right person for the sales director position.
 * Let’s `stop messing (wasting time)` around.
 * We `pulled out all the stops (to use all one's resources, to try very hard)` to get Chad to accept our job offer.
-
+* Let’s `roll up our sleeves (get ready to start)` and give it `our best shot (to make best effort to get something done)`. `Nothing ventured, nothing gained (if you don't try something, you'll never succeed)`.
+* If you can’t figure out how to fix the jammed printer, let Adam `take a crack at it (to try something)`.
+* I `gave it my best shot (tried as as hard as I could)`, but I just couldn’t finish on time.
+* I’d like to `circle back to (to return to)` something Maria said earlier in the meeting.
