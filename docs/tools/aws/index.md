@@ -1,5 +1,5 @@
 ---
-title: aws
+title: AWS
 summary: aws tooling
 authors: ["ivan k"]
 tags: ["aws", "eks", "cloud", "bootstrap", "argocd", "crossplane", "blueprints", "security", "cdk"]
