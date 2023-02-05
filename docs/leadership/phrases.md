@@ -44,3 +44,16 @@ sources:
 * If you can’t figure out how to fix the jammed printer, let Adam `take a crack at it (to try something)`.
 * I `gave it my best shot (tried as as hard as I could)`, but I just couldn’t finish on time.
 * I’d like to `circle back to (to return to)` something Maria said earlier in the meeting.
+* If you’re going to finish that report by Monday morning, you’d better `hunker down (to focus on work)` over the weekend.
+* When the company website went down, the IT department worked `around the clock (non-stop, 24 hours a day)` to fix it.
+* If we’re going to get these 3,000 crystal vases packaged and shipped by tomorrow morning, everybody’s going to need to `pitch in (to contribute)`.
+* You think consumers will be willing to pay $50,000 for a high-tech toilet? That’s `pushing the envelope (testing the limits of what people will pay)`.
+* If we want to submit the business plan by tomorrow afternoon, we’re going to have to `burn the midnight oil (work very late)` tonight.
+* Let's `bat around some ideas (brainstorm the ideas)`.
+* I don’t want to get in a fight with you about this. `Let’s just agree to disagree (we don’t agree, but let’s not argue further; let’s accept our differences of opinion and move on)`.
+* Martin finally had enough of Todd’s negative attitude. “`Shape up or ship out! (improve your behavior or leave)`” he told Todd.
+* Len, one of the salespeople in our department isn’t `pulling his weight (doing his share of work)`.
+* Len’s boss Jill is trying to `run a tight ship (operate effectively)` and gets very upset when her employees don’t perform.
+* Len’s boss told him he wasn’t performing well. She told him to `shape up or ship out (improve or go)`.
+
+
