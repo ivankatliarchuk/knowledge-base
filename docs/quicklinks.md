@@ -2,7 +2,7 @@
 title: Quick Links
 summary: quick links
 author: "ik"
-tags: ["main", "quick links"]
+tags: ["main", "quick links", "ai"]
 date: 2021-04-25
 ---
 
@@ -53,6 +53,8 @@ date: 2021-04-25
 - [ChapGPT](https://chat.openai.com/chat)
 - [Synthesia (create videos from plain text in minutes)](https://www.synthesia.io/)
 - [Descript (edit video and podcasts with AI)](https://www.descript.com/)
+- [Murf.ai (real people voices)](https://murf.ai/)
+- [Pictory (vide creation made easy)](https://pictory.ai/)
 
 <!-- resource links -->
 [top-wallpapers]: https://wallhaven.cc/toplist
