@@ -55,6 +55,7 @@ date: 2021-04-25
 - [Descript (edit video and podcasts with AI)](https://www.descript.com/)
 - [Murf.ai (real people voices)](https://murf.ai/)
 - [Pictory (vide creation made easy)](https://pictory.ai/)
+- [Invideo (video with templates)](https://invideo.io)
 
 <!-- resource links -->
 [top-wallpapers]: https://wallhaven.cc/toplist
