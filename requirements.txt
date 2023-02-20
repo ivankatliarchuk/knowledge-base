@@ -36,7 +36,7 @@ Pyphen==0.13.2
 PyYAML==6.0
 regex==2022.10.31
 six==1.16.0
-soupsieve==2.3.2.post1
+soupsieve==2.4
 tinycss2==1.2.1
 tornado==6.2
 tqdm==4.64.1
