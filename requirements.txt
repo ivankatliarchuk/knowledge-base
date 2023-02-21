@@ -20,7 +20,7 @@ mkdocs==1.4.2
 mkdocs-autolinks-plugin==0.6.0
 mkdocs-awesome-pages-plugin==2.8.0
 mkdocs-literate-nav==0.6.0
-mkdocs-material==9.0.11
+mkdocs-material==9.0.12
 mkdocs-material-extensions==1.1.1
 mkdocs-minify-plugin==0.6.2
 mkdocs-monorepo-plugin==1.0.4
@@ -41,5 +41,5 @@ tinycss2==1.2.1
 tornado==6.2
 tqdm==4.64.1
 wcmatch==8.4.1
-WeasyPrint==57.2
+WeasyPrint==58.0
 webencodings==0.5.1
