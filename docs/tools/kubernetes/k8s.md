@@ -134,11 +134,12 @@ published: true
 - [Krucible](https://usekrucible.com/plans)
 - [Digital.ai](https://docs.digital.ai/)
 
-### Improve Deployments (k8s platforms)
+### K8s Deployments (k8s platforms)
 
 - [Shipa: kubernetes (k8s) deploy](https://shipa.io/)
 - [Kubevela](https://kubevela.io/)
 - [Tilt dev](https://tilt.dev/)
+- [Draft (app on k8s fast)](https://github.com/Azure/draft/)
 
 ## Development
 
@@ -172,4 +173,3 @@ published: true
 
 - [Kubegrunt](https://github.com/gruntwork-io/kubergrunt#cleanup-security-group)
 - [k8s scripts](https://github.com/ik-scripting/scripts/tree/master/k8s)
-

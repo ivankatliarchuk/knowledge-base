@@ -56,6 +56,7 @@ date: 2021-04-25
 - [Murf.ai (real people voices)](https://murf.ai/)
 - [Pictory (vide creation made easy)](https://pictory.ai/)
 - [Invideo (video with templates)](https://invideo.io)
+- [Generate imagaes with AI](https://docs.midjourney.com/)
 
 <!-- resource links -->
 [top-wallpapers]: https://wallhaven.cc/toplist
