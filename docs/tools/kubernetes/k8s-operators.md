@@ -27,6 +27,7 @@ published: true
 - [Harbor operator](https://github.com/goharbor/harbor-operator)
 - [Banzaicloud: logging exporter](https://github.com/banzaicloud/logging-operator)
 - [Banzaicloud(Hashicorp Vault): bank-vaults](https://github.com/banzaicloud/bank-vaults)
+- [Namespace provisioner](https://github.com/mercedes-benz/namespace-provisioner)
 
 ## Kubernetes Controllers
 
