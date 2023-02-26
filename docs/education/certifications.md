@@ -12,6 +12,12 @@ Cyber security is how individuals and organisations reduce the risk of cyber att
 
 Cyber security's core function is to protect the devices we all use (smartphones, laptops, tablets and computers), and the services we access - both online and at work - from theft or damage.
 
+## PenTest Academies
+
+- [Hack the box](https://www.hackthebox.com/)
+- [Try hack me](https://tryhackme.com/)
+- [Penterster lab](https://pentesterlab.com/)
+
 ## Pentest Certifications
 
 - [Offensive Security](https://www.offensive-security.com/)
