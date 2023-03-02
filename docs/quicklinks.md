@@ -58,6 +58,10 @@ date: 2021-04-25
 - [Invideo (video with templates)](https://invideo.io)
 - [Generate imagaes with AI](https://docs.midjourney.com/)
 
+## Productivity
+
+- [Canva (video editing, image generation)](https://www.canva.com/)
+
 <!-- resource links -->
 [top-wallpapers]: https://wallhaven.cc/toplist
 [deviant-art]: https://www.deviantart.com
