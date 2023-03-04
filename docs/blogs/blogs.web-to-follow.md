@@ -17,7 +17,7 @@ published: true
 
 ## Tech
 
-- [Uber](https://eng.uber.com/category/articles/architecture){:target="_blank"} 
+- [Uber](https://eng.uber.com/category/articles/architecture){:target="_blank"}
 - [Lyft](https://eng.lyft.com/){:target="_blank"}
 - [Dropbox](https://dropbox.tech/){:target="_blank"}
 - [PinTerest](https://medium.com/@Pinterest_Engineering){:target="_blank"}
@@ -49,6 +49,7 @@ published: true
 
 ## Security
 
+- [Security Affairs](https://securityaffairs.com/category/security){:target="_blank"}
 - [Aqua](https://www.aquasec.com/){:target="_blank"}
 - [Auth0](https://auth0.com/blog/){:target="_blank"}
 - [HackerOne](https://hackerone.com){:target="_blank"}
