@@ -19,6 +19,7 @@ published: true
 - [Addon Operator](https://github.com/flant/addon-operator)
 - [Shell Operator](https://github.com/flant/shell-operator)
 - [Cluster Operator Giant Swarm](https://github.com/giantswarm/cluster-operator)
+- [App operator](https://github.com/giantswarm/app-operator)
 - [Secrets Operator](https://github.com/cyberark/secrets-provider-for-k8s)
 - [Prometheus Operator](https://coreos.com/blog/the-prometheus-operator.html)
 - [Prometheus Operator: official](https://github.com/prometheus-operator/kube-prometheus)
