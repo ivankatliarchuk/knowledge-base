@@ -140,6 +140,7 @@ published: true
 - [Kubevela](https://kubevela.io/)
 - [Tilt dev](https://tilt.dev/)
 - [Draft (app on k8s fast)](https://github.com/Azure/draft/)
+- [Kapp (simple deployment tool)](https://github.com/carvel-dev/kapp)
 
 ## Development
 
@@ -148,6 +149,7 @@ published: true
 - [Debug Apps. KubectlDebug](https://github.com/aylei/kubectl-debug)
 - [Debug. Squash](https://squash.solo.io/)
 - [Sync](https://github.com/ksync/ksync)
+- [Kube score](https://github.com/zegl/kube-score)
 
 ## Deployments
 
