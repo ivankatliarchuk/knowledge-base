@@ -56,7 +56,14 @@ date: 2021-04-25
 - [Murf.ai (real people voices)](https://murf.ai/)
 - [Pictory (vide creation made easy)](https://pictory.ai/)
 - [Invideo (video with templates)](https://invideo.io)
-- [Generate imagaes with AI](https://docs.midjourney.com/)
+- [Generate images with AI](https://docs.midjourney.com/)
+- [Generate images with AI](https://playgroundai.com/)
+- [Build website with AI](https://www.mixo.io/)
+- [Build website with AI](https://durable.co/)
+- [Create music with AI](https://www.beatoven.ai/)
+- [Music editing with AI](https://cleanvoice.ai/)
+- [Generate presentations with AI](https://beta.tome.app/)
+
 
 ## Productivity
 
