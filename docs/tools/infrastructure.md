@@ -2,7 +2,7 @@
 title: infrastructure tooling
 summary: infrastructure tooling
 authors: ["ivan k"]
-tags: ["tools", "infrastructure", "docker", "k8s", "ecs", "fargate"]
+tags: ["tools", "infrastructure", "docker", "k8s", "ecs", "fargate", "docker"]
 date: 2021-03-8
 published: true
 ---
@@ -28,6 +28,11 @@ published: true
 - [Trivy](https://github.com/aquasecurity/trivy)
 - [Bane](https://github.com/genuinetools/bane)
 - [Dockle](https://github.com/goodwithtech/dockle)
+
+### Docker Images
+
+- [Distrolles docker images](https://github.com/GoogleContainerTools/distroless)
+- [Wolfi OS docker images](https://github.com/wolfi-dev/)
 
 ## AWS Fargate
 
