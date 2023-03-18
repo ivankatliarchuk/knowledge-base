@@ -17,7 +17,7 @@ livereload==2.6.3
 lunr
 MarkupSafe==2.1.2
 mkdocs==1.4.2
-mkdocs-autolinks-plugin==0.6.0
+mkdocs-autolinks-plugin==0.7.0
 mkdocs-awesome-pages-plugin==2.8.0
 mkdocs-literate-nav==0.6.0
 mkdocs-material==9.0.15
