@@ -22,7 +22,7 @@ mkdocs-awesome-pages-plugin==2.8.0
 mkdocs-literate-nav==0.6.0
 mkdocs-material==9.1.2
 mkdocs-material-extensions==1.1.1
-mkdocs-minify-plugin==0.6.2
+mkdocs-minify-plugin==0.6.4
 mkdocs-monorepo-plugin==1.0.4
 mkdocs-pdf-export-plugin==0.5.10
 mkdocs-redirects==1.2.0
