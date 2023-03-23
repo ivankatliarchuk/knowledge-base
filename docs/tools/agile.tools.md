@@ -15,6 +15,7 @@ published: true
 
 - [Draw.io or app.diagrams.net](https://app.diagrams.net){:target="_blank"}
 - [Miro][miro]{:target="_blank"}
+- [Write Scetches](https://sketch.io/sketchpad/){:target="_blank"}
 - [C4 Model: design all levels of arthitecture](https://c4model.com/){:target="_blank"}
 - [Creately.com Plan,brainstorm or design $][creatly.com]{:target="_blank"}
 - [Visual Paradigm. $](https://online.visual-paradigm.com/pricing){:target="_blank"}
