@@ -33,6 +33,7 @@ published: true
 
 - [Distrolles docker images](https://github.com/GoogleContainerTools/distroless)
 - [Wolfi OS docker images](https://github.com/wolfi-dev/)
+- [Docker Slim (make it slim)](https://github.com/slimtoolkit/slim)
 
 ## AWS Fargate
 
