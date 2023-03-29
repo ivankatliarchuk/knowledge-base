@@ -56,6 +56,7 @@ date: 2021-04-25
 - [Murf.ai (real people voices)](https://murf.ai/)
 - [Pictory (vide creation made easy)](https://pictory.ai/)
 - [Invideo (video with templates)](https://invideo.io)
+- [Genereate image with AI 10/10](https://app.leonardo.ai/)
 - [Generate images with AI](https://docs.midjourney.com/)
 - [Generate images with AI](https://playgroundai.com/)
 - [Build website with AI](https://www.mixo.io/)
