@@ -185,6 +185,13 @@ date: 22-Jan-2023
 15. Get the views on this
 16. let's close this call
 
+## Reply phrases
+
+- I'm doing fantastic, thanks for asking.
+- I'm doing relatively well, had a nice weekend and got a chance to dig into a couple of new things. Finally had time to spent time with family
+- It’s not a bad start
+- Had a bit of time to relax and disconnect for a little bit from the grid
+
 ## Quotes
 
 - You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete. [[Buckminster Fuller]] #transformation #change
@@ -198,4 +205,5 @@ date: 22-Jan-2023
 Be approximately right rather than exactly wrong.[[John Tukey]]
 - Let the flow manage the processes, and not let management manage the flow. [[Taiichi Ohno]]
 - Benchmarks are now as reliable as sundials at night.
-
+- They made their bed, let them lie in it.
+-
