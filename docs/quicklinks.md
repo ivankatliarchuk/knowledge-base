@@ -37,6 +37,7 @@ date: 2021-04-25
 - [Interesting images(behance)][behance]{:target="_blank"}
 - [Simple images(pngimg)](https://pngimg.com){:target="_blank"}
 - [DeepArt: turn photoes into art](https://deepart.io/){:target="_blank"}
+- [Images generated with AI](https://playgroundai.com/){:target="_blank"}
 
 ## Gmail Slides & PowerPoint
 
