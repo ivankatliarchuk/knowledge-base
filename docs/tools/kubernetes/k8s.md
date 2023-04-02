@@ -126,6 +126,10 @@ published: true
 - [Kubectl Starboard](https://github.com/aquasecurity/starboard#starboard-cli)
 - [Inspector Gadget](https://github.com/kinvolk/inspektor-gadget/)
 
+## K8s Bots
+
+- [Bot Kube](https://github.com/kubeshop/botkube)
+
 ## Vendors to manage Clusters
 
 - [Supergiant](https://supergiant.io/toolkit/)
