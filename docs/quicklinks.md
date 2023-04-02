@@ -59,12 +59,21 @@ date: 2021-04-25
 - [Invideo (video with templates)](https://invideo.io)
 - [Genereate image with AI 10/10](https://app.leonardo.ai/)
 - [Generate images with AI](https://docs.midjourney.com/)
-- [Generate images with AI](https://playgroundai.com/)
+- [Generate images with AI. Playground AI](https://playgroundai.com/)
+- [Generate images with AI. DALL-E](https://labs.openai.com/)
+
 - [Build website with AI](https://www.mixo.io/)
 - [Build website with AI](https://durable.co/)
+
+### AI create music
+
 - [Create music with AI](https://www.beatoven.ai/)
 - [Music editing with AI](https://cleanvoice.ai/)
-- [Generate presentations with AI](https://beta.tome.app/)
+
+
+### AI Create Presentation
+
+- [Tome App presentations](https://beta.tome.app/)
 
 
 ## Productivity
