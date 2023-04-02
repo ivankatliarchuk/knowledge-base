@@ -23,7 +23,6 @@ published: true
 - [Google Peak Season Readiness](https://cloud.google.com/solutions/black-friday-production-readiness){:target=_blank}
 - [checklist: Website Launch](https://www.process.st/checklist/website-launch-checklist){:target=_blank}
 - [checklist: Hashicorp Vault (6/10)](https://github.com/ik-security/Vault-Production-Readiness-Checklist){:target=_blank}
-- [checklist: Hashicorp Vault (5/10)](https://rockos.io/resources/secrets-management/vault-production-checklist){:target=_blank}
 
 ## Reports
 
