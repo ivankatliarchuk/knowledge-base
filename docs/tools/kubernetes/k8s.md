@@ -74,6 +74,7 @@ published: true
 
 - [Security.info: Kubernetes Security](https://kubernetes-security.info/)
 - [Kubernetes Attack Matrix](https://www.microsoft.com/en-us/security/blog/2020/04/02/attack-matrix-kubernetes/)
+- [Kubernetes hardening(hardeneks)](https://github.com/aws-samples/hardeneks)
 - [K8s cluster sanitizer](https://github.com/ik-kubernetes/popeye)
 - [KubeHunter](https://github.com/aquasecurity/kube-hunter)
 - [Kube Bench](https://github.com/aquasecurity/kube-bench)
