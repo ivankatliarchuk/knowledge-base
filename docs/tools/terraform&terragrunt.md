@@ -27,6 +27,7 @@ published: true
 - [Terrascan: detect compliance and security violations across Infrastructure as Code][terrascan]{:target="_blank"}
 - [Terraform compliance: a lightweight, security focused, BDD test framework against terraform][terr-compliance]{:target="_blank"}
 - [TFSec: security scanner for your Terraform code][tfsec]{:target="_blank"}
+- [Steampipe: Use SQL to instantly query your cloud services](https://hub.steampipe.io/)
 
 ## Terraform Modules
 
