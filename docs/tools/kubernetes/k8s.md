@@ -2,7 +2,7 @@
 title: k8s tooling
 summary: Kubernetes tooling
 authors: ["ivan k"]
-tags: ["tools", "k8s", "kubernetes", "k8s"]
+tags: ["tools", "k8s", "kubernetes", "k8s", "cis", "mitre"]
 date: 08-03-2021
 source:
 published: true
@@ -92,7 +92,7 @@ published: true
 - [Docker Bench](https://github.com/docker/docker-bench-security)
 - [K8s guard: Kubernetes Authentication & Authorization WebHook Server](https://github.com/appscode/guard)
 - [Falco: runtime security](https://falco.org/docs/)
-- [KubeScape: k8s security](https://github.com/kubescape/kubescape)
+- [KubeScape: k8s security CIS](https://github.com/kubescape/kubescape)
 
 ### Pod Security
 

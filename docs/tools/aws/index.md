@@ -19,6 +19,7 @@ date: 14-10-2022
 - [EKS and AWS automation](https://github.com/orgs/aws-ia/repositories?page=2&type=all)
 - [EKS: cdk blueprints](https://github.com/ik-kubernetes/cdk-eks-blueprints)
 - [EKS: cdk blueprints patterns](https://github.com/aws-samples/cdk-eks-blueprints-patterns)
+- [EKS: cdk blueprints](https://aws-quickstart.github.io/cdk-eks-blueprints/)
 
 ## EKS Pods
 
