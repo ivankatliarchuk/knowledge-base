@@ -92,7 +92,7 @@ published: true
 - [Docker Bench](https://github.com/docker/docker-bench-security)
 - [K8s guard: Kubernetes Authentication & Authorization WebHook Server](https://github.com/appscode/guard)
 - [Falco: runtime security](https://falco.org/docs/)
-- [KubeScape](https://github.com/kubescape/kubescape)
+- [KubeScape: k8s security](https://github.com/kubescape/kubescape)
 
 ### Pod Security
 
