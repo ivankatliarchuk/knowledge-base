@@ -17,7 +17,7 @@ published: true
 | CodeMentor          | 💰                        | N/A      |       | [url][codementor]       |
 | Exorcism            | 💰 or free                | N/A      |       | [url][exorcism.mentor]  |
 | AdpList             | free                      | N/A      |       | [url][adplist]          |
-
+| Mender              | 💰                        | N/A      |       | [url][mender]          |
 
 <!-- resources -->
 [platohq]: https://www.platohq.com
@@ -27,3 +27,4 @@ published: true
 [codementor]: https://www.codementor.io
 [exorcism.mentor]: https://exercism.org/mentoring
 [adplist]: https://adplist.org
+[mender]: https://meander.so/
