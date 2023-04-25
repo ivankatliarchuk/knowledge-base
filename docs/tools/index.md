@@ -8,6 +8,11 @@ date: 2021-03-24
 
 - [All sorts of tooling](https://github.com/cjbarber/ToolsOfTheTrade)
 
+## Platforms
+
+- [Backstage](https://backstage.io/)
+- [Port](https://www.getport.io/)
+
 ## Home Automation
 
 - [Home Assistant](https://www.home-assistant.io/hassio/)
