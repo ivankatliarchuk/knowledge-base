@@ -47,38 +47,46 @@ date: 2021-04-25
 
 ## Resume Generator
 
-- [Generate Resume: mostly for fun](https://thisresumedoesnotexist.com)
+- [Generate Resume: mostly for fun](https://thisresumedoesnotexist.com){:target="_blank"}
+
+## Content Creation
+
+- [Writing Editors](https://editorninja.com){:target="_blank"}
 
 ## AI (artificial Intelligence)
 
-- [ChapGPT](https://chat.openai.com/chat)
-- [Synthesia (create videos from plain text in minutes)](https://www.synthesia.io/)
-- [Descript (edit video and podcasts with AI)](https://www.descript.com/)
-- [Murf.ai (real people voices)](https://murf.ai/)
-- [Pictory (vide creation made easy)](https://pictory.ai/)
-- [Invideo (video with templates)](https://invideo.io)
-- [Genereate image with AI 10/10](https://app.leonardo.ai/)
-- [Generate images with AI](https://docs.midjourney.com/)
-- [Generate images with AI. Playground AI](https://playgroundai.com/)
-- [Generate images with AI. DALL-E](https://labs.openai.com/)
+- [ChapGPT](https://chat.openai.com/chat){:target="_blank"}
+- [Synthesia (create videos from plain text in minutes)](https://www.synthesia.io/){:target="_blank"}
+- [Descript (edit video and podcasts with AI)](https://www.descript.com/){:target="_blank"}
+- [Murf.ai (real people voices)](https://murf.ai/){:target="_blank"}
+- [Pictory (vide creation made easy)](https://pictory.ai/){:target="_blank"}
+- [Invideo (video with templates)](https://invideo.io){:target="_blank"}
+- [Genereate image with AI 10/10](https://app.leonardo.ai/){:target="_blank"}
+- [Generate images with AI](https://docs.midjourney.com/){:target="_blank"}
+- [Generate images with AI. Playground AI](https://playgroundai.com/){:target="_blank"}
+- [Generate images with AI. DALL-E](https://labs.openai.com/){:target="_blank"}
 
-- [Build website with AI](https://www.mixo.io/)
-- [Build website with AI](https://durable.co/)
+- [Build website with AI](https://www.mixo.io/){:target="_blank"}
+- [Build website with AI](https://durable.co/){:target="_blank"}
 
 ### AI create music
 
-- [Create music with AI](https://www.beatoven.ai/)
-- [Music editing with AI](https://cleanvoice.ai/)
+- [Create music with AI](https://www.beatoven.ai/){:target="_blank"}
+- [Music editing with AI](https://cleanvoice.ai/){:target="_blank"}
 
+### AI Create Writing
+
+- [Content At scale](https://contentatscale.ai/){:target="_blank"}
+- [Jasper create blog posts](https://www.jasper.ai/){:target="_blank"}
 
 ### AI Create Presentation
 
-- [Tome App presentations](https://beta.tome.app/)
+- [Tome App presentations](https://beta.tome.app/){:target="_blank"}
 
 
 ## Productivity
 
-- [Canva (video editing, image generation)](https://www.canva.com/)
+- [Canva (video editing, image generation)](https://www.canva.com/){:target="_blank"}
 
 <!-- resource links -->
 [top-wallpapers]: https://wallhaven.cc/toplist
