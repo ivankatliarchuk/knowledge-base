@@ -147,6 +147,7 @@ published: true
 - [Tilt dev](https://tilt.dev/)
 - [Draft (app on k8s fast)](https://github.com/Azure/draft/)
 - [Kapp (simple deployment tool)](https://github.com/carvel-dev/kapp)
+- [Shipmight. Shipmight is a Developer Platform which runs on any Kubernetes cluster.](https://shipmight.com/)
 
 ## Development
 
