@@ -20,7 +20,7 @@ mkdocs==1.4.2
 mkdocs-autolinks-plugin==0.7.0
 mkdocs-awesome-pages-plugin==2.9.0
 mkdocs-literate-nav==0.6.0
-mkdocs-material==9.1.8
+mkdocs-material==9.1.9
 mkdocs-material-extensions==1.1.1
 mkdocs-minify-plugin==0.6.4
 mkdocs-monorepo-plugin==1.0.4
