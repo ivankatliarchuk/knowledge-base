@@ -87,6 +87,7 @@ date: 2021-04-25
 ## Productivity
 
 - [Canva (video editing, image generation)](https://www.canva.com/){:target="_blank"}
+- [Loom: create video with eas](https://www.loom.com/){:target="_blank"}
 
 <!-- resource links -->
 [top-wallpapers]: https://wallhaven.cc/toplist
