@@ -54,3 +54,7 @@ published: true
 - [Pritunl](https://pritunl.com)
 - [Teleport](https://github.com/gravitational/teleport)
 
+## Kafka Helpers
+
+- [kafka ui](https://github.com/provectus/kafka-ui)
+- [kafka virtualization](https://softwaremill.com/kafka-visualisation/)
