@@ -181,3 +181,4 @@ published: true
 - [Scurio: Alertmanager to Kubernetes Node conditions bridge ](https://github.com/cloudflare/sciuro)
 - [Draino: drains nodes but does so based on Kubernetes node conditions](https://github.com/planetlabs/draino)
 - [Node problem detector is a daemon that runs on each node that detects problems and reports them to the Kubernetes API.](https://github.com/kubernetes/node-problem-detector)
+- [Kured: Kubernetes Reboot Daemon](https://github.com/kubereboot/kured)
