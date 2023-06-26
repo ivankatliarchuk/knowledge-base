@@ -5,6 +5,10 @@ authors: ["ivan k"]
 tags: ['tools', 'paas', 'platform']
 date: 26-06-2023
 source:
+- https://platform9.com/managed-kubernetes/
+- https://cloud.gov/docs/overview/what-is-cloudgov/
+- https://engineering.18f.gov/release-strategies/
+- https://solutionshub.epam.com/blog/post/accelerate-microservices-development-with-epam-delivery-platform-edp
 published: true
 ---
 
@@ -19,3 +23,9 @@ published: true
 - [Kapp (simple deployment tool)](https://github.com/carvel-dev/kapp)
 - [Shipmight. Shipmight is a Developer Platform which runs on any Kubernetes cluster.](https://shipmight.com/)
 - [PAASta: An open, distributed platform as a service ](https://github.com/Yelp/paasta)
+- [Kubezero: ZeroDownTime Kubernetes Platform](https://git.zero-downtime.net/ZeroDownTime/kubezero)
+- [Epam Delivery Platform](https://github.com/epam/edp-install)
+
+### Platform Playbooks and Docs
+
+- [EqualExperts platform playbook](https://github.com/ivankatliarchuk/digital-platform-playbook/)
