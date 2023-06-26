@@ -174,3 +174,7 @@ published: true
 
 - [Kubegrunt](https://github.com/gruntwork-io/kubergrunt#cleanup-security-group)
 - [k8s scripts](https://github.com/ik-scripting/scripts/tree/master/k8s)
+
+## K8S Drainer
+
+- [automatic-remediation-of-kubernetes-nodes](https://blog.cloudflare.com/automatic-remediation-of-kubernetes-nodes/)
