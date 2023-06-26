@@ -2,7 +2,7 @@
 title: k8s tooling
 summary: Kubernetes tooling
 authors: ["ivan k"]
-tags: ["tools", "k8s", "kubernetes", "k8s", "cis", "mitre"]
+tags: ["tools", "k8s", "kubernetes", "k8s", "cis", "mitre", 'paas']
 date: 08-03-2021
 source:
 published: true
@@ -139,15 +139,6 @@ published: true
 - [OneInfra](https://github.com/ik-kubernetes/oneinfra)
 - [Krucible](https://usekrucible.com/plans)
 - [Digital.ai](https://docs.digital.ai/)
-
-### K8s Deployments (k8s platforms)
-
-- [Shipa: kubernetes (k8s) deploy](https://shipa.io/)
-- [Kubevela](https://kubevela.io/)
-- [Tilt dev](https://tilt.dev/)
-- [Draft (app on k8s fast)](https://github.com/Azure/draft/)
-- [Kapp (simple deployment tool)](https://github.com/carvel-dev/kapp)
-- [Shipmight. Shipmight is a Developer Platform which runs on any Kubernetes cluster.](https://shipmight.com/)
 
 ## Development
 
