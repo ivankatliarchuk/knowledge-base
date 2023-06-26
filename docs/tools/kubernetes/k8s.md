@@ -178,3 +178,6 @@ published: true
 ## K8S Drainer
 
 - [automatic-remediation-of-kubernetes-nodes](https://blog.cloudflare.com/automatic-remediation-of-kubernetes-nodes/)
+- [Scurio: Alertmanager to Kubernetes Node conditions bridge ](https://github.com/cloudflare/sciuro)
+- [Draino: drains nodes but does so based on Kubernetes node conditions](https://github.com/planetlabs/draino)
+- [Node problem detector is a daemon that runs on each node that detects problems and reports them to the Kubernetes API.](https://github.com/kubernetes/node-problem-detector)
