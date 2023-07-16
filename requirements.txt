@@ -3,7 +3,7 @@ bracex==2.3.post1
 cairocffi==1.6.0
 CairoSVG==2.7.0
 cffi==1.15.1
-click==8.1.4
+click==8.1.5
 cssselect2==0.7.0
 defusedxml==0.7.1
 future==0.18.3
@@ -31,7 +31,7 @@ nltk==3.8.1
 Pillow==10.0.0
 pycparser==2.21
 Pygments==2.15.1
-pymdown-extensions==10.0.1
+pymdown-extensions==10.1
 Pyphen==0.14.0
 PyYAML==6.0
 regex==2023.6.3
