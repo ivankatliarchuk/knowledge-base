@@ -2,7 +2,7 @@
 title: k8s tooling
 summary: Kubernetes tooling
 authors: ["ivan k"]
-tags: ["tools", "k8s", "kubernetes", "k8s", "cis", "mitre", 'paas']
+tags: ["tools", "k8s", "kubernetes", "k8s", "cis", "mitre", 'paas', 'security']
 date: 08-03-2021
 source:
 published: true
