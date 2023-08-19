@@ -38,7 +38,7 @@ regex==2023.6.3
 six==1.16.0
 soupsieve==2.4.1
 tinycss2==1.2.1
-tornado==6.3.2
+tornado==6.3.3
 tqdm==4.65.0
 wcmatch==8.4.1
 WeasyPrint==59.0
