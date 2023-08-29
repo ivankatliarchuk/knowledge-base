@@ -30,6 +30,7 @@ published: true
 - [Static Analysis: static analysis tools for all programming languages][aw-static-analysis]{:target="_blank"}
 - [Scalability: the Patterns of Scalable, Reliable, and Performant Large-Scale Systems][aw-scalability]{:target="_blank"}
 - [Monorepo: curated list of awesome Monorepo tools, software and architectures.][aw-monorepo]{:target="_blank"}
+- [Monorepo: tools](https://monorepo.tools/){:target="_blank"}
 
 ### DevOps & SRE
 
