@@ -2,7 +2,7 @@ beautifulsoup4==4.12.2
 bracex==2.4
 cairocffi==1.6.1
 CairoSVG==2.7.1
-cffi==1.15.1
+cffi==1.16.0
 click==8.1.7
 cssselect2==0.7.0
 defusedxml==0.7.1
@@ -20,8 +20,8 @@ mkdocs==1.5.3
 mkdocs-autolinks-plugin==0.7.1
 mkdocs-awesome-pages-plugin==2.9.2
 mkdocs-literate-nav==0.6.1
-mkdocs-material==9.3.2
-mkdocs-material-extensions==1.1.1
+mkdocs-material==9.4.3
+mkdocs-material-extensions==1.2
 mkdocs-minify-plugin==0.7.1
 mkdocs-monorepo-plugin==1.0.5
 mkdocs-pdf-export-plugin==0.5.10
@@ -34,12 +34,12 @@ Pygments==2.16.1
 pymdown-extensions==10.3
 Pyphen==0.14.0
 PyYAML==6.0.1
-regex==2023.8.8
+regex==2023.10.3
 six==1.16.0
 soupsieve==2.5
 tinycss2==1.2.1
 tornado==6.3.3
 tqdm==4.66.1
 wcmatch==8.5
-WeasyPrint==59.0
+WeasyPrint==60.1
 webencodings==0.5.1
