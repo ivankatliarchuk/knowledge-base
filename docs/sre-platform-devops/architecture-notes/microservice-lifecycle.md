@@ -3,7 +3,7 @@ title: high level system design
 summary: Design System
 authors:
 - ivan k
-tags: ["architecture", "design", "system"]
+tags: ["architecture", "design", "system", "system design"]
 date: 2021-03-8
 source:
 published: true
@@ -12,6 +12,8 @@ published: true
 !!! note "system design"
     The document contains information related to microservices design and implementation.
     Implementation strategies, PROS and CONS for different approaches.
+
+- [System Design 101](https://github.com/ivankatliarchuk/system-design-101)
 
 *System Planning Lifecycle*
 
