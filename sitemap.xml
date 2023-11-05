@@ -431,6 +431,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ivankatliarchuk.github.io/tools/bots/</loc>
+         <lastmod>2023-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ivankatliarchuk.github.io/tools/cicd/</loc>
          <lastmod>2023-11-05</lastmod>
          <changefreq>daily</changefreq>
