@@ -1,0 +1,56 @@
+title Gitlab CI evolution
+
+anchor Engineering [0.94, 0.78]
+anchor Docker in Docker [0.49, 0.47]
+anchor Pipeline as Product & Snippets [0.19, 0.54]
+anchor Usage Metrics [0.72, 0.60]
+anchor Any Job [0.62, 0.53]
+anchor Supply Chain Hardening [0.27, 0.41]
+
+component Gitlab SaaS [0.72, 0.78] (buy) label [10, -20]
+component Gitlab SaaS UI [0.66, 0.90] label [5, -10]
+component Gitlab Saas Runners [0.12, 0.71] label [5, -10]
+component Gitlab Runners Tags [0.33, 0.70] label [12, -20]
+component Gitlab Runners Size Env Vars [0.06, 0.20] label [16, -34]
+component Gitlab on EC2 [0.13, 0.18] (build) label [-26, -35]
+component Gitlab on EKS [0.30, 0.21] (build) label [-35, -37]
+// evolution
+ecosystem Gitlab HnBi [0.53, 0.18] label [-89, -54]
+evolve Gitlab HnBi 0.31 label [-89, -54]
+
+Gitlab SaaS->Gitlab Runners Tags
+Gitlab SaaS->Gitlab SaaS UI
+Gitlab SaaS->Gitlab Saas Runners
+
+Gitlab HnBi->Gitlab SaaS UI
+Gitlab on EKS->Gitlab SaaS UI
+Gitlab on EKS->Gitlab Runners Size Env Vars
+Gitlab on EC2->Gitlab SaaS UI
+Gitlab on EC2->Gitlab Runners Tags
+
+// engineering
+Engineering->Gitlab SaaS UI
+
+// gitlab platform
+Any Job->Gitlab HnBi
+Docker in Docker->Gitlab HnBi
+Usage Metrics->Gitlab HnBi
+Supply Chain Hardening->Gitlab HnBi
+Pipeline as Product & Snippets->Gitlab HnBi
+Any Job->Gitlab Saas Runners
+Docker in Docker->Gitlab Saas Runners
+
+style wardley
+
+annotation 1 [0.31, 0.64] Standardising tags allows Ci platform to evolve faster
+annotation 2 [[0.25,0.35],[0.42,0.44] ] The UI remains consistent regardless of the underlying technology.
+annotation 3 [0.43, 0.72] Runner tags are obvious and well known
+annotation 4 [0.23, 0.21] Kubernetes specific job sizes
+annotations [0.81, -0.00]
+
+note Areas to focus: [0.95, 0.02]
+note * Ability to swap underlying platform with ease [0.93, 0.02]
+note * No migration is needed for engineering [0.91, 0.02]
+note * Supply chain hardening [0.89, 0.02]
+note * Usage and Observability monitoring [0.87, 0.02]
+note * Stability and scalability [0.85, 0.02]
