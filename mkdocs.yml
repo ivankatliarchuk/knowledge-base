@@ -144,3 +144,5 @@ nav:
       - ... | tools/kubernetes/*.md
   - Properties&Travel:
     - ... | travel/*.md
+  - Companies&Ideas:
+    - ... | ideas/*.md
