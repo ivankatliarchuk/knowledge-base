@@ -26,6 +26,7 @@ published: true
 - [Kubezero: ZeroDownTime Kubernetes Platform](https://git.zero-downtime.net/ZeroDownTime/kubezero)
 - [Epam Delivery Platform](https://github.com/epam/edp-install)
 - [Rackspace fanatical support](https://docs.rackspace.com/docs/amazon-web-services)
+- [Bedrock](https://bedrock.io/features)
 
 ### Platform Playbooks and Docs
 
