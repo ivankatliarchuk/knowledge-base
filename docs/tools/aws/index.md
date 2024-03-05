@@ -24,3 +24,8 @@ date: 14-10-2022
 ## EKS Pods
 
 - [Pod Identity webhook](https://github.com/aws/amazon-eks-pod-identity-webhook)
+
+## EKS update
+
+- [EKS rolling update](https://github.com/hellofresh/eks-rolling-update)
+- [EKS cluster upgrade](https://github.com/aws-samples/eks-cluster-upgrade)
