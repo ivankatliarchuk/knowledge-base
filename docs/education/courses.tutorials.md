@@ -95,3 +95,8 @@ published: true
 
 - [X] [Coursera: Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos/)
 - [X] [Coursera: Developing a Google SRE Culture](https://www.coursera.org/learn/developing-a-google-sre-culture)
+
+### Online Schools
+
+- [Educative](https://www.educative.io/explore)
+- [Hack The Box](https://www.hackthebox.com/)
