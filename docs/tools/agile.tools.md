@@ -24,6 +24,9 @@ published: true
 - [Cloud Craft: build cloud diagrams](https://cloudcraft.co/)
 - [UX: customer journey map and personas templates](https://uxpressia.com/templates){:target="_blank"}
 - [Whimsical: notes, mind maps, customer jorney](whimsical.com){:target="_blank"}
+- [SchetchWoW 💲💲](https://sketchwow.com/){:target="_blank"}
+- [Figjam: notes, mind maps, customer](https://www.figma.com/figjam/){:target="_blank"}
+- [Mural](https://www.mural.co/templates){:target="_blank"}
 
 ## Agile Practices
 

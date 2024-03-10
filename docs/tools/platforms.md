@@ -27,6 +27,7 @@ published: true
 - [Epam Delivery Platform](https://github.com/epam/edp-install)
 - [Rackspace fanatical support](https://docs.rackspace.com/docs/amazon-web-services)
 - [Bedrock](https://bedrock.io/features)
+- [OpenShift container platform](https://docs.openshift.com/container-platform/4.15/welcome/index.html)
 
 ### Platform Playbooks and Docs
 
