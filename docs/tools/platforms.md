@@ -28,6 +28,7 @@ published: true
 - [Rackspace fanatical support](https://docs.rackspace.com/docs/amazon-web-services)
 - [Bedrock](https://bedrock.io/features)
 - [OpenShift container platform](https://docs.openshift.com/container-platform/4.15/welcome/index.html)
+- [Harness: platform](https://developer.harness.io/docs/continuous-delivery)
 
 ### Platform Playbooks and Docs
 
