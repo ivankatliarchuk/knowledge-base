@@ -96,6 +96,10 @@ published: true
 - [KubeScape: k8s security CIS](https://github.com/kubescape/kubescape)
 - [InToto: supply chain security](https://in-toto.io/)
 
+#### Networking
+
+- [Kubeshark](https://github.com/kubeshark/kubeshark)
+
 ### Pod Security
 
 - [Seccomp](https://kubesec.io/basics/metadata-annotations-seccomp-security-alpha-kubernetes-io-pod)
