@@ -46,12 +46,20 @@ date: 2021-04-18
 - [AWS Inventory](https://github.com/nccgroup/aws-inventory)
 - [AWS Iam: clouds planning](https://github.com/salesforce/cloudsplaining)
 - [Audit page](./audit.md)
+- [Project Discovery](https://docs.projectdiscovery.io/introduction)
 
 ## Tools
 
 - [Security Tools](https://github.com/ivankatliarchuk/my-arsenal-of-aws-security-tools)
 - [BDD sec testing tool](https://iriusrisk.com/open-source/)
 - [God Damn SEcurity Tooling](https://github.com/appsecco)
+
+### Vulnerability scanners
+
+- [Trivy](https://github.com/aquasecurity/trivy)
+- [Clair](https://github.com/quay/clair)
+- [OpenVAS](https://github.com/greenbone/openvas-scanner)
+- [Linus](https://github.com/CISOfy/lynis)
 
 ## Distro
 
