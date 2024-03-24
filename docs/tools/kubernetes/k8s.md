@@ -159,10 +159,11 @@ published: true
 
 - [KubeCFG](https://github.com/bitnami/kubecfg)
 - [Kustomize](https://github.com/kubernetes-sigs/kustomize)
-- [Kaptan](https://github.com/deepmind/kapitan)
+- [Kapitan](https://github.com/deepmind/kapitan)
 - [KubeZero](https://github.com/Zero-Down-Time/kubezero)
 - [K8s at home](https://github.com/k8s-at-home/charts)
 - [Klucctl](https://kluctl.io/)
+- [Garden deploy](https://github.com/garden-io/garden)
 
 ## Multi Cloud
 
