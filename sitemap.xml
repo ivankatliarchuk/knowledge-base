@@ -236,6 +236,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ivankatliarchuk.github.io/sre-platform-devops/zero-trust/</loc>
+         <lastmod>2024-03-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ivankatliarchuk.github.io/sre-platform-devops/architecture-notes/audits/</loc>
          <lastmod>2024-03-31</lastmod>
          <changefreq>daily</changefreq>
