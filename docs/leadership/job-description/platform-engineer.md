@@ -80,7 +80,7 @@ Public Github or similar account (bonus point)
 
 # Platform Engineer (job description mid level)
 
-Holland & Barrett International is one of the world’s leading health and wellness retailers and the largest in Europe, supplying its customers with a wide range of vitamins, minerals, health supplements, specialist foods, and natural beauty products with over 145 years of experience in the industry. The majority of our a portfolio is based in the UK with owned stores, we also have stores in Belgium, Sweden, Holland, and the Republic of Ireland. Our name is a familiar sight in almost every major city and town across the UK and is becoming increasingly more visible further afield, in markets as diverse as the Netherlands and Malta to the UAE, China and India.
+Firm is one of the world’s leading health and wellness retailers and the largest in Europe, supplying its customers with a wide range of vitamins, minerals, health supplements, specialist foods, and natural beauty products with over 145 years of experience in the industry. The majority of our a portfolio is based in the UK with owned stores, we also have stores in Belgium, Sweden, Holland, and the Republic of Ireland. Our name is a familiar sight in almost every major city and town across the UK and is becoming increasingly more visible further afield, in markets as diverse as the Netherlands and Malta to the UAE, China and India.
 
 We are looking for a Platform Engineer to join our team. As a Platform Engineer, you will be responsible for designing, building, and maintaining company-wide platforms and abstractions. You will work closely with our developers, data engineers, Cyber Security, and other stakeholders to create a robust and efficient platform that meets the needs of our customers. The ideal candidate should have a strong understanding of automation, deployment abstractions and processes improvements.
 
@@ -173,7 +173,7 @@ If you're interested in this position, please send your resume and portfolio to 
 
 ----
 
-Holland & Barrett International is one of the world’s leading health and wellness
+Firm is one of the world’s leading health and wellness
 retailers and the largest in Europe, supplying its customers with a wide range of
 vitamins, minerals, health supplements, specialist foods and natural beauty
 products with over 145 years of experience in the industry. The majority of our
