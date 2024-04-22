@@ -30,3 +30,4 @@ Cost allocation - cost-allocation:business-unit ->   engineering, networking rec
 - [Tagging rules](https://peritossolutions.com/aws/aws-tagging-rules/)
 - [Tagging restrictions](https://docs.aws.amazon.com/mediaconnect/latest/ug/tagging-restrictions.html)
 - [Tagging assets](../../assets/tagging/)
+- [Tagging ](https://github.com/ik-cloud/aws-enterprise-naming-tagging-standard)
