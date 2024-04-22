@@ -89,3 +89,36 @@ In the following label example, _altostrat_ corresponds to the name of the enter
 | altostrat-component | frontend, cache, application, database | Finance | Google Cloud resources | Optional |
 | altostrat-app | shopping-cart-payment | Finance | Google Cloud resources | No. There's an exception for multi-tenant resources where there is no 1:1 mapping with the application. |
 | altostrat-compliance | pci, hipaa | Security | Google Cloud resources | Optional |
+
+#### **Label all you need**
+
+Labels are a key-value pair so use that to your advantage to add in as much data as you need onto them.
+
+Here are some examples of labels to use:
+
+1.  _Environment names_
+    Labeling a resource as belonging to development, staging, testing, production, etc. is always a safe choice so searching for all resources in production later for a billing report is much easier.
+2.  _Role_
+    If you have a set of Compute Engine resources acting as web servers, another set in a GKE cluster, and one for a database server label them as such.
+3.  _Application name
+    _Using the application name as a label makes it easier to group resources by the business project or application they are associated with makes it easier to look at costs per application.
+4.  _Region name
+    _If your application or project stretches multiple regions adding the region value will help sort them later. This can be the GCP region name, a logical region you have setup in your application, or having a label for each.
+5.  _Resource Creator
+    _Putting the name of the creator in a label will help sort out who created what resource later instead of having to dig through audit logs that may or may not have been retained.
+6.  _Owner or maintainer
+    _Labeling a resource with the owner or maintainer’s name assists in who to contact in the case of an issue or question later. A common example of this would be the team that owns or maintains the resource.
+7.  _Cost, billing, or budget code
+    _Some organizations have codes for different expenditures or budgets. Adding these into the label makes it easier for billing administrators or auditors to track these.
+8.  _Department_
+    If the resource belongs to a certain department then adding it as a label makes it easier to track down a department later.
+9.  _Bucket name (Google Cloud Storage only)
+    _If you have ever had to look at a GCP billing report or invoice you realize it groups all of the storage buckets together into one line item. This is a nightmare if you want to know what each bucket costs, so adding the bucket name as a label to each bucket will allow this to be broken out into separate line items.
+10.  _Associated resource name
+    _If you have a resource that’s tied to another resource it’s a good idea to add a label naming that resource to it. Examples of this might be a persistent disk tied to a Compute Engine instance or a Dataproc cluster. An external IP that is tied to a Compute Engine managed instance group is a great example of this as well.
+11.  _Data classification
+    _This is a broad labeling use case, but if you have any sort of data that needs to be labeled in a bucket or BigQuery dataset then add a label for it to denote this. Examples might be data that falls under regulatory compliance such as HIPAA or PCI or encrypted data. It’s best to label these resources with this so when a C-level executive asks how much money is spent on storing PHI (protected health information) per month it can be pulled up very quickly.
+12.  _Resource state_
+    If a resource is active, pending deletion, disabled, etc. then labeling it as so makes it very easy to see how much is being billed to resources in a particular state.
+13.  _Folder or organization name
+    _If you utilize folders or different organizational units in your organizational structure make a label them to be able to see what each organization or folder costs you later.
