@@ -18,6 +18,11 @@ published: true
 
 - [Owasp Best Practices](https://cheatsheetseries.owasp.org/index.html)
 
+## Platform Strategies
+
+- [Resource naming](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
+- [Tagging strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging)
+
 ## Tagging
 
 ```
