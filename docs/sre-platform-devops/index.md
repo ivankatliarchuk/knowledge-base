@@ -32,6 +32,7 @@ Cost allocation - cost-allocation:business-unit ->   engineering, networking rec
 - [Tagging assets](../../assets/tagging/)
 - [Tagging ](https://github.com/ik-cloud/aws-enterprise-naming-tagging-standard)
 - [Tagging and Labeling Best practices](https://www.doit.com/google-cloud-platform-resource-labeling-best-practices/)
+- [Azure Tagging](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming-and-tagging-decision-guide)
 
 Note that standardizing on and adhering to a labeling policy is crucial for centrally-managed labels. Product teams and departments can also add custom labels to resources to share team-specific information. For more information, see [Apply non-standard labels](https://cloud.google.com/resource-manager/docs/best-practices-labels#nonstandardlabels).
 
