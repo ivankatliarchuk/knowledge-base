@@ -95,6 +95,7 @@ published: true
 - [Falco: runtime security](https://falco.org/docs/)
 - [KubeScape: k8s security CIS](https://github.com/kubescape/kubescape)
 - [InToto: supply chain security](https://in-toto.io/)
+- [Capsule](https://capsule.clastix.io/docs/)
 
 #### Networking
 
