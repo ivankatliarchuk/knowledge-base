@@ -56,6 +56,9 @@ date: 2021-04-25
 ## AI (artificial Intelligence)
 
 - [ChapGPT](https://chat.openai.com/chat){:target="_blank"}
+- [Gemini](https://gemini.google.com/app/){:target="_blank"}
+- [Claude](https://claude.ai/chats){:target="_blank"}
+
 - [Synthesia (create videos from plain text in minutes)](https://www.synthesia.io/){:target="_blank"}
 - [Descript (edit video and podcasts with AI)](https://www.descript.com/){:target="_blank"}
 - [Murf.ai (real people voices)](https://murf.ai/){:target="_blank"}
@@ -65,6 +68,7 @@ date: 2021-04-25
 - [Generate images with AI](https://docs.midjourney.com/){:target="_blank"}
 - [Generate images with AI. Playground AI](https://playgroundai.com/){:target="_blank"}
 - [Generate images with AI. DALL-E](https://labs.openai.com/){:target="_blank"}
+- [Generate images with AI. deepai](https://deepai.org/machine-learning-model){:target="_blank"}
 
 - [Build website with AI](https://www.mixo.io/){:target="_blank"}
 - [Build website with AI](https://durable.co/){:target="_blank"}
