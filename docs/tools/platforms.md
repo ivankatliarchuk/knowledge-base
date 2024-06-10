@@ -25,6 +25,7 @@ published: true
 - [PAASta: An open, distributed platform as a service ](https://github.com/Yelp/paasta)
 - [Kubezero: ZeroDownTime Kubernetes Platform](https://git.zero-downtime.net/ZeroDownTime/kubezero)
 - [Epam Delivery Platform](https://github.com/epam/edp-install)
+- [Deckhouse: platform werf](https://github.com/deckhouse/deckhouse)
 - [Rackspace fanatical support](https://docs.rackspace.com/docs/amazon-web-services)
 - [Bedrock](https://bedrock.io/features)
 - [OpenShift container platform](https://docs.openshift.com/container-platform/4.15/welcome/index.html)
