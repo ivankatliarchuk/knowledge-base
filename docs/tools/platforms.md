@@ -35,3 +35,7 @@ published: true
 ### Platform Playbooks and Docs
 
 - [EqualExperts platform playbook](https://github.com/ivankatliarchuk/digital-platform-playbook/)
+
+### Scorecards
+
+- [Cortex: scorecards](https://app.demo.getcortexapp.com/)
