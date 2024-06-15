@@ -27,6 +27,7 @@ published: true
 - [SchetchWoW 💲💲](https://sketchwow.com/){:target="_blank"}
 - [Figjam: notes, mind maps, customer](https://www.figma.com/figjam/){:target="_blank"}
 - [Mural](https://www.mural.co/templates){:target="_blank"}
+- [Excalidraw is a virtual collaborative whiteboard](https://excalidraw.com/){:target="_blank"}
 
 ## Agile Practices
 
