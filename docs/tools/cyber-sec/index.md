@@ -22,3 +22,9 @@ date: 14-10-2022
 - [Track Development Changes](https://crashoverride.com/open-source)
 - [Container signing. Trust](https://www.docker.com/blog/signing-docker-official-images-using-openpubkey/)
 - [Open Pub Key](https://github.com/openpubkey/openpubkey)
+
+## Containers
+
+- [OpenContainers](https://opencontainers.org/)
+- [Oci image spec](https://github.com/opencontainers/image-spec)
+- [Docker label schema convention](http://label-schema.org/rc1/)
