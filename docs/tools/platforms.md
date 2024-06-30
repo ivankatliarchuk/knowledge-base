@@ -33,6 +33,7 @@ published: true
 - [Humanitec Platform](https://humanitec.com/)
 - [Bunnishell: developer IDP](https://www.bunnyshell.com/)
 - [Kratix: plaform](https://github.com/syntasso/kratix)
+- [Appvia: platform](https://www.appvia.io/terranetes)
 
 ### Platform Playbooks and Docs
 
