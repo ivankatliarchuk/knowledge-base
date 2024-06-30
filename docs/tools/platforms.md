@@ -31,6 +31,8 @@ published: true
 - [OpenShift container platform](https://docs.openshift.com/container-platform/4.15/welcome/index.html)
 - [Harness: platform](https://developer.harness.io/docs/continuous-delivery)
 - [Humanitec Platform](https://humanitec.com/)
+- [Bunnishell: developer IDP](https://www.bunnyshell.com/)
+- [Kratix: plaform](https://github.com/syntasso/kratix)
 
 ### Platform Playbooks and Docs
 
