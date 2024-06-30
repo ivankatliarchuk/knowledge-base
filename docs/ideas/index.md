@@ -15,3 +15,10 @@ date: 27-Jan-2024
 - [Apptio](https://www.apptio.com/)
 - [Vantage](https://www.vantage.sh/)
 - [Cloudbolt](https://www.cloudbolt.io/)
+
+### OpenSource project that could help
+
+- [Platform to view/manage projects](https://raystack-frontier.vercel.app/)
+- [cortex observability platform](https://github.com/TheHive-Project/Cortex)
+- [Cortex scorecards](https://docs.cortex.io/docs/reference/basics/scorecards)
+
