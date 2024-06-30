@@ -55,6 +55,7 @@ published: true
 - [OpenCost](http://opencost.io/)
 - [Krossboard: Centralized Multi-Cluster Kubernetes Usage Accounting](https://github.com/rchakode/kube-opex-analytics)
 - [KubeCost: Cross-cloud cost allocation](https://github.com/kubecost/cost-model)
+- [KubeGreen](https://kube-green.dev/docs/getting-started/)
 
 ## AWS Specific K8s Tooling
 
