@@ -13,7 +13,7 @@ htmlmin==0.1.12
 Jinja2==3.1.4
 joblib==1.4.2
 jsmin==3.0.1
-livereload==2.6.3
+livereload==2.7.0
 lunr
 MarkupSafe==2.1.5
 mkdocs==1.6.0
