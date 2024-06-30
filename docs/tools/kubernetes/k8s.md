@@ -70,6 +70,7 @@ published: true
 - [Sonobuoy](https://github.com/vmware-tanzu/sonobuoy)
 - [Jetstack Preflight](https://github.com/jetstack/preflight)
 - [KuberHealthy](https://github.com/Comcast/kuberhealthy)
+- [Canary checker](https://canarychecker.io/)
 
 ## Security
 
