@@ -52,6 +52,7 @@ published: true
 
 ## Kubernetes Costs
 
+- [K8s cost optimisation](https://github.com/ivankatliarchuk/kubetools?tab=readme-ov-file#cost-optimisation)
 - [OpenCost](http://opencost.io/)
 - [Krossboard: Centralized Multi-Cluster Kubernetes Usage Accounting](https://github.com/rchakode/kube-opex-analytics)
 - [KubeCost: Cross-cloud cost allocation](https://github.com/kubecost/cost-model)
@@ -68,10 +69,12 @@ published: true
 
 ## Diagnostics
 
+- [Kubernetes testing tools](https://github.com/ivankatliarchuk/kubetools#testing-tools)
 - [Sonobuoy](https://github.com/vmware-tanzu/sonobuoy)
 - [Jetstack Preflight](https://github.com/jetstack/preflight)
 - [KuberHealthy](https://github.com/Comcast/kuberhealthy)
 - [Canary checker](https://canarychecker.io/)
+- [TestKube: dual licence](https://docs.testkube.io/)
 
 ## Security
 
