@@ -13,3 +13,7 @@ published: true
 - [Authentic](https://goauthentik.io/)
 - [Keycloak](https://www.keycloak.org/)
 - [Official: Oauth2 proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+
+### Authorization
+
+- [Permissions database](https://github.com/authzed/spicedb)
