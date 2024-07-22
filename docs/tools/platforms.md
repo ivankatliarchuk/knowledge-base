@@ -34,6 +34,8 @@ published: true
 - [Bunnishell: developer IDP](https://www.bunnyshell.com/)
 - [Kratix: plaform](https://github.com/syntasso/kratix)
 - [Appvia: platform](https://www.appvia.io/terranetes)
+- [SpinKube: platform](https://www.spinkube.dev/docs/topics/packaging/)
+- [Fermyon: platform](https://developer.fermyon.com/)
 
 ### Platform Playbooks and Docs
 

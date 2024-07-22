@@ -35,7 +35,6 @@ published: true
 - [Brigate: event-driven scripting for Kubernetes][brigade]{:target="_blank"}
 - [Argocd](https://argoproj.github.io/argo-cd/){:target="_blank"}
 - [Tekton](https://github.com/tektoncd){:target="_blank"}
-- [Spinnaker](https://spinnaker.io/){:target="_blank"}
 
 <!-- resources -->
 
