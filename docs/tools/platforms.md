@@ -36,6 +36,7 @@ published: true
 - [Appvia: platform](https://www.appvia.io/terranetes)
 - [SpinKube: platform](https://www.spinkube.dev/docs/topics/packaging/)
 - [Fermyon: platform](https://developer.fermyon.com/)
+- [Komodor: platform based on kuberenetes](https://komodor.com/)
 
 ### Platform Playbooks and Docs
 

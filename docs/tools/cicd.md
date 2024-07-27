@@ -36,6 +36,11 @@ published: true
 - [Argocd](https://argoproj.github.io/argo-cd/){:target="_blank"}
 - [Tekton](https://github.com/tektoncd){:target="_blank"}
 
+
+## Gitops
+
+- [Kargo gitops](https://github.com/gofogo/kargo)
+
 <!-- resources -->
 
 [gke-cloud-build]: https://github.com/GoogleCloudPlatform/gke-gitops-tutorial-cloudbuild

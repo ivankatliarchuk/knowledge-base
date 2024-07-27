@@ -18,7 +18,6 @@ published: true
 
 ## Operational Control
 
-- [GitOps Controll](https://www.weave.works/use-cases/security-with-gitops)
 
 <!-- resources -->
 [ecs-ref-architecture]: https://github.com/awslabs/ecs-refarch-continuous-deployment
