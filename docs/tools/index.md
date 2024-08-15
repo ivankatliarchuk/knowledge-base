@@ -75,3 +75,4 @@ date: 2021-03-24
 - [Mock API: json place holder](https://jsonplaceholder.typicode.com)
 - [Random Data](https://random-data-api.com/documentation)
 - [Mock API: mountbank](http://www.mbtest.org/)
+- [Mock API: mockae](https://mockae.com/)
