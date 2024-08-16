@@ -74,7 +74,7 @@ published: true
 - [Jetstack Preflight](https://github.com/jetstack/preflight)
 - [KuberHealthy](https://github.com/Comcast/kuberhealthy)
 - [Canary checker](https://canarychecker.io/)
-- [TestKube: dual licence](https://docs.testkube.io/)
+- [TestKube: dual license](https://docs.testkube.io/)
 
 ## Security
 
@@ -188,6 +188,10 @@ published: true
 
 - [Kubegrunt](https://github.com/gruntwork-io/kubergrunt#cleanup-security-group)
 - [k8s scripts](https://github.com/ik-scripting/scripts/tree/master/k8s)
+
+## Secrets
+
+- [Infiscal: platform with secrets management](https://infisical.com)
 
 ## K8S Drainer
 
