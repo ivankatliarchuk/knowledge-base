@@ -29,6 +29,7 @@ date: 2021-04-18
 - [Open Policy](https://www.openpolicyagent.org/)
 - [Kubernetes Open Policy](https://github.com/sighupio/gatekeeper-policy-manager)
 - [Kuverno: kubernetes policy engine](https://kyverno.io/#td-block-1)
+- [Kubewarden](https://charts.kubewarden.io/)
 
 ## Store Secrets
 
