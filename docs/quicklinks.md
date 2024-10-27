@@ -69,7 +69,7 @@ date: 2021-04-25
 - [Generate images with AI. Playground AI](https://playgroundai.com/){:target="_blank"}
 - [Generate images with AI. DALL-E](https://labs.openai.com/){:target="_blank"}
 - [Generate images with AI. deepai](https://deepai.org/machine-learning-model){:target="_blank"}
-
+- [Canva: generate with ai](https://www.canva.com/){:target="_blank"}
 - [Build website with AI](https://www.mixo.io/){:target="_blank"}
 - [Build website with AI](https://durable.co/){:target="_blank"}
 
