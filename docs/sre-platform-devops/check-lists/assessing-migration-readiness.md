@@ -81,7 +81,7 @@ published: true
 -❗ Expirience Baseline
 -❗ Organisational Training
 
-### ❗  Migration Processs & Expirience
+### ❗  Migration Process & Experience
 
-- 🟨 Migration Expirience
+- 🟨 Migration Experience
 - ❗	Identification of Pilot Applications
