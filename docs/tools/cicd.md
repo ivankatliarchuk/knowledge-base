@@ -40,6 +40,7 @@ published: true
 
 - [Kargo gitops](https://github.com/gofogo/kargo)
 - [Kubechecks](https://github.com/zapier/kubechecks)
+- [Info core](https://github.com/infro-io/infro-core/)
 
 <!-- resources -->
 
