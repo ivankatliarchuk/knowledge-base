@@ -36,10 +36,10 @@ published: true
 - [Argocd](https://argoproj.github.io/argo-cd/){:target="_blank"}
 - [Tekton](https://github.com/tektoncd){:target="_blank"}
 
-
 ## Gitops
 
 - [Kargo gitops](https://github.com/gofogo/kargo)
+- [Kubechecks](https://github.com/zapier/kubechecks)
 
 <!-- resources -->
 
