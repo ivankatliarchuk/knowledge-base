@@ -11,10 +11,12 @@ date: 27-Jan-2024
 ## FinOps
 
 - [Finout Org](https://learn.finops.org/)
+- [Finops Framework](https://www.finops.org/framework/)
 - [Finout](https://www.finout.io/)
 - [Apptio](https://www.apptio.com/)
 - [Vantage](https://www.vantage.sh/)
 - [Cloudbolt](https://www.cloudbolt.io/)
+- [CloudZero](https://www.cloudzero.com/blog/finops-resources)
 
 ### OpenSource project that could help
 
