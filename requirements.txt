@@ -34,7 +34,7 @@ Pygments==2.18.0
 pymdown-extensions==10.11.2
 Pyphen==0.15.0
 PyYAML==6.0.2
-regex==2024.9.11
+regex==2024.11.6
 six==1.16.0
 soupsieve==2.5
 tinycss2==1.4.0
