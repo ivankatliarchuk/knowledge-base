@@ -57,6 +57,7 @@ published: true
 - [Krossboard: Centralized Multi-Cluster Kubernetes Usage Accounting](https://github.com/rchakode/kube-opex-analytics)
 - [KubeCost: Cross-cloud cost allocation](https://github.com/kubecost/cost-model)
 - [KubeGreen](https://kube-green.dev/docs/getting-started/)
+- [Snorlax](https://github.com/moonbeam-nyc/snorlax)
 
 ## AWS Specific K8s Tooling
 
