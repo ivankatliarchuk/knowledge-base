@@ -15,6 +15,7 @@ published: true
 
 - [DB Veawer](https://dbeaver.io/download/)
 - [HeldiSQL](https://www.heidisql.com/)
+- [PgCat pooler](https://postgresml.org/docs/open-source/pgcat/#pg-cat-pooler)
 - [MyWebSQL MySQL, SQLite and PostgreSQL](http://mywebsql.net/)
 - [OmniDB WEB](https://github.com/OmniDB/OmniDB)
 - [Top 20](https://www.guru99.com/top-20-sql-management-tools.html)
