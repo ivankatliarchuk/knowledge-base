@@ -27,7 +27,7 @@ published: true
 - [SchetchWoW 💲💲](https://sketchwow.com/){:target="_blank"}
 - [Figjam: notes, mind maps, customer](https://www.figma.com/figjam/){:target="_blank"}
 - [Mural](https://www.mural.co/templates){:target="_blank"}
-- [Excalidraw is a virtual collaborative whiteboard](https://excalidraw.com/){:target="_blank"}
+- [Excalidraw !!! is a virtual collaborative whiteboard](https://excalidraw.com/){:target="_blank"}
 
 ## Agile Practices
 
@@ -35,7 +35,7 @@ published: true
 - [Easy Retro](https://easyretro.io/){:target="_blank"}
 - [Trello](https://trello.com/){:target="_blank"}
 - [Idea Boards](https://ideaboardz.com/){:target="_blank"}
-- [Metro Retro](https://metroretro.io/){:target="_blank"}
+- [Metro Retro. Paid](https://metroretro.io/){:target="_blank"}
 
 <!-- resources -->
 
