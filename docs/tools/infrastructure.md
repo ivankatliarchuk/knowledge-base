@@ -19,7 +19,6 @@ published: true
 - [Structure tests](https://github.com/GoogleContainerTools/container-structure-test)
 - [Bats: infrastructure automation testing](https://github.com/bats-core/bats-core)
 - [Conftest: test sctuctured data](https://www.conftest.dev/)
-- [OPA: open policy agent](https://www.openpolicyagent.org/docs/latest/policy-testing/)
 
 ### Docker Security
 
@@ -58,3 +57,14 @@ published: true
 
 - [kafka ui](https://github.com/provectus/kafka-ui)
 - [kafka virtualization](https://softwaremill.com/kafka-visualisation/)
+
+## Policy as Code
+
+- [OPA: open policy agent](https://www.openpolicyagent.org/docs/latest/policy-testing/)
+- [Kuverno: kubernetes policy engine](https://kyverno.io/#td-block-1)
+
+## 
+
+- [Hyperproof](https://hyperproof.io/)
+- [Kosli](https://github.com/kosli-dev)
+- [Hyperproff alternatives](https://www.g2.com/products/hyperproof/competitors/alternatives)

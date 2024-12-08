@@ -18,8 +18,8 @@ published: true
 *System Planning Lifecycle*
 
 - [X] *Define High Level Requirements*
-- [X] *Defin High Level Infrastructure Design*
-- [X] *Defin Business Requirements*
+- [X] *Define High Level Infrastructure Design*
+- [X] *Define Business Requirements*
 - [X] *Define Non-Functional Reqiurements*
 - [X] *Define Performance Requirements*
 - [X] *Define Data Storage Requirements*
