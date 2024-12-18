@@ -26,7 +26,7 @@ published: true
 
 - [Flyway](https://flywaydb.org/)
 - [Liquibase](https://www.liquibase.org/)
-- [Atlasgo](https://atlasgo.io/)
+- [Atlasgo: manage databases on kubernetes](https://atlasgo.io/)
 
 ## Database Migrations/Synchronizations
 
