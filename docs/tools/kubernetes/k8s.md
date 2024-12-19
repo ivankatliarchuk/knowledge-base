@@ -50,7 +50,7 @@ published: true
 - [Helm Tenkai](https://github.com/softplan/tenkai)
 - [Kiali Service Mesh UI](https://kiali.io/)
 
-## Kubernetes Costs
+## Kubernetes Costs & Optimisation
 
 - [K8s cost optimisation](https://github.com/ivankatliarchuk/kubetools?tab=readme-ov-file#cost-optimisation)
 - [OpenCost](http://opencost.io/)
@@ -58,6 +58,7 @@ published: true
 - [KubeCost: Cross-cloud cost allocation](https://github.com/kubecost/cost-model)
 - [KubeGreen](https://kube-green.dev/docs/getting-started/)
 - [Snorlax](https://github.com/moonbeam-nyc/snorlax)
+- [K8s Cleaner](https://github.com/ik-infrastructure-testing/k8s-cleaner-fork)
 
 ## AWS Specific K8s Tooling
 
