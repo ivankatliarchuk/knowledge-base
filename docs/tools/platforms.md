@@ -37,6 +37,7 @@ published: true
 - [SpinKube: platform](https://www.spinkube.dev/docs/topics/packaging/)
 - [Fermyon: platform](https://developer.fermyon.com/)
 - [Komodor: platform based on kuberenetes](https://komodor.com/)
+- [Akuity Platform](https://docs.akuity.io)
 
 ### Platform Playbooks and Docs
 
