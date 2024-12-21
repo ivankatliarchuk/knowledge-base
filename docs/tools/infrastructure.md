@@ -62,9 +62,3 @@ published: true
 
 - [OPA: open policy agent](https://www.openpolicyagent.org/docs/latest/policy-testing/)
 - [Kuverno: kubernetes policy engine](https://kyverno.io/#td-block-1)
-
-## 
-
-- [Hyperproof](https://hyperproof.io/)
-- [Kosli](https://github.com/kosli-dev)
-- [Hyperproff alternatives](https://www.g2.com/products/hyperproof/competitors/alternatives)

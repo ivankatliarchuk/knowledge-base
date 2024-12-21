@@ -65,3 +65,9 @@ date: 2021-04-18
 ## Distro
 
 - [Distributions](https://helpdeskgeek.com/linux-tips/9-best-linux-distros-for-hacking/)
+
+## Compliance Tools
+
+- [Hyperproof](https://hyperproof.io/)
+- [Kosli](https://github.com/kosli-dev)
+- [Hyperproff alternatives](https://www.g2.com/products/hyperproof/competitors/alternatives)
