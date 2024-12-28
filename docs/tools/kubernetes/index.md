@@ -14,3 +14,8 @@ date: 14-10-2022
 ## Kubernetes Observability
 
 - [Kubernetes UI focused on extensibility](https://headlamp.dev/)
+
+## Local Development
+
+- [Kind: kubernetes](https://kind.sigs.k8s.io/)
+- [K8s: kubernetes](https://k3s.io/)
