@@ -19,3 +19,7 @@ date: 14-10-2022
 
 - [Kind: kubernetes](https://kind.sigs.k8s.io/)
 - [K8s: kubernetes](https://k3s.io/)
+
+## AI on kubernetes
+
+- [AI comyui on eks](https://github.com/aws-samples/comfyui-on-eks)
