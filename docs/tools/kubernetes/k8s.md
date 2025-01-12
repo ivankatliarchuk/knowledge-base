@@ -33,6 +33,7 @@ published: true
 - [Loghous/Papertrail](https://github.com/flant/loghouse)
 - [Kubernets Web UI Dashboard official](https://github.com/kubernetes/dashboard)
 - [Kubernets Karpor web UI](https://github.com/ik-kubernetes/karpor-kubernets-ui-fork)
+- [Kubernetes UI focused on extensibility. Headlamp](https://headlamp.dev/)
 
 ## Logging & Monitoring command liners
 
