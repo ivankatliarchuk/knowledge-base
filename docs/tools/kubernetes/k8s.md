@@ -34,6 +34,7 @@ published: true
 - [Kubernets Web UI Dashboard official](https://github.com/kubernetes/dashboard)
 - [Kubernets Karpor web UI](https://github.com/ik-kubernetes/karpor-kubernets-ui-fork)
 - [Kubernetes UI focused on extensibility. Headlamp](https://headlamp.dev/)
+- [Kubernetes Dashboard in Terminal](https://everettraven.github.io/buoy/#/)
 
 ## Logging & Monitoring command liners
 
