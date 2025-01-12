@@ -31,6 +31,8 @@ published: true
 - [Node Problem Detector](https://github.com/kubernetes/node-problem-detector/blob/master/README.md)
 - [GKE Monitoring](https://github.com/ik-kubernetes/gke-monitoring-tutorial)
 - [Loghous/Papertrail](https://github.com/flant/loghouse)
+- [Kubernets Web UI Dashboard official](https://github.com/kubernetes/dashboard)
+- [Kubernets Karpor web UI](https://github.com/ik-kubernetes/karpor-kubernets-ui-fork)
 
 ## Logging & Monitoring command liners
 
