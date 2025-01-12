@@ -30,6 +30,7 @@ published: true
 - [Banzaicloud: logging exporter](https://github.com/banzaicloud/logging-operator)
 - [Banzaicloud(Hashicorp Vault): bank-vaults](https://github.com/banzaicloud/bank-vaults)
 - [Namespace provisioner](https://github.com/mercedes-benz/namespace-provisioner)
+- [Kuperator: Manage k8s resources effectively with risk under control. ](https://github.com/KusionStack/kuperator)
 
 ## Kubernetes Controllers
 

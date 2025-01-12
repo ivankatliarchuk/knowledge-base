@@ -59,6 +59,7 @@ published: true
 - [KubeGreen](https://kube-green.dev/docs/getting-started/)
 - [Snorlax](https://github.com/moonbeam-nyc/snorlax)
 - [K8s Cleaner](https://github.com/ik-infrastructure-testing/k8s-cleaner-fork)
+- [Kube Downscaler](https://github.com/hjacobs/kube-downscaler)
 
 ## AWS Specific K8s Tooling
 
