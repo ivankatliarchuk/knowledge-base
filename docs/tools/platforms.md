@@ -38,6 +38,7 @@ published: true
 - [Fermyon: platform](https://developer.fermyon.com/)
 - [Komodor: platform based on kuberenetes](https://komodor.com/)
 - [Akuity Platform](https://docs.akuity.io)
+- [Kusion Platform](https://github.com/ik-platform/kusion-platform-fork/)
 
 ### Platform Playbooks and Docs
 
