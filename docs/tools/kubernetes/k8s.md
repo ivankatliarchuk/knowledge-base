@@ -64,6 +64,7 @@ published: true
 - [Snorlax](https://github.com/moonbeam-nyc/snorlax)
 - [K8s Cleaner](https://github.com/ik-infrastructure-testing/k8s-cleaner-fork)
 - [Kube Downscaler](https://github.com/hjacobs/kube-downscaler)
+- [Kube Startup CPU boost](https://github.com/google/kube-startup-cpu-boost)
 
 ## AWS Specific K8s Tooling
 
