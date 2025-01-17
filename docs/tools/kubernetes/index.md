@@ -15,6 +15,9 @@ date: 14-10-2022
 
 - [Kind: kubernetes](https://kind.sigs.k8s.io/)
 - [K8s: kubernetes](https://k3s.io/)
+- [k0s: zero friction kubernetes](https://github.com/k0sproject/k0s)
+- [k8s curl to create distributions](https://kurl.sh/docs/introduction/)
+- [embedded cluster](https://docs.replicated.com/vendor/embedded-overview)
 
 ## AI on kubernetes
 
