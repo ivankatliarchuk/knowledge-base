@@ -42,6 +42,7 @@ published: true
 - [Mermaid.live](https://mermaid.live)
 - [Mermaidflow](https://www.mermaidflow.app)
 - [MarkdownMonster](https://markdownmonster.west-wind.com)
+- [fontawesome](https://fontawesome.com/v4/)
 
 <!-- resources -->
 
