@@ -31,6 +31,7 @@ published: true
 - [Banzaicloud(Hashicorp Vault): bank-vaults](https://github.com/banzaicloud/bank-vaults)
 - [Namespace provisioner](https://github.com/mercedes-benz/namespace-provisioner)
 - [Kuperator: Manage k8s resources effectively with risk under control. ](https://github.com/KusionStack/kuperator)
+- [Kubernetes Security Profiles](https://github.com/kubernetes-sigs/security-profiles-operator/tree/main)
 
 ## Kubernetes Controllers
 
