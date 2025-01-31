@@ -37,6 +37,12 @@ published: true
 - [Idea Boards](https://ideaboardz.com/){:target="_blank"}
 - [Metro Retro. Paid](https://metroretro.io/){:target="_blank"}
 
+## Mermaid Diagrams
+
+- [Mermaid.live](https://mermaid.live)
+- [Mermaidflow](https://www.mermaidflow.app)
+- [MarkdownMonster](https://markdownmonster.west-wind.com)
+
 <!-- resources -->
 
 [creatly.com]: https://creately.com/blog/diagrams/aws-templates-for-architecture-diagrams/
