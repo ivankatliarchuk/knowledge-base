@@ -17,10 +17,13 @@ published: true
 - [Terraform Landscape: improve Terraform's plan output to be easier to read and understand][terr-landscape]{:target="_blank"}
 - [Terraspace: provides an organized structure, conventions over configurations, keeps your code DRY](https://terraspace.cloud/){:target="_blank"}
 
-## Misconfiguration
+## Infrastructure Testing for incorrect setup
 
 - [Checkov: Static Code IoC Analytics toole][checkov]{:target="_blank"}
 - [Geodesic: is the fastest way to get up and running with a rock solid, production grade cloud platform](https://github.com/cloudposse/geodesic)
+- [Kicks](https://docs.kics.io/latest/getting-started/#scan_examples)
+- [TfLint](https://github.com/terraform-linters/tflint)
+- [Trivy](https://github.com/ik-security/trivy-fork)
 
 ## Testing
 

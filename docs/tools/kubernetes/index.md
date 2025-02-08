@@ -2,7 +2,7 @@
 title: kubernetes
 summary: cuber-sec tooling
 authors: ["ivan k"]
-tags: ["kubernetes", "k8s"]
+tags: ["kubernetes", "k8s", "ai", "machine-learning"]
 date: 14-10-2022
 ---
 
@@ -19,6 +19,8 @@ date: 14-10-2022
 - [k8s curl to create distributions](https://kurl.sh/docs/introduction/)
 - [embedded cluster](https://docs.replicated.com/vendor/embedded-overview)
 
-## AI on kubernetes
+## AI, LLM and Machine learning on kubernetes
 
 - [AI comyui on eks](https://github.com/aws-samples/comfyui-on-eks)
+- [kubeflow](https://github.com/kubeflow)
+- [llama on k8s](https://docs.lambdalabs.com/education/large-language-models/k8s-ollama-llama-3-2/)
