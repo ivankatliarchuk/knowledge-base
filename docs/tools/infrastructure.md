@@ -27,6 +27,7 @@ published: true
 - [Trivy](https://github.com/aquasecurity/trivy)
 - [Bane](https://github.com/genuinetools/bane)
 - [Dockle](https://github.com/goodwithtech/dockle)
+- [SigStore](https://www.sigstore.dev/)
 
 ### Docker Images
 
