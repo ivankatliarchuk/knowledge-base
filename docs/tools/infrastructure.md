@@ -27,7 +27,12 @@ published: true
 - [Trivy](https://github.com/aquasecurity/trivy)
 - [Bane](https://github.com/genuinetools/bane)
 - [Dockle](https://github.com/goodwithtech/dockle)
+
+## Sign Binaries
+
 - [SigStore: sign binaries](https://www.sigstore.dev/)
+- [Vsign: sign CLI and SDK](https://github.com/ik-security/vsign-code-sign-fork)
+- [PDFSigne: fork](https://github.com/ik-security/pdfsign-fork)
 
 ### Docker Images
 
