@@ -50,6 +50,8 @@ published: true
 
 - [Supply chain security toolkit](https://www.jetstack.io/software-supply-chain/#overview)
 - [Secure Pipelines](https://github.com/ik-security/blueprint-securesoftwarepipeline)
+- [Google: supply chain security SLSA](https://cloud.google.com/blog/products/application-development/google-introduces-slsa-framework)
+- [Monzo: supply chain security](https://monzo.com/blog/securing-our-software-supply-chain-better-with-reproducible-builds-for)
 
 <!-- resources -->
 [awesome-sysadmin]: https://github.com/kahun/awesome-sysadmin
