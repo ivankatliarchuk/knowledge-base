@@ -27,4 +27,4 @@ date: 14-10-2022
 
 ## Resource Orchestrators
 
-- [Kro: resource orchestrator](https://github.com/kro-run/kro)
+- [Kro: k8s resource orchestrator](https://github.com/kro-run/kro)
