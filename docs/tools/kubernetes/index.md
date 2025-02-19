@@ -24,6 +24,7 @@ date: 14-10-2022
 - [AI comyui on eks](https://github.com/aws-samples/comfyui-on-eks)
 - [kubeflow](https://github.com/kubeflow)
 - [llama on k8s](https://docs.lambdalabs.com/education/large-language-models/k8s-ollama-llama-3-2/)
+- [RAI: just a lot of docs](https://docs.ray.io/en/latest/ray-more-libs/index.html)
 
 ## Resource Orchestrators
 
