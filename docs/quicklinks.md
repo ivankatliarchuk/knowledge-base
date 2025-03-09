@@ -59,6 +59,8 @@ date: 2021-04-25
 - [Gemini](https://gemini.google.com/app/){:target="_blank"}
 - [Claude](https://claude.ai/chats){:target="_blank"}
 
+- [Napkin AI: visuals from text](https://www.napkin.ai/){:target="_blank"}
+- [MD AI: markdown edits](https://mdedit.ai/){:target="_blank"}
 - [Synthesia (create videos from plain text in minutes)](https://www.synthesia.io/){:target="_blank"}
 - [Descript (edit video and podcasts with AI)](https://www.descript.com/){:target="_blank"}
 - [Murf.ai (real people voices)](https://murf.ai/){:target="_blank"}
