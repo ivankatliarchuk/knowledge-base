@@ -29,7 +29,7 @@ jobs:
       with:
         fetch-depth: 1
     # run markdown linter
-    # - uses: gaurav-nelson/github-action-markdown-link-check@1.0.15
+    # - uses: gaurav-nelson/github-action-markdown-link-check@1.0.17
     # todo https://github.com/peter-evans/link-checker
     - name: link checker
       id: lychee
