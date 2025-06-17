@@ -21,6 +21,9 @@ date: 14-10-2022
 
 - [Track Development Changes](https://crashoverride.com/open-source)
 - [Container signing. Trust](https://www.docker.com/blog/signing-docker-official-images-using-openpubkey/)
+- [Container image singing](https://kubernetes.io/blog/2023/06/29/container-image-signature-verification/)
+- [Verify image signatures](https://kubernetes.io/docs/tasks/administer-cluster/verify-signed-artifacts/)
+- [Sysdig signature verification](https://sysdig.com/blog/secure-kubernetes-deployment-signature-verification/)
 - [Open Pub Key](https://github.com/openpubkey/openpubkey)
 
 ## Containers
