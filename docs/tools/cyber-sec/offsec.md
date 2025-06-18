@@ -44,6 +44,8 @@ date: 2021-04-18
 - [Scout suite](https://github.com/nccgroup/ScoutSuite)
 - [CS suite](https://github.com/SecurityFTW/cs-suite)
 - [Prowler](https://github.com/ik-security/prowler)
+- [Packbot](https://github.com/tmobile/pacbot)
+- [Hubot](https://hubot.github.com/)
 - [AWS Inventory](https://github.com/nccgroup/aws-inventory)
 - [AWS Iam: clouds planning](https://github.com/salesforce/cloudsplaining)
 - [Audit page](./audit.md)
