@@ -46,6 +46,8 @@ date: 2021-04-18
 - [Prowler](https://github.com/ik-security/prowler)
 - [Packbot](https://github.com/tmobile/pacbot)
 - [Hubot](https://hubot.github.com/)
+- [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)
+- [Threat](https://github.com/deepfence/ThreatMapper)
 - [AWS Inventory](https://github.com/nccgroup/aws-inventory)
 - [AWS Iam: clouds planning](https://github.com/salesforce/cloudsplaining)
 - [Audit page](./audit.md)
