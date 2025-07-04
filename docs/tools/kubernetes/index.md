@@ -26,6 +26,8 @@ date: 14-10-2022
 - [llama on k8s](https://docs.lambdalabs.com/education/large-language-models/k8s-ollama-llama-3-2/)
 - [RAI: just a lot of docs](https://docs.ray.io/en/latest/ray-more-libs/index.html)
 - [BentoAI: ML model](https://docs.bentoml.com/en/latest/get-started/hello-world.html)
+- [Dagger](https://docs.dagger.io/)
+- [Flyte](https://github.com/ik-artificial-ai/flyte-ml-fork)
 
 ## Resource Orchestrators
 

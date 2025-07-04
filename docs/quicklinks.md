@@ -74,7 +74,7 @@ date: 2021-04-25
 - [Canva: generate with ai](https://www.canva.com/){:target="_blank"}
 - [Build website with AI](https://www.mixo.io/){:target="_blank"}
 - [Build website with AI](https://durable.co/){:target="_blank"}
-- [Dagger](https://docs.dagger.io/)
+
 
 ### AI create music
 
