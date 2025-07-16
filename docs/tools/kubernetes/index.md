@@ -28,6 +28,7 @@ date: 14-10-2022
 - [BentoAI: ML model](https://docs.bentoml.com/en/latest/get-started/hello-world.html)
 - [Dagger](https://docs.dagger.io/)
 - [Flyte](https://github.com/ik-artificial-ai/flyte-ml-fork)
+- [AutoGpt](https://github.com/Significant-Gravitas/AutoGPT)
 
 ## Resource Orchestrators
 
