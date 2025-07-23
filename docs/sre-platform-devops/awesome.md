@@ -54,6 +54,7 @@ published: true
 - [CI/CD SLSA Dev](https://slsa.dev/)
 - [SLSA scribe end-to-end software supply chain](https://scribesecurity.com/)
 - [Monzo: supply chain security](https://monzo.com/blog/securing-our-software-supply-chain-better-with-reproducible-builds-for)
+- [Open Component Model](https://ocm.software/)
 
 <!-- resources -->
 [awesome-sysadmin]: https://github.com/kahun/awesome-sysadmin
