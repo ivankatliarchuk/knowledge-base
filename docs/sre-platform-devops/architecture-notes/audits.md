@@ -1,5 +1,5 @@
 ---
-title: audits documentation
+title: cyber security
 summary: technical audits
 authors: ["ivan k"]
 tags: ["architecture", "audit", "system", "cis", "soc", "aws", "cloud", "platform", "security", "cyber-sec", "siem"]
