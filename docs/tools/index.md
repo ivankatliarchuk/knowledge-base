@@ -2,7 +2,7 @@
 title: Tooling
 summary: Any tooling
 authors: ["ivan k"]
-tags: ["tools", "home automation", "api", "fixtures", "fake api", "mock api"]
+tags: ["tools", "home automation", "api", "fixtures", "fake api", "mock api", "specifications"]
 date: 2021-03-24
 ---
 
@@ -77,3 +77,9 @@ date: 2021-03-24
 - [Random Data](https://random-data-api.com/documentation)
 - [Mock API: mountbank](http://www.mbtest.org/)
 - [Mock API: mockae](https://mockae.com/)
+
+## Open Specifications
+
+- [Open Finops: specification that normalizes cost and usage datasets across cloud vendors](https://focus.finops.org/)
+- [Open Identity: Single Sign-On, Access Management, Identity Management, User-Managed Access, Directory Services, and Identity Gateway](https://www.openidentityplatform.org/)
+- [Open Component model: packaging, signing, transporting and deploying your artifacts](https://ocm.software/)
