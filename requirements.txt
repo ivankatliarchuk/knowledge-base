@@ -31,7 +31,7 @@ nltk==3.9.1
 Pillow==10.4.0
 pycparser==2.22
 Pygments==2.18.0
-pymdown-extensions==10.11.2
+pymdown-extensions==10.16.1
 Pyphen==0.15.0
 PyYAML==6.0.2
 regex==2024.9.11
