@@ -33,6 +33,10 @@ date: 14-10-2022
 - [Hugging Face: ai community building future](https://huggingface.co/)
 - [LM Studio: run on local machine](https://lmstudio.ai/)
 
+### CyberSecurity AI
+
+- [A lightweight, ergonomic framework for building bug bounty-ready Cybersecurity AIs (CAIs).](https://aliasrobotics.github.io/cai/)
+
 ## Resource Orchestrators
 
 - [Kro: k8s resource orchestrator](https://github.com/kro-run/kro)
