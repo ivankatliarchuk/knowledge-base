@@ -21,6 +21,7 @@ date: 14-10-2022
 
 ## AI, LLM and Machine learning on kubernetes
 
+- [AI awesome](https://github.com/ik-artificial-ai/awesome-artificial-intelligence-fork)
 - [AI comyui on eks](https://github.com/aws-samples/comfyui-on-eks)
 - [kubeflow](https://github.com/kubeflow)
 - [llama on k8s](https://docs.lambdalabs.com/education/large-language-models/k8s-ollama-llama-3-2/)
@@ -29,6 +30,8 @@ date: 14-10-2022
 - [Dagger](https://docs.dagger.io/)
 - [Flyte](https://github.com/ik-artificial-ai/flyte-ml-fork)
 - [AutoGpt](https://github.com/Significant-Gravitas/AutoGPT)
+- [Hugging Face: ai community building future](https://huggingface.co/)
+- [LM Studio: run on local machine](https://lmstudio.ai/)
 
 ## Resource Orchestrators
 
