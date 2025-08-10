@@ -28,11 +28,12 @@ published: true
 - [Bane](https://github.com/genuinetools/bane)
 - [Dockle](https://github.com/goodwithtech/dockle)
 
-## Sign Binaries
+## Signing Software Build Supply Chain security
 
 - [SigStore: sign binaries](https://www.sigstore.dev/)
 - [Vsign: sign CLI and SDK](https://github.com/ik-security/vsign-code-sign-fork)
-- [PDFSigne: fork](https://github.com/ik-security/pdfsign-fork)
+- [PDFSign: fork](https://github.com/ik-security/pdfsign-fork)
+- [Syft: library for generating a Software Bill of Materials (supply chain, slsa)](https://github.com/ik-security/syft-software-scanning-fork)
 
 ### Docker Images
 

@@ -31,3 +31,8 @@ date: 14-10-2022
 - [OpenContainers](https://opencontainers.org/)
 - [Oci image spec](https://github.com/opencontainers/image-spec)
 - [Docker label schema convention](http://label-schema.org/rc1/)
+
+## Security Frameworks
+
+- [The Adobe Common Controls Framework (CFF)](https://www.adobe.com/trust/compliance/adobe-ccf.html)
+- [Threat Technique Catalog for AWS](https://aws-samples.github.io/threat-technique-catalog-for-aws/matrix.html)

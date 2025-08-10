@@ -66,7 +66,6 @@ date: 2021-04-18
 - [OpenVAS](https://github.com/greenbone/openvas-scanner)
 - [Linus](https://github.com/CISOfy/lynis)
 - [Grypt: vulnerability scanner for container images and filesystems ](https://github.com/ik-security/grype-image-scanning-fork)
-- [Syft: library for generating a Software Bill of Materials](https://github.com/ik-security/syft-software-scanning-fork)
 
 ## Distro
 
