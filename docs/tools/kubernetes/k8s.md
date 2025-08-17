@@ -201,6 +201,11 @@ published: true
 
 - [Infiscal: platform with secrets management](https://infisical.com)
 
+## Virtual Clusters (vcluster)
+
+- [Loft: Vcluster](https://github.com/ik-kubernetes/vcluster-fork)
+- [Kamaji: hosted controll plane](https://github.com/clastix/kamaji)
+
 ## K8S Drainer
 
 - [automatic-remediation-of-kubernetes-nodes](https://blog.cloudflare.com/automatic-remediation-of-kubernetes-nodes/)
