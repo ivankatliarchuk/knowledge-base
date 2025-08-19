@@ -32,6 +32,7 @@ date: 14-10-2022
 - [AutoGpt](https://github.com/Significant-Gravitas/AutoGPT)
 - [Hugging Face: ai community building future](https://huggingface.co/)
 - [LM Studio: run on local machine](https://lmstudio.ai/)
+- [Langfuse: Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets.](langfuse)
 
 ### CyberSecurity AI
 
