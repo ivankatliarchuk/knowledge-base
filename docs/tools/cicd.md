@@ -34,6 +34,7 @@ published: true
 - [GitKube: build and deploy docker images to Kubernetes using git push][gitkube]{:target="_blank"}
 - [Brigate: event-driven scripting for Kubernetes][brigade]{:target="_blank"}
 - [Argocd](https://argoproj.github.io/argo-cd/){:target="_blank"}
+- [Argocd: preview](https://github.com/dag-andersen/argocd-diff-preview)
 - [Tekton](https://github.com/tektoncd){:target="_blank"}
 
 ## Gitops
