@@ -33,6 +33,13 @@ date: 14-10-2022
 - [Hugging Face: ai community building future](https://huggingface.co/)
 - [LM Studio: run on local machine](https://lmstudio.ai/)
 - [Langfuse: Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets.](langfuse)
+- [Kodus AI: code review tool](https://github.com/ik-artificial-ai/kodus-ai-fork)
+
+### Paid AI solutions
+
+- [CodeRabbitAI](https://www.coderabbit.ai/)
+- [Graphite](https://graphite.dev/pricing)
+- [DosuBot](https://github.com/apps/dosubot)
 
 ### CyberSecurity AI
 
