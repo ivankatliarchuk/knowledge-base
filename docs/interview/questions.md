@@ -72,3 +72,21 @@ Debugged NCCL all-reduce failures in distributed training under pressure
 Root-caused VRAM fragmentation mid-inference
 Balanced batch + real-time AI workloads on the same fleet
 …then an NVIDIA interview will show you exactly where your DevOps muscle memory ends.
+
+## Kubernetes
+
+Here’s what I ask senior engineers:
+1. Walk me through what happens inside kube-proxy when IPVS rules vanish mid-traffic.
+→ Where does service routing actually break?
+2. You lose access to your Terraform remote state during a live deploy.
+→ How do you rebuild infra trust without downtime?
+3. Latency doubles for 15% of users post-canary. Logs and metrics are green.
+→ What is your first triage step, and why?
+4. How do you secure GitHub Actions pipelines against secret leaks and supply chain attacks?
+→ Be precise, not generic.
+5. Your HPA scales to max, but pods remain Pending despite node capacity.
+→ Where do you start debugging, cluster vs scheduler vs CNI?
+6. What is the blast radius if etcd suffers corruption in a multi-master control plane?
+→ Walk through recovery steps.
+7. Tell me about the last time you wrote or read a real RCA.
+→ If it ends with “we restarted the pod,” it isn’t one.
