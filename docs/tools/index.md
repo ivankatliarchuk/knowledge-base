@@ -2,17 +2,18 @@
 title: Tooling
 summary: Any tooling
 authors: ["ivan k"]
-tags: ["tools", "home automation", "api", "fixtures", "fake api", "mock api", "specifications"]
+tags: ["tools", "home automation", "api", "fixtures", "fake api", "mock api", "specifications", "idp"]
 date: 2021-03-24
 ---
 
 - [All sorts of tooling](https://github.com/cjbarber/ToolsOfTheTrade)
 
-## Platforms
+## Platforms & IDP
 
 - [Backstage](https://backstage.io/)
 - [Mech stack. Mechery platform](https://docs.meshery.io/)
 - [Port](https://www.getport.io/)
+- [OpenChoreo](https://github.com/openchoreo/openchoreo)
 
 ## Home Automation
 

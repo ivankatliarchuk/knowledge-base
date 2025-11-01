@@ -44,3 +44,7 @@
 [owasp-zaproxy-baseline-status]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/scan.zap-baseline.yml
 [lighthouse-badge]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/scan.lighthouse.yml/badge.svg
 [lighthouse-status]: https://github.com/ivankatliarchuk/knowledge-base/actions/workflows/scan.lighthouse.yml
+Gather security evidences for October GA
+- F1NFRA-4500
+- F1NFRA-4498
+- F1NFRA-4496
