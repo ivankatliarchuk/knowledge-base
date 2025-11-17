@@ -14,6 +14,7 @@ date: 2021-03-24
 - [Mech stack. Mechery platform](https://docs.meshery.io/)
 - [Port](https://www.getport.io/)
 - [OpenChoreo](https://github.com/openchoreo/openchoreo)
+- [Cortex](https://app.demo.cortex.io/admin/home?utm_source=demo-trial)
 
 ## Home Automation
 
