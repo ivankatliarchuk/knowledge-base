@@ -90,6 +90,12 @@ date: 2021-04-25
 
 - [Tome App presentations](https://beta.tome.app/){:target="_blank"}
 
+### AI Agents
+
+- [Open Agent Platform: langchain](https://github.com/langchain-ai/open-agent-platform)
+- [Dify: Production-ready platform for agentic workflow development](https://github.com/langgenius/dify)
+- [Sim: Open-source platform to build and deploy AI agent workflows](https://github.com/simstudioai/sim)
+- [AutoAgent](https://github.com/HKUDS/AutoAgent)
 
 ## Productivity
 
