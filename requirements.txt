@@ -1,5 +1,5 @@
 beautifulsoup4==4.12.3
-bracex==2.4
+bracex==2.6
 cairocffi==1.7.1
 CairoSVG==2.8.2
 cffi==1.16.0
