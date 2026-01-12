@@ -11,6 +11,7 @@ date: 2021-03-24
 ## Platforms & IDP
 
 - [Backstage](https://backstage.io/)
+- [Kubero](https://github.com/kubero-dev/kubero)
 - [Mech stack. Mechery platform](https://docs.meshery.io/)
 - [Port](https://www.getport.io/)
 - [OpenChoreo](https://github.com/openchoreo/openchoreo)
