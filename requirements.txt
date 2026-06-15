@@ -37,7 +37,7 @@ PyYAML==6.0.2
 regex==2024.9.11
 six==1.16.0
 soupsieve==2.5
-tinycss2==1.4.0
+tinycss2==1.5.1
 tornado==6.4.1
 tqdm==4.66.4
 wcmatch==10.0
